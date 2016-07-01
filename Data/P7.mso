@@ -1,0 +1,1540 @@
+X000010321200809240937-jpg.rar	msoversion2
+Well position in plate	Cocktail #	Commercial Code	Chemical Additive	Chemical Formula	Concentration	Chemical Additive	Concentration	pH	Chemical Additive	Concentration	Chemical Additive	Concentration
+1	8A_C0001		Ammonium bromide	NH4Br	3.56M	Tris	0.1 M	8					90
+2	8A_C0002		Ammonium bromide	NH4Br	3.56M	CAPS	0.1 M	10					90
+3	8A_C0003		Ammonium bromide	NH4Br	2.38M	Sodium Citrate	0.1 M	4.2					50
+4	8A_C0004		Ammonium bromide	NH4Br	2.38M	HEPES	0.1 M	7.5					90-5
+5	8A_C0005		Ammonium bromide	NH4Br	1.19M	Sodium Acetate	0.1 M	5					90
+6	8A_C0006		Ammonium bromide	NH4Br	1.19M	Bis-Tris Propane	0.1 M	7					90
+7	8A_C0007		Ammonium bromide	NH4Br	1.19M	TAPS	0.1 M	9					90
+8	8A_C0008		Ammonium chloride	NH4Cl	3.74M	Sodium Citrate	0.1 M	4.2					50-90
+9	8A_C0009		Ammonium chloride	NH4Cl	3.74M	Bis-Tris Propane	0.1 M	7					90
+10	8A_C0010		Ammonium chloride	NH4Cl	3.74M	HEPES	0.1 M	7.5					90
+11	8A_C0011		Ammonium chloride	NH4Cl	2.5M	Sodium Acetate	0.1 M	5					90-5
+12	8A_C0012		Ammonium chloride	NH4Cl	2.5M	TAPS	0.1 M	9					90
+13	8A_C0013		Ammonium chloride	NH4Cl	2.5M	CAPS	0.1 M	10					90
+14	8A_C0014		Ammonium chloride	NH4Cl	1.25M	MES	0.1 M	6					90
+15	8A_C0015		Ammonium chloride	NH4Cl	1.25M	Tris	0.1 M	8					90-5
+16	8A_C0016		Ammonium nitrate	NH4NO3	6.46M	Sodium Citrate	0.1 M	4.2					50
+17	8A_C0017		Ammonium nitrate	NH4NO3	6.46M	TAPS	0.1 M	9					50
+18	8A_C0018		Ammonium nitrate	NH4NO3	6.46M	CAPS	0.1 M	10					50
+19	8A_C0019		Ammonium nitrate	NH4NO3	3.23M	MES	0.1 M	6					90
+20	8A_C0020		Ammonium nitrate	NH4NO3	3.23M	Bis-Tris Propane	0.1 M	7					10
+21	8A_C0021		Ammonium nitrate	NH4NO3	3.23M	Tris	0.1 M	8					90
+22	8A_C0022		Ammonium phosphate-monobasic	NH4H2PO4	0.96M	Tris	0.1 M	8					10
+23	8A_C0023		Ammonium phosphate-monobasic	NH4H2PO4	1.92M	Sodium Citrate	0.1 M	4.2					90
+24	8A_C0024		Ammonium phosphate-monobasic	NH4H2PO4	1.92M	MES	0.1 M	6					10
+25	8A_C0025		Ammonium phosphate-monobasic	NH4H2PO4	1.92M	CAPS	0.1 M	10					90
+26	8A_C0026		Ammonium phosphate-monobasic	NH4H2PO4	0.96M	Sodium Acetate	0.1 M	5					10
+27	8A_C0027		Ammonium phosphate-monobasic	NH4H2PO4	0.96M	Bis-Tris Propane	0.1 M	7					10
+28	8A_C0028		Ammonium phosphate-monobasic	NH4H2PO4	0.96M	TAPS	0.1 M	9					10
+29	8A_C0029		Ammonium phosphate-dibasic	(NH4)2HPO4	2.13M	Bis-Tris Propane	0.1 M	7					50-0
+30	8A_C0030		Ammonium phosphate-dibasic	(NH4)2HPO4	3.2M	Tris	0.1 M	8					60
+31	8A_C0031		Ammonium phosphate-dibasic	(NH4)2HPO4	3.2M	TAPS	0.1 M	9					50
+32	8A_C0032		Ammonium phosphate-dibasic	(NH4)2HPO4	2.13M	MES	0.1 M	6					50
+33	8A_C0033		Ammonium phosphate-dibasic	(NH4)2HPO4	2.13M	HEPES	0.1 M	7.5					25
+34	8A_C0034		Ammonium phosphate-dibasic	(NH4)2HPO4	1.07M	Sodium Citrate	0.1 M	4.2					50
+35	8A_C0035		Ammonium phosphate-dibasic	(NH4)2HPO4	1.07M	Sodium Acetate	0.1 M	5					10
+36	8A_C0036		Ammonium phosphate-dibasic	(NH4)2HPO4	1.07M	TAPS	0.1 M	9					10
+37	8A_C0037		Ammonium sulfate	(NH4)2SO4	3.42M	Sodium Citrate	0.1 M	4.2					50
+38	8A_C0038		Ammonium sulfate	(NH4)2SO4	3.42M	Sodium Acetate	0.1 M	5					50
+39	8A_C0039		Ammonium sulfate	(NH4)2SO4	3.42M	Bis-Tris Propane	0.1 M	7					10
+40	8A_C0040		Ammonium sulfate	(NH4)2SO4	2.28M	HEPES	0.1 M	7.5					50
+41	8A_C0041		Ammonium sulfate	(NH4)2SO4	2.28M	Tris	0.1 M	8					0
+42	8A_C0042		Ammonium sulfate	(NH4)2SO4	1.14M	MES	0.1 M	6					10
+43	8A_C0043		Ammonium sulfate	(NH4)2SO4	1.14M	TAPS	0.1 M	9					5
+44	8A_C0044		Ammonium sulfate	(NH4)2SO4	1.14M	CAPS	0.1 M	10					10
+45	8A_C0045		Calcium acetate	Ca(C2H3O2)2	1.09M	Bis-Tris Propane	0.1 M	7					10
+46	8A_C0046		Calcium acetate	Ca(C2H3O2)2	0.55M	MES	0.1 M	6					5
+47	8A_C0047		Calcium acetate	Ca(C2H3O2)2	0.55M	Sodium Acetate	0.1 M	5					10
+48	8A_C0048		Calcium chloride dihydrate	CaCl2*2H2O	3.57M	Sodium Acetate	0.1 M	5					10
+49	8A_C0049	HR Crystal Screen Cryo - 1	Calcium chloride dihydrate		0.02M	Sodium Acetate trihydrate	0.1 M	4.6	"2-Methyl-2,4-pentanediol"	30% (v/v)			50
+50	8A_C0050	HR Crystal Screen Cryo - 2	Potassium sodium tartrate tetrahydrate		0.26M				Glycerol Anhydrous	35% (v/v)			10
+51	8A_C0051	HR Crystal Screen Cryo - 3	Ammonium phosphate monobasic		0.26M				Glycerol Anhydrous	35% (v/v)			10
+52	8A_C0052		Lithium bromide	LiBr	5.6M	Sodium Acetate	0.1 M	5					10
+53	8A_C0053		Lithium bromide	LiBr	5.6M	Sodium Citrate	0.1 M	4.2					10
+54	8A_C0054		Lithium bromide	LiBr	3.73M	MES	0.1 M	6					10
+55	8A_C0055		Lithium bromide	LiBr	3.73M	Bis-Tris Propane	0.1 M	7					10
+56	8A_C0056		Lithium bromide	LiBr	1.87M	Sodium Citrate	0.1 M	4.2					50-0
+57	8A_C0057		Lithium bromide	LiBr	1.87M	Tris	0.1 M	8					10
+58	8A_C0058		Lithium bromide	LiBr	1.87M	TAPS	0.1 M	9					5
+59	8A_C0059		Lithium chloride	LiCl	6.62M	Sodium Acetate	0.1 M	5					50
+60	8A_C0060		Lithium chloride	LiCl	6.62M	HEPES	0.1 M	7.5					10
+61	8A_C0061		Lithium chloride	LiCl	6.62M	CAPS	0.1 M	10					10
+62	8A_C0062		Lithium chloride	LiCl	4.42M	MES	0.1 M	6					90
+63	8A_C0063		Lithium chloride	LiCl	4.42M	Bis-Tris Propane	0.1 M	7					10
+64	8A_C0064		Lithium chloride	LiCl	4.42M	Tris	0.1 M	8					90
+65	8A_C0065		Lithium chloride	LiCl	2.21M	Sodium Citrate	0.1 M	4.2					90
+66	8A_C0066		Lithium chloride	LiCl	2.21M	TAPS	0.1 M	9					90
+67	8A_C0067		Magnesium acetate	Mg(C2H3O2)2*4H2O	2.69M	Bis-Tris Propane	0.1 M	7					90
+68	8A_C0068		Magnesium acetate	Mg(C2H3O2)2*4H2O	2.69M	TAPS	0.1 M	9					90
+69	8A_C0069		Magnesium acetate	Mg(C2H3O2)2*4H2O	1.79M	Sodium Citrate	0.1 M	4.2					90
+70	8A_C0070		Magnesium acetate	Mg(C2H3O2)2*4H2O	1.79M	MES	0.1 M	6					90
+71	8A_C0071		Magnesium acetate	Mg(C2H3O2)2*4H2O	1.79M	Tris	0.1 M	8					90
+72	8A_C0072		Magnesium acetate	Mg(C2H3O2)2*4H2O	0.9M	Sodium Acetate	0.1 M	5					10
+73	8A_C0073		Magnesium acetate	Mg(C2H3O2)2*4H2O	0.9M	Bis-Tris Propane	0.1 M	7					90
+74	8A_C0074		Magnesium chloride hexahydrate	MgCl2*6H2O	3.73M	Sodium Acetate	0.1 M	5					10
+75	8A_C0075		Magnesium chloride hexahydrate	MgCl2*6H2O	3.73M	Sodium Citrate	0.1 M	4.2					25
+76	8A_C0076		Magnesium chloride hexahydrate	MgCl2*6H2O	2.48M	HEPES	0.1 M	7.5					90
+77	8A_C0077		Magnesium chloride hexahydrate	MgCl2*6H2O	2.48M	Tris	0.1 M	8					90
+78	8A_C0078		Magnesium chloride hexahydrate	MgCl2*6H2O	1.24M	Sodium Citrate	0.1 M	4.2					50-90
+79	8A_C0079		Magnesium chloride hexahydrate	MgCl2*6H2O	1.24M	MES	0.1 M	6					10
+80	8A_C0080		Magnesium chloride hexahydrate	MgCl2*6H2O	1.24M	Bis-Tris Propane	0.1 M	7					90
+81	8A_C0081		Magnesium sulfate heptahydrate	MgSO4*7H2O	1.59M	TAPS	0.1 M	9					10
+82	8A_C0082		Magnesium sulfate heptahydrate	MgSO4*7H2O	1.59M	Tris	0.1 M	8					10
+83	8A_C0083		Magnesium sulfate heptahydrate	MgSO4*7H2O	1.06M	Bis-Tris Propane	0.1 M	7					10
+84	8A_C0084		Magnesium sulfate heptahydrate	MgSO4*7H2O	0.53M	Sodium Acetate	0.1 M	5					10
+85	8A_C0085		Magnesium sulfate heptahydrate	MgSO4*7H2O	0.53M	HEPES	0.1 M	7.5					10
+86	8A_C0086		Magnesium sulfate heptahydrate	MgSO4*7H2O	0.53M	Tris	0.1 M	8					10
+87	8A_C0087		Manganese chloride	MnCl2	3.82M	Sodium Citrate	0.1 M	4.2					5
+88	8A_C0088		Manganese chloride	MnCl2	3.82M	Tris	0.1 M	8					10
+89	8A_C0089		Manganese chloride	MnCl2	3.82M	Sodium Acetate	0.1 M	5					10
+90	8A_C0090		Manganese chloride	MnCl2	2.54M	Sodium Acetate	0.1 M	5					10
+91	8A_C0091		Manganese chloride	MnCl2	2.54M	Sodium Citrate	0.1 M	4.2					10
+92	8A_C0092		Manganese chloride	MnCl2	1.27M	Sodium Citrate	0.1 M	4.2					90
+93	8A_C0093		Manganese chloride	MnCl2	1.27M	Sodium Acetate	0.1 M	5					90
+94	8A_C0094		Potassium acetate	KC2H3O2	8.64M	Tris	0.1 M	8					50-0
+95	8A_C0095		Potassium acetate	KC2H3O2	8.64M	TAPS	0.1 M	9					50
+96	8A_C0096		Potassium acetate	KC2H3O2	5.76M	Sodium Citrate	0.1 M	4.2					50
+97	8A_C0097		Potassium acetate	KC2H3O2	5.76M	Sodium Acetate	0.1 M	5					50
+98	8A_C0098		Potassium acetate	KC2H3O2	5.76M	HEPES	0.1 M	7.5					50
+99	8A_C0099		Potassium acetate	KC2H3O2	2.88M	MES	0.1 M	6					90-5
+100	8A_C0100		Potassium acetate	KC2H3O2	2.88M	Bis-Tris Propane	0.1 M	7					90
+101	8A_C0101		Potassium acetate	KC2H3O2	2.88M	CAPS	0.1 M	10					90
+102	8A_C0102		Potassium bromide	KBr	4M	Sodium Acetate	0.1 M	5					50
+103	8A_C0103		Potassium bromide	KBr	4M	Tris	0.1 M	8					25-50
+104	8A_C0104		Potassium bromide	KBr	2.66M	MES	0.1 M	6					90
+105	8A_C0105		Potassium bromide	KBr	2.66M	Bis-Tris Propane	0.1 M	7					5
+106	8A_C0106		Potassium bromide	KBr	2.66M	CAPS	0.1 M	10					10
+107	8A_C0107		Potassium bromide	KBr	1.33M	Sodium Citrate	0.1 M	4.2					50-0
+108	8A_C0108		Potassium bromide	KBr	1.33M	HEPES	0.1 M	7.5					90
+109	8A_C0109		Potassium bromide	KBr	1.33M	TAPS	0.1 M	9					90
+110	8A_C0110		Potassium carbonate	K2CO3	2.54M	Sodium Citrate	0.1 M	4.2					10
+111	8A_C0111		Potassium carbonate	K2CO3	2.54M	Bis-Tris Propane	0.1 M	7					50
+112	8A_C0112		Potassium carbonate	K2CO3	2.54M	Tris	0.1 M	8					50
+113	8A_C0113		Potassium carbonate	K2CO3	1.69M	Sodium Acetate	0.1 M	5					50
+114	8A_C0114		Potassium carbonate	K2CO3	1.69M	HEPES	0.1 M	7.5					25-50
+115	8A_C0115		Potassium carbonate	K2CO3	1.69M	TAPS	0.1 M	9					50
+116	8A_C0116		Potassium carbonate	K2CO3	0.85M	MES	0.1 M	6					50-0
+117	8A_C0117		Potassium carbonate	K2CO3	0.85M	CAPS	0.1 M	10					50
+118	8A_C0118		Potassium chloride	KCl	2.32M	Sodium Citrate	0.1 M	4.2					90
+119	8A_C0119		Potassium chloride	KCl	2.32M	Bis-Tris Propane	0.1 M	7					90
+120	8A_C0120		Potassium chloride	KCl	2.32M	HEPES	0.1 M	7.5					90-5
+121	8A_C0121		Potassium chloride	KCl	1.55M	MES	0.1 M	6					90
+122	8A_C0122		Potassium chloride	KCl	1.55M	Tris	0.1 M	8					90-5
+123	8A_C0123		Potassium chloride	KCl	1.55M	TAPS	0.1 M	9					90
+124	8A_C0124		Potassium chloride	KCl	0.77M	Sodium Acetate	0.1 M	5					90
+125	8A_C0125		Potassium chloride	KCl	0.77M	CAPS	0.1 M	10					90-5
+126	8A_C0126		Potassium nitrate	KNO3	0.88M	Sodium Acetate	0.1 M	5					90
+127	8A_C0127		Potassium nitrate	KNO3	0.88M	TAPS	0.1 M	9					90
+128	8A_C0128		Potassium nitrate	KNO3	0.88M	Tris	0.1 M	8					90
+129	8A_C0129		Potassium nitrate	KNO3	1.77M	Sodium Acetate	0.1 M	5					90
+130	8A_C0130		Potassium nitrate	KNO3	0.88M	Sodium Citrate	0.1 M	4.2					50-90
+131	8A_C0131		Potassium nitrate	KNO3	0.88M	HEPES	0.1 M	7.5					90
+132	8A_C0132		Potassium nitrate	KNO3	0.88M	CAPS	0.1 M	10					90
+133	8A_C0133		Potassium phosphate-monobasic	KH2PO4	1.28M	Tris	0.1 M	8					10
+134	8A_C0134		Potassium phosphate-monobasic	KH2PO4	0.85M	Bis-Tris Propane	0.1 M	7					5
+135	8A_C0135		Potassium phosphate-monobasic	KH2PO4	0.85M	HEPES	0.1 M	7.5					10
+136	8A_C0136		Potassium phosphate-monobasic	KH2PO4	0.85M	CAPS	0.1 M	10					10
+137	8A_C0137		Potassium phosphate-monobasic	KH2PO4	0.43M	Sodium Citrate	0.1 M	4.2					10
+138	8A_C0138		Potassium phosphate-monobasic	KH2PO4	0.43M	MES	0.1 M	6					10
+139	8A_C0139		Potassium phosphate-monobasic	KH2PO4	0.43M	TAPS	0.1 M	9					10
+140	8A_C0140		Potassium thiocyanate	KSCN	9.5M	Sodium Citrate	0.1 M	4.2					50
+141	8A_C0141		Potassium thiocyanate	KSCN	9.5M	MES	0.1 M	6					10
+142	8A_C0142		Potassium thiocyanate	KSCN	6.34M	Sodium Acetate	0.1 M	5					10
+143	8A_C0143		Potassium thiocyanate	KSCN	6.34M	Tris	0.1 M	8					10
+144	8A_C0144		Potassium thiocyanate	KSCN	6.34M	CAPS	0.1 M	10					10
+145	8A_C0145		Potassium thiocyanate	KSCN	3.17M	Bis-Tris Propane	0.1 M	7					10
+146	8A_C0146		Potassium thiocyanate	KSCN	3.17M	HEPES	0.1 M	7.5					10
+147	8A_C0147		Potassium thiocyanate	KSCN	3.17M	TAPS	0.1 M	9					10
+148	8A_C0148		Rubidium chloride	RbCl	2.85M	Sodium Acetate	0.1 M	5					10
+149	8A_C0149		Rubidium chloride	RbCl	1.9M	Sodium Citrate	0.1 M	4.2					90-5
+150	8A_C0150		Rubidium chloride	RbCl	1.9M	MES	0.1 M	6					90
+151	8A_C0151		Sodium bromide	NaBr	5.14M	Sodium Citrate	0.1 M	4.2					50
+152	8A_C0152		Sodium bromide	NaBr	5.14M	Sodium Acetate	0.1 M	5					50
+153	8A_C0153		Sodium bromide	NaBr	5.14M	MES	0.1 M	6					5
+154	8A_C0154		Sodium bromide	NaBr	3.43M	Bis-Tris Propane	0.1 M	7					10
+155	8A_C0155		Sodium bromide	NaBr	3.43M	HEPES	0.1 M	7.5					10
+156	8A_C0156		Sodium bromide	NaBr	3.43M	Tris	0.1 M	8					5
+157	8A_C0157		Sodium bromide	NaBr	1.71M	TAPS	0.1 M	9					90
+158	8A_C0158		Sodium bromide	NaBr	1.71M	CAPS	0.1 M	10					90
+159	8A_C0159		Sodium chloride	NaCl	4.48M	MES	0.1 M	6					10
+160	8A_C0160		Sodium chloride	NaCl	4.48M	HEPES	0.1 M	7.5					90
+161	8A_C0161	HR Crystal Screen Cryo - 25				Imidazole	0.07M	6.5	Sodium Acetate trihydrate 	0.7M	Glycerol Anhydrous	30% (v/v)	10
+162	8A_C0162		Sodium chloride	NaCl	2.99M	Sodium Citrate	0.1 M	4.2					50
+163	8A_C0163		Sodium chloride	NaCl	2.99M	Sodium Acetate	0.1 M	5					90-5
+164	8A_C0164		Sodium chloride	NaCl	1.49M	Bis-Tris Propane	0.1 M	7					90-5
+165	8A_C0165		Sodium chloride	NaCl	1.49M	Tris	0.1 M	8					90
+166	8A_C0166		Sodium chloride	NaCl	1.49M	TAPS	0.1 M	9					90
+167	8A_C0167		Sodium molybdate dihydrate	Na2MoO4*2H2O	2.03M	MES	0.1 M	6					50
+168	8A_C0168		Sodium molybdate dihydrate	Na2MoO4*2H2O	2.03M	HEPES	0.1 M	7.5					25-50
+169	8A_C0169		Sodium molybdate dihydrate	Na2MoO4*2H2O	1.35M	Bis-Tris Propane	0.1 M	7					25
+170	8A_C0170		Sodium molybdate dihydrate	Na2MoO4*2H2O	1.35M	TAPS	0.1 M	9					0
+171	8A_C0171		Sodium molybdate dihydrate	Na2MoO4*2H2O	0.68M	Sodium Citrate	0.1 M	4.2					10
+172	8A_C0172		Sodium molybdate dihydrate	Na2MoO4*2H2O	0.68M	Tris	0.1 M	8					10
+173	8A_C0173		Sodium molybdate dihydrate	Na2MoO4*2H2O	0.68M	CAPS	0.1 M	10					10
+174	8A_C0174		Sodium nitrate	NaNO3	3.9M	MES	0.1 M	6					90-5
+175	8A_C0175		Sodium nitrate	NaNO3	3.9M	HEPES	0.1 M	7.5					10
+176	8A_C0176		Sodium nitrate	NaNO3	2.6M	Sodium Acetate	0.1 M	5					90
+177	8A_C0177		Sodium nitrate	NaNO3	2.6M	Tris	0.1 M	8					50
+178	8A_C0178		Sodium nitrate	NaNO3	2.6M	TAPS	0.1 M	9					50
+179	8A_C0179		Sodium nitrate	NaNO3	1.3M	Sodium Citrate	0.1 M	4.2					50
+180	8A_C0180		Sodium nitrate	NaNO3	1.3M	Bis-Tris Propane	0.1 M	7					90
+181	8A_C0181		Sodium phosphate-monobasic	NaH2PO4*H2O	3.32M	Sodium Citrate	0.1 M	4.2					10
+182	8A_C0182		Sodium phosphate-monobasic	NaH2PO4*H2O	3.32M	Bis-Tris Propane	0.1 M	7					50-0
+183	8A_C0183		Sodium phosphate-monobasic	NaH2PO4*H2O	3.32M	TAPS	0.1 M	9					25-50
+184	8A_C0184		Sodium phosphate-monobasic	NaH2PO4*H2O	2.21M	MES	0.1 M	6					90
+185	8A_C0185		Sodium phosphate-monobasic	NaH2PO4*H2O	2.21M	HEPES	0.1 M	7.5					10
+186	8A_C0186		Sodium phosphate-monobasic	NaH2PO4*H2O	1.11M	Sodium Acetate	0.1 M	5					90-5
+187	8A_C0187		Sodium phosphate-monobasic	NaH2PO4*H2O	1.11M	Tris	0.1 M	8					10
+188	8A_C0188		Sodium phosphate-monobasic	NaH2PO4*H2O	1.11M	CAPS	0.1 M	10					10
+189	8A_C0189		Sodium thiosulfate pentahydrate	Na2S2O3*5H2O	2.83M	MES	0.1 M	6					50
+190	8A_C0190		Sodium thiosulfate pentahydrate	Na2S2O3*5H2O	2.83M	Tris	0.1 M	8					50
+191	8A_C0191		Sodium thiosulfate pentahydrate	Na2S2O3*5H2O	2.83M	TAPS	0.1 M	9					25-50
+192	8A_C0192		Sodium thiosulfate pentahydrate	Na2S2O3*5H2O	1.88M	Bis-Tris Propane	0.1 M	7					50
+193	8A_C0193		Sodium thiosulfate pentahydrate	Na2S2O3*5H2O	1.88M	TAPS	0.1 M	9					50-60
+194	8A_C0194		Sodium thiosulfate pentahydrate	Na2S2O3*5H2O	0.94M	MES	0.1 M	6					50
+195	8A_C0195		Sodium thiosulfate pentahydrate	Na2S2O3*5H2O	0.94M	CAPS	0.1 M	10					10
+196	8A_C0196		Sodium thiosulfate pentahydrate	Na2S2O3*5H2O	0.94M	HEPES	0.1 M	7.5					10
+197	8A_C0197		Zinc acetate	Zn(C2H3O2)2	1.18M	HEPES	0.1 M	7.5					10
+198	8A_C0198		Zinc acetate	Zn(C2H3O2)2	1.18M	Tris	0.1 M	8					10
+199	8A_C0199		Zinc acetate	Zn(C2H3O2)2	0.79M	Sodium Acetate	0.1 M	5					10
+200	8A_C0200		Zinc acetate	Zn(C2H3O2)2	0.79M	Tris	0.1 M	8					10
+201	8A_C0201		Zinc acetate	Zn(C2H3O2)2	0.39M	Sodium Acetate	0.1 M	5					5
+202	8A_C0202		Zinc acetate	Zn(C2H3O2)2	0.39M	MES	0.1 M	6					10
+203	8A_C0203		Potassium phosphate dibasic	K2HPO4	3.46M	MES	0.1 M	6					50
+204	8A_C0204		Potassium phosphate dibasic	K2HPO4	3.46M	HEPES	0.1 M	7.5					50
+205	8A_C0205		Potassium phosphate dibasic	K2HPO4	2.3M	Bis-Tris Propane	0.1 M	7					90
+206	8A_C0206		Potassium phosphate dibasic	K2HPO4	2.3M	TAPS	0.1 M	9					50
+207	8A_C0207		Potassium phosphate dibasic	K2HPO4	2.3M	Sodium Acetate	0.1 M	5					50
+208	8A_C0208		Potassium phosphate dibasic	K2HPO4	1.15M	Sodium Citrate	0.1 M	4.2					90
+209	8A_C0209		Potassium phosphate dibasic	K2HPO4	1.15M	Sodium Acetate	0.1 M	5					50
+210	8A_C0210		Potassium phosphate dibasic	K2HPO4	1.15M	Tris	0.1 M	8					90
+211	8A_C0211		Cobalt sulfate heptahydrate	CoSO4*7H2O	0.53M	Tris	0.1 M	8					10
+212	8A_C0212		Cobalt sulfate heptahydrate	CoSO4*7H2O	1.06M	TAPS	0.1 M	9					50
+213	8A_C0213		Cobalt sulfate heptahydrate	CoSO4*7H2O	0.53M	Sodium Acetate	0.1 M	5					10
+214	8A_C0214		Cobalt sulfate heptahydrate	CoSO4*7H2O	1.06M	Sodium Citrate	0.1 M	4.2					50
+215	8A_C0215		Cobalt sulfate heptahydrate	CoSO4*7H2O	1.06M	Sodium Acetate	0.1 M	5					10
+216	8A_C0216		Cobalt sulfate heptahydrate	CoSO4*7H2O	1.06M	Tris	0.1 M	8					10
+217	8A_C0217		Cobalt sulfate heptahydrate	CoSO4*7H2O	0.53M	MES	0.1 M	6					10
+218	8A_C0218		Cobalt sulfate heptahydrate	CoSO4*7H2O	0.53M	Bis-Tris Propane	0.1 M	7					10
+219	8A_C0219		Lithium sulfate monohydrate	Li2SO4*H2O	2.03M	MES	0.1 M	6					25-5
+220	8A_C0220		Lithium sulfate monohydrate	Li2SO4*H2O	1.35M	Sodium Citrate	0.1 M	4.2					25-50
+221	8A_C0221		Lithium sulfate monohydrate	Li2SO4*H2O	1.35M	HEPES	0.1 M	7.5					10
+222	8A_C0222		Lithium sulfate monohydrate	Li2SO4*H2O	0.68M	Sodium Acetate	0.1 M	5					10
+223	8A_C0223		Potassium phosphate-tribasic	K3PO4	3.05M	Sodium Citrate	0.1 M	4.2					50
+224	8A_C0224		Potassium phosphate-tribasic	K3PO4	3.05M	Tris	0.1 M	8					50
+225	8A_C0225		Potassium phosphate-tribasic	K3PO4	3.05M	TAPS	0.1 M	9					50
+226	8A_C0226		Potassium phosphate-tribasic	K3PO4	2.03M	Sodium Acetate	0.1 M	5					50
+227	8A_C0227		Potassium phosphate-tribasic	K3PO4	2.03M	Bis-Tris Propane	0.1 M	7					50
+228	8A_C0228		Ammonium thiocyanate	NH4SCN	8.1M	Sodium Citrate	0.1 M	4.2					50
+229	8A_C0229		Ammonium thiocyanate	NH4SCN	8.1M	Sodium Acetate	0.1 M	5					5
+230	8A_C0230		Ammonium thiocyanate	NH4SCN	5.4M	MES	0.1 M	6					10
+231	8A_C0231	HR Crystal Screen Cryo - 29				HEPES-Na	0.065M	7.5	Potassium Sodium Tartrate tetrahydrate	0.52M	Glycerol Anhydrous	35% (v/v)	10
+232	8A_C0232	HR Crystal Screen Cryo - 30	Ammonium sulfate		0.17M				PEG 8000	25.5% (w/v)	Glycerol Anhydrous	15% (v/v)	0
+233	8A_C0233		Ammonium thiocyanate	NH4SCN	2.7M	Bis-Tris Propane	0.1 M	7					10
+234	8A_C0234		Ammonium thiocyanate	NH4SCN	2.7M	HEPES	0.1 M	7.5					10
+235	8A_C0235		Ammonium thiocyanate	NH4SCN	2.7M	CAPS	0.1 M	10					90
+236	8A_C0236	HR Crystal Screen Cryo - 31	Ammonium Sulfate		0.17M				PEG 4000	25.5% (w/v)	Glycerol Anhydrous	15% (v/v)	50
+237	8A_C0237	HR Crystal Screen Cryo - 4				Tris Hydrochloride	0.075M	8.5	Glycerol Anhydrous	25% (v/v)			10
+238	8A_C0238		Ammonium bromide	NH4Br	0.1 M	CAPS	0.1 M	10	PEG 20000	20% (w/v)			10
+239	8A_C0239		Ammonium bromide	NH4Br	0.1 M	TAPS	0.1 M	9	PEG 20000	20% (w/v)			50
+240	8A_C0240		Ammonium bromide	NH4Br	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 20000	20% (w/v)			10
+241	8A_C0241		Ammonium bromide	NH4Br	0.1 M	HEPES	0.1 M	7.5	PEG 20000	20% (w/v)			10
+242	8A_C0242		Ammonium chloride	NH4Cl	0.1 M	MES	0.1 M	6	PEG 20000	20% (w/v)			10
+243	8A_C0243		Ammonium chloride	NH4Cl	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 20000	20% (w/v)			90
+244	8A_C0244		Ammonium nitrate	NH4NO3	0.1 M	MES	0.1 M	6	PEG 20000	20% (w/v)			10
+245	8A_C0245		Ammonium nitrate	NH4NO3	0.1 M	TAPS	0.1 M	9	PEG 20000	20% (w/v)			50
+246	8A_C0246		Ammonium phosphate-monobasic	NH4H2PO4	0.1 M	CAPS	0.1 M	10	PEG 20000	20% (w/v)			10
+247	8A_C0247		Ammonium phosphate-monobasic	NH4H2PO4	0.1 M	HEPES	0.1 M	7.5	PEG 20000	20% (w/v)			10
+248	8A_C0248		Ammonium phosphate-dibasic	(NH4)2HPO4	0.1 M	CAPS	0.1 M	10	PEG 20000	20% (w/v)			90
+249	8A_C0249		Ammonium sulfate	(NH4)2SO4	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 20000	20% (w/v)			90
+250	8A_C0250	HR Crystal Screen Cryo - 5	Sodium Citrate tribasic dihydrate		0.2 M	HEPES-Na	0.1 M	7.5	"2-Methyl-2,4-pentanediol"	30% (v/v)			10
+251	8A_C0251	HR Crystal Screen Cryo - 6	Magnesium Chloride hexahydrate		0.16 M	Tris Hydrochloride	0.08 M	8.5	PEG 4000	24% (w/v)	Glycerol Anhydrous	20% (v/v)	10
+252	8A_C0252	HR Crystal Screen Cryo - 7				Sodium Cacodylate trihydrate	0.07 M	6.5	Sodium Acetate trihydrate 	0.98M	Glycerol Anhydrous	30% (v/v)	10
+253	8A_C0253		Lithium bromide	LiBr	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 20000	20% (w/v)			50
+254	8A_C0254		Lithium bromide	LiBr	0.1 M	TAPS	0.1 M	9	PEG 20000	20% (w/v)			50
+255	8A_C0255		Lithium chloride	LiCl	0.1 M	TAPS	0.1 M	9	PEG 20000	20% (w/v)			50
+256	8A_C0256		Lithium chloride	LiCl	0.1 M	Sodium Acetate	0.1 M	5	PEG 20000	20% (w/v)			10
+257	8A_C0257		Lithium chloride	LiCl	0.1 M	CAPS	0.1 M	10	PEG 20000	20% (w/v)			10
+258	8A_C0258		Lithium chloride	LiCl	0.1 M	MES	0.1 M	6	PEG 20000	20% (w/v)			10
+259	8A_C0259		Magnesium acetate	Mg(C2H3O2)2*4H2O	0.1 M	TAPS	0.1 M	9	PEG 20000	20% (w/v)			50
+260	8A_C0260		Magnesium chloride hexahydrate	MgCl2*6H2O	0.1 M	Tris	0.1 M	8	PEG 20000	20% (w/v)			10
+261	8A_C0261		Magnesium chloride hexahydrate	MgCl2*6H2O	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 20000	20% (w/v)			90
+262	8A_C0262		Magnesium chloride hexahydrate	MgCl2*6H2O	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 20000	20% (w/v)			50
+263	8A_C0263	HR Crystal Screen Cryo - 8	Sodium Citrate tribasic dihydrate		0.14 M	Sodium Cacodylate trihydrate	0.07 M 	6.5	Iso-Propanol	21% (v/v)	Glycerol Anhydrous	30% (v/v)	10
+264	8A_C0264		Manganese chloride	MnCl2	0.1 M	MES	0.1 M	6	PEG 20000	20% (w/v)			10
+265	8A_C0265		Manganese chloride	MnCl2	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 20000	20% (w/v)			10
+266	8A_C0266		Potassium acetate	KC2H3O2	0.1 M	HEPES	0.1 M	7.5	PEG 20000	20% (w/v)			10
+267	8A_C0267		Potassium acetate	KC2H3O2	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 20000	20% (w/v)			10
+268	8A_C0268		Potassium acetate	KC2H3O2	0.1 M	Tris	0.1 M	8	PEG 20000	20% (w/v)			50
+269	8A_C0269		Potassium acetate	KC2H3O2	0.1 M	MES	0.1 M	6	PEG 20000	20% (w/v)			10
+270	8A_C0270		Potassium bromide	KBr	0.1 M	HEPES	0.1 M	7.5	PEG 20000	20% (w/v)			50-90
+271	8A_C0271		Potassium bromide	KBr	0.1 M	Sodium Acetate	0.1 M	5	PEG 20000	20% (w/v)			10
+272	8A_C0272		Potassium bromide	KBr	0.1 M	Tris	0.1 M	8	PEG 20000	20% (w/v)			50
+273	8A_C0273		Potassium carbonate	K2CO3	0.1 M	TAPS	0.1 M	9	PEG 20000	20% (w/v)			50
+274	8A_C0274		Potassium carbonate	K2CO3	0.1 M	Sodium Acetate	0.1 M	5	PEG 20000	20% (w/v)			50
+275	8A_C0275		Potassium carbonate	K2CO3	0.1 M	HEPES	0.1 M	7.5	PEG 20000	20% (w/v)			25-50
+276	8A_C0276		Potassium chloride	KCl	0.1 M	CAPS	0.1 M	10	PEG 20000	20% (w/v)			50
+277	8A_C0277		Potassium chloride	KCl	0.1 M	HEPES	0.1 M	7.5	PEG 20000	20% (w/v)			50-90
+278	8A_C0278		Potassium nitrate	KNO3	0.1 M	MES	0.1 M	6	PEG 20000	20% (w/v)			10
+279	8A_C0279		Potassium nitrate	KNO3	0.1 M	Tris	0.1 M	8	PEG 20000	20% (w/v)			50
+280	8A_C0280		Potassium nitrate	KNO3	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 20000	20% (w/v)			90
+281	8A_C0281		Potassium phosphate-monobasic	KH2PO4	0.1 M	Tris	0.1 M	8	PEG 20000	20% (w/v)			50
+282	8A_C0282		Potassium phosphate-monobasic	KH2PO4	0.1 M	Sodium Acetate	0.1 M	5	PEG 20000	20% (w/v)			10
+283	8A_C0283		Potassium phosphate-monobasic	KH2PO4	0.1 M	MES	0.1 M	6	PEG 20000	20% (w/v)			10
+284	8A_C0284		Potassium phosphate-monobasic	KH2PO4	0.1 M	TAPS	0.1 M	9	PEG 20000	20% (w/v)			90
+285	8A_C0285		Potassium thiocyanate	KSCN	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 20000	20% (w/v)			10
+286	8A_C0286		Rubidium chloride	RbCl	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 20000	20% (w/v)			90
+287	8A_C0287		Rubidium chloride	RbCl	0.1 M	CAPS	0.1 M	10	PEG 20000	20% (w/v)			50
+288	8A_C0288		Rubidium chloride	RbCl	0.1 M	TAPS	0.1 M	9	PEG 20000	20% (w/v)			50
+289	8A_C0289		Sodium bromide	NaBr	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 20000	20% (w/v)			90
+290	8A_C0290		Sodium bromide	NaBr	0.1 M	CAPS	0.1 M	10	PEG 20000	20% (w/v)			50-90
+291	8A_C0291		Sodium chloride	NaCl	0.1 M	HEPES	0.1 M	7.5	PEG 20000	20% (w/v)			50-90
+292	8A_C0292		Sodium chloride	NaCl	0.1 M	Tris	0.1 M	8	PEG 20000	20% (w/v)			50
+293	8A_C0293		Sodium molybdate dihydrate	Na2MoO4*2H2O	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 20000	20% (w/v)			50-90
+294	8A_C0294		Sodium molybdate dihydrate	Na2MoO4*2H2O	0.1 M	Tris	0.1 M	8	PEG 20000	20% (w/v)			90
+295	8A_C0295		Sodium nitrate	NaNO3	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 20000	20% (w/v)			50-90
+296	8A_C0296		Sodium phosphate-monobasic	NaH2PO4*H2O	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 20000	20% (w/v)			90
+297	8A_C0297		Sodium phosphate-monobasic	NaH2PO4*H2O	0.1 M	MES	0.1 M	6	PEG 20000	20% (w/v)			50
+298	8A_C0298		Sodium thiosulfate pentahydrate	Na2S2O3*5H2O	0.1 M	Tris	0.1 M	8	PEG 20000	20% (w/v)			50-90
+299	8A_C0299		Zinc acetate	Zn(C2H3O2)2	0.1 M	MES	0.1 M	6	PEG 20000	20% (w/v)			10
+300	8A_C0300		Zinc acetate	Zn(C2H3O2)2	0.1 M	Sodium Acetate	0.1 M	5	PEG 20000	20% (w/v)			10
+301	8A_C0301		Potassium phosphate dibasic	K2HPO4	0.1 M	CAPS	0.1 M	10	PEG 20000	20% (w/v)			90
+302	8A_C0302		Cobalt sulfate heptahydrate	CoSO4*7H2O	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 20000	20% (w/v)			10
+303	8A_C0303		Lithium sulfate monohydrate	Li2SO4*H2O	0.1 M	MES	0.1 M	6	PEG 20000	20% (w/v)			10
+304	8A_C0304		Lithium sulfate monohydrate	Li2SO4*H2O	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 20000	20% (w/v)			90
+305	8A_C0305		Potassium phosphate-tribasic	K3PO4	0.1 M	TAPS	0.1 M	9	PEG 20000	20% (w/v)			50-90
+306	8A_C0306		Potassium phosphate-tribasic	K3PO4	0.1 M	CAPS	0.1 M	10	PEG 20000	20% (w/v)			50-90
+307	8A_C0307		Ammonium thiocyanate	NH4SCN	0.1 M	HEPES	0.1 M	7.5	PEG 20000	20% (w/v)			50-90
+308	8A_C0308		Manganese sulfate monohydrate	MnSO4*H2O	0.1 M	Sodium Acetate	0.1 M	5	PEG 20000	20% (w/v)			10
+309	8A_C0309	HR Crystal Screen Cryo - 32							Ammonium Sulfate	1.5M	Glycerol Anhydrous	25% (v/v)	10
+310	8A_C0310	HR Crystal Screen Cryo - 33							Sodium Formate	3.6M	Glycerol Anhydrous	10% (v/v)	90
+311	8A_C0311		Magnesium nitrate hexahydrate	Mg(NO3)2*6H2O	0.1 M	Sodium Acetate	0.1 M	5	PEG 20000	20% (w/v)			10
+312	8A_C0312		Magnesium nitrate hexahydrate	Mg(NO3)2*6H2O	0.1 M	Tris	0.1 M	8	PEG 20000	20% (w/v)			10
+313	8A_C0313		Magnesium nitrate hexahydrate	Mg(NO3)2*6H2O	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 20000	20% (w/v)			90
+314	8A_C0314		Ammonium bromide	NH4Br	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 20000	40% (w/v)			50
+315	8A_C0315		Ammonium chloride	NH4Cl	0.1 M	MES	0.1 M	6	PEG 20000	40% (w/v)			50
+316	8A_C0316		Ammonium chloride	NH4Cl	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 20000	40% (w/v)			50
+317	8A_C0317		Ammonium nitrate	NH4NO3	0.1 M	Tris	0.1 M	8	PEG 20000	40% (w/v)			50
+318	8A_C0318		Ammonium nitrate	NH4NO3	0.1 M	Sodium Acetate	0.1 M	5	PEG 20000	40% (w/v)			50
+319	8A_C0319		Ammonium phosphate-monobasic	NH4H2PO4	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 20000	40% (w/v)			90
+320	8A_C0320		Ammonium phosphate-monobasic	NH4H2PO4	0.1 M	Tris	0.1 M	8	PEG 20000	40% (w/v)			50-0
+321	8A_C0321		Ammonium phosphate-dibasic	(NH4)2HPO4	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 20000	20% (w/v)			50-90
+322	8A_C0322		Ammonium sulfate	(NH4)2SO4	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 20000	40% (w/v)			90
+323	8A_C0323		Ammonium sulfate	(NH4)2SO4	0.1 M	Tris	0.1 M	8	PEG 20000	40% (w/v)			25-50
+324	8A_C0324		Ammonium sulfate	(NH4)2SO4	0.1 M	Sodium Acetate	0.1 M	5	PEG 20000	40% (w/v)			25-50
+325	8A_C0325	HR Crystal Screen Cryo - 9	Ammonium Acetate		0.17 M	Sodium Citrate tribasic dihydrate	0.085 M	5.6	PEG 4000	25.5% (w/v)	Glycerol Anhydrous	15% (v/v)	25-90
+326	8A_C0326		Calcium acetate	Ca(C2H3O2)2	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 20000	40% (w/v)			10
+327	8A_C0327		Lithium bromide	LiBr	0.1 M	CAPS	0.1 M	10	PEG 20000	40% (w/v)			50-90
+328	8A_C0328		Lithium bromide	LiBr	0.1 M	HEPES	0.1 M	7.5	PEG 20000	40% (w/v)			50-90
+329	8A_C0329		Lithium bromide	LiBr	0.1 M	MES	0.1 M	6	PEG 20000	40% (w/v)			50
+330	8A_C0330		Lithium chloride	LiCl	0.1 M	Tris	0.1 M	8	PEG 20000	40% (w/v)			25-50
+331	8A_C0331		Magnesium acetate	Mg(C2H3O2)2*4H2O	0.1 M	MES	0.1 M	6	PEG 20000	40% (w/v)			50
+332	8A_C0332		Magnesium acetate	Mg(C2H3O2)2*4H2O	0.1 M	TAPS	0.1 M	9	PEG 20000	40% (w/v)			50-90
+333	8A_C0333		Magnesium acetate	Mg(C2H3O2)2*4H2O	0.1 M	Sodium Acetate	0.1 M	5	PEG 20000	40% (w/v)			50
+334	8A_C0334		Magnesium chloride hexahydrate	MgCl2*6H2O	0.1 M	Sodium Acetate	0.1 M	5	PEG 20000	40% (w/v)			50-90
+335	8A_C0335		Magnesium sulfate heptahydrate	MgSO4*7H2O	0.1 M	Sodium Acetate	0.1 M	5	PEG 20000	20% (w/v)			10
+336	8A_C0336		Magnesium sulfate heptahydrate	MgSO4*7H2O	0.1 M	MES	0.1 M	6	PEG 20000	20% (w/v)			10
+337	8A_C0337		Magnesium sulfate heptahydrate	MgSO4*7H2O	0.1 M	TAPS	0.1 M	9	PEG 20000	20% (w/v)			10
+338	8A_C0338		Potassium acetate	KC2H3O2	0.1 M	TAPS	0.1 M	9	PEG 20000	40% (w/v)			50-60-90
+339	8A_C0339		Potassium bromide	KBr	0.1 M	CAPS	0.1 M	10	PEG 20000	40% (w/v)			50-90
+340	8A_C0340		Potassium bromide	KBr	0.1 M	MES	0.1 M	6	PEG 20000	40% (w/v)			50
+341	8A_C0341		Potassium carbonate	K2CO3	0.1 M	MES	0.1 M	6	PEG 20000	40% (w/v)			50
+342	8A_C0342		Potassium carbonate	K2CO3	0.1 M	TAPS	0.1 M	9	PEG 20000	40% (w/v)			50
+343	8A_C0343		Potassium chloride	KCl	0.1 M	Tris	0.1 M	8	PEG 20000	40% (w/v)			50
+344	8A_C0344		Potassium chloride	KCl	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 20000	40% (w/v)			50-90
+345	8A_C0345		Potassium chloride	KCl	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 20000	40% (w/v)			90
+346	8A_C0346		Potassium nitrate	KNO3	0.1 M	HEPES	0.1 M	7.5	PEG 20000	40% (w/v)			50-90
+347	8A_C0347		Potassium nitrate	KNO3	0.1 M	Sodium Acetate	0.1 M	5	PEG 20000	40% (w/v)			50
+348	8A_C0348		Potassium nitrate	KNO3	0.1 M	TAPS	0.1 M	9	PEG 20000	40% (w/v)			50-90
+349	8A_C0349		Potassium phosphate-monobasic	KH2PO4	0.1 M	TAPS	0.1 M	9	PEG 20000	40% (w/v)			25-50
+350	8A_C0350		Potassium thiocyanate	KSCN	0.1 M	MES	0.1 M	6	PEG 20000	40% (w/v)			50
+351	8A_C0351		Potassium thiocyanate	KSCN	0.1 M	CAPS	0.1 M	10	PEG 20000	40% (w/v)			50
+352	8A_C0352		Potassium thiocyanate	KSCN	0.1 M	Sodium Acetate	0.1 M	5	PEG 20000	40% (w/v)			50
+353	8A_C0353		Rubidium chloride	RbCl	0.1 M	CAPS	0.1 M	10	PEG 20000	40% (w/v)			90-5
+354	8A_C0354		Rubidium chloride	RbCl	0.1 M	Tris	0.1 M	8	PEG 20000	40% (w/v)			50
+355	8A_C0355		Rubidium chloride	RbCl	0.1 M	HEPES	0.1 M	7.5	PEG 20000	40% (w/v)			50-90
+356	8A_C0356		Sodium bromide	NaBr	0.1 M	MES	0.1 M	6	PEG 20000	40% (w/v)			50
+357	8A_C0357		Sodium bromide	NaBr	0.1 M	Tris	0.1 M	8	PEG 20000	40% (w/v)			50
+358	8A_C0358		Sodium chloride	NaCl	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 20000	40% (w/v)			50-90
+359	8A_C0359		Sodium chloride	NaCl	0.1 M	Tris	0.1 M	8	PEG 20000	40% (w/v)			25-50
+360	8A_C0360		Sodium molybdate dihydrate	Na2MoO4*2H2O	0.1 M	CAPS	0.1 M	10	PEG 20000	40% (w/v)			90
+361	8A_C0361		Sodium molybdate dihydrate	Na2MoO4*2H2O	0.1 M	HEPES	0.1 M	7.5	PEG 20000	40% (w/v)			90
+362	8A_C0362		Sodium molybdate dihydrate	Na2MoO4*2H2O	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 20000	40% (w/v)			50
+363	8A_C0363		Sodium molybdate dihydrate	Na2MoO4*2H2O	0.1 M	TAPS	0.1 M	9	PEG 20000	40% (w/v)			0
+364	8A_C0364		Sodium nitrate	NaNO3	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 20000	40% (w/v)			50-90
+365	8A_C0365		Sodium nitrate	NaNO3	0.1 M	HEPES	0.1 M	7.5	PEG 20000	40% (w/v)			90
+366	8A_C0366		Sodium nitrate	NaNO3	0.1 M	TAPS	0.1 M	9	PEG 20000	40% (w/v)			50
+367	8A_C0367		Sodium nitrate	NaNO3	0.1 M	Sodium Acetate	0.1 M	5	PEG 20000	40% (w/v)			50
+368	8A_C0368		Sodium phosphate-monobasic	NaH2PO4*H2O	0.1 M	Sodium Acetate	0.1 M	5	PEG 20000	40% (w/v)			50-90
+369	8A_C0369		Sodium phosphate-monobasic	NaH2PO4*H2O	0.1 M	CAPS	0.1 M	10	PEG 20000	40% (w/v)			50
+370	8A_C0370		Sodium thiosulfate pentahydrate	Na2S2O3*5H2O	0.1 M	Tris	0.1 M	8	PEG 20000	40% (w/v)			50
+371	8A_C0371		Zinc acetate	Zn(C2H3O2)2	0.1 M	MES	0.1 M	6	PEG 20000	40% (w/v)			10
+372	8A_C0372	HR Crystal Screen Cryo - 10	Ammonium Acetate		0.17M	Sodium Acetate trihydrate	0.085M	4.6	PEG 4000	25.5% (w/v)	Glycerol Anhydrous	15% (v/v)	10
+373	8A_C0373	HR Crystal Screen Cryo - 11				Sodium Citrate tribasic dihydrate	0.07M	5.6	Ammonium Phosphate monobasic	0.7M	Glycerol Anhydrous	30% (v/v)	5
+374	8A_C0374	HR Crystal Screen Cryo - 12	Magnesium chloride hexahydrate		0.18M	HEPES-Na	0.09M	7.5	Iso-Propanol	27% (v/v)	Glycerol Anhydrous	10% (v/v)	10
+375	8A_C0375	HR Crystal Screen Cryo - 13	Sodium Citrate tribasic dihydrate		0.2M	Tris Hydrochloride	0.1M	8.5	PEG 400	30% (v/v)			90
+376	8A_C0376		Cobalt sulfate heptahydrate	CoSO4*7H2O	0.1 M	Tris	0.1 M	8	PEG 20000	20% (w/v)			50
+377	8A_C0377		Cobalt sulfate heptahydrate	CoSO4*7H2O	0.1 M	Sodium Acetate	0.1 M	5	PEG 20000	20% (w/v)			10
+378	8A_C0378		Cobalt sulfate heptahydrate	CoSO4*7H2O	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 20000	20% (w/v)			90
+379	8A_C0379		Lithium sulfate monohydrate	Li2SO4*H2O	0.1 M	HEPES	0.1 M	7.5	PEG 20000	40% (w/v)			90
+380	8A_C0380		Lithium sulfate monohydrate	Li2SO4*H2O	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 20000	40% (w/v)			50-90
+381	8A_C0381	HR Crystal Screen Cryo - 14	Calcium chloride dihydrate		0.19M	HEPES-Na	0.095M	7.5	PEG 400	26.6% (v/v)	Glycerol Anhydrous	5% (v/v)	10
+382	8A_C0382		Potassium phosphate-tribasic	K3PO4	0.1 M	Sodium Acetate	0.1 M	5	PEG 20000	20% (w/v)			50-90
+383	8A_C0383		Potassium phosphate-tribasic	K3PO4	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 20000	20% (w/v)			90
+384	8A_C0384	HR Crystal Screen Cryo - 15	Ammonium Sulfate		0.17M	Sodium Cacodylate trihydrate	0.085M	6.5	PEG 8000	25.5% (w/v)	Glycerol Anhydrous	15% (v/v)	25-50
+385	8A_C0385		Ammonium thiocyanate	NH4SCN	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 20000	40% (w/v)			50
+386	8A_C0386		Ammonium thiocyanate	NH4SCN	0.1 M	Sodium Acetate	0.1 M	5	PEG 20000	40% (w/v)			50
+387	8A_C0387	HR Crystal Screen Cryo - 16				HEPES-Na	0.075M	7.5	Lithium sulfate monohydrate	1.125M	Glycerol Anhydrous	25% (v/v)	10
+388	8A_C0388		Magnesium nitrate hexahydrate	Mg(NO3)2*6H2O	0.1 M	Tris	0.1 M	8	PEG 20000	40% (w/v)			50-90
+389	8A_C0389		Magnesium nitrate hexahydrate	Mg(NO3)2*6H2O	0.1 M	TAPS	0.1 M	9	PEG 20000	40% (w/v)			90
+390	8A_C0390		Magnesium nitrate hexahydrate	Mg(NO3)2*6H2O	0.1 M	Sodium Acetate	0.1 M	5	PEG 20000	40% (w/v)			50-90
+391	8A_C0391		Ammonium bromide	NH4Br	0.1 M	Sodium Acetate	0.1 M	5	PEG 8000	20% (w/v)			10
+392	8A_C0392		Ammonium bromide	NH4Br	0.1 M	Tris	0.1 M	8	PEG 8000	20% (w/v)			50
+393	8A_C0393		Ammonium chloride	NH4Cl	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 8000	20% (w/v)			50
+394	8A_C0394		Ammonium nitrate	NH4NO3	0.1 M	Tris	0.1 M	8	PEG 8000	20% (w/v)			50-90
+395	8A_C0395		Ammonium nitrate	NH4NO3	0.1 M	CAPS	0.1 M	10	PEG 8000	20% (w/v)			10
+396	8A_C0396		Ammonium phosphate-monobasic	NH4H2PO4	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 8000	20% (w/v)			10
+397	8A_C0397		Ammonium phosphate-monobasic	NH4H2PO4	0.1 M	Tris	0.1 M	8	PEG 8000	20% (w/v)			50
+398	8A_C0398		Ammonium phosphate-monobasic	NH4H2PO4	0.1 M	TAPS	0.1 M	9	PEG 8000	20% (w/v)			90
+399	8A_C0399		Ammonium phosphate-monobasic	NH4H2PO4	0.1 M	Sodium Acetate	0.1 M	5	PEG 8000	20% (w/v)			10
+400	8A_C0400		Ammonium phosphate-dibasic	(NH4)2HPO4	0.1 M	TAPS	0.1 M	9	PEG 8000	20% (w/v)			50-90
+401	8A_C0401		Ammonium phosphate-dibasic	(NH4)2HPO4	0.1 M	MES	0.1 M	6	PEG 8000	20% (w/v)			50
+402	8A_C0402		Ammonium sulfate	(NH4)2SO4	0.1 M	HEPES	0.1 M	7.5	PEG 8000	20% (w/v)			90
+403	8A_C0403		Ammonium sulfate	(NH4)2SO4	0.1 M	CAPS	0.1 M	10	PEG 8000	20% (w/v)			50
+404	8A_C0404		Calcium acetate	Ca(C2H3O2)2	0.1 M	MES	0.1 M	6	PEG 8000	20% (w/v)			10
+405	8A_C0405		Calcium acetate	Ca(C2H3O2)2	0.1 M	HEPES	0.1 M	7.5	PEG 8000	20% (w/v)			10
+406	8A_C0406		Calcium chloride dihydrate	CaCl2*2H2O	0.1 M	Sodium Acetate	0.1 M	5	PEG 8000	20% (w/v)			10
+407	8A_C0407		Calcium chloride dihydrate	CaCl2*2H2O	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 8000	20% (w/v)			10
+408	8A_C0408		Lithium bromide	LiBr	0.1 M	Sodium Acetate	0.1 M	5	PEG 8000	20% (w/v)			10
+409	8A_C0409		Lithium bromide	LiBr	0.1 M	CAPS	0.1 M	10	PEG 8000	20% (w/v)			50
+410	8A_C0410		Lithium bromide	LiBr	0.1 M	HEPES	0.1 M	7.5	PEG 8000	20% (w/v)			90
+411	8A_C0411		Lithium chloride	LiCl	0.1 M	Tris	0.1 M	8	PEG 8000	20% (w/v)			50
+412	8A_C0412		Lithium chloride	LiCl	0.1 M	TAPS	0.1 M	9	PEG 8000	20% (w/v)			50
+413	8A_C0413		Magnesium acetate	Mg(C2H3O2)2*4H2O	0.1 M	MES	0.1 M	6	PEG 8000	20% (w/v)			10
+414	8A_C0414		Magnesium chloride hexahydrate	MgCl2*6H2O	0.1 M	HEPES	0.1 M	7.5	PEG 8000	20% (w/v)			50-90
+415	8A_C0415		Magnesium chloride hexahydrate	MgCl2*6H2O	0.1 M	Tris	0.1 M	8	PEG 8000	20% (w/v)			10
+416	8A_C0416		Magnesium chloride hexahydrate	MgCl2*6H2O	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 8000	20% (w/v)			10
+417	8A_C0417		Magnesium sulfate heptahydrate	MgSO4*7H2O	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 8000	20% (w/v)			90
+418	8A_C0418		Magnesium sulfate heptahydrate	MgSO4*7H2O	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 8000	20% (w/v)			10
+419	8A_C0419		Potassium acetate	KC2H3O2	0.1 M	CAPS	0.1 M	10	PEG 8000	20% (w/v)			10
+420	8A_C0420		Potassium bromide	KBr	0.1 M	TAPS	0.1 M	9	PEG 8000	20% (w/v)			50-90
+421	8A_C0421		Potassium bromide	KBr	0.1 M	CAPS	0.1 M	10	PEG 8000	20% (w/v)			90
+422	8A_C0422		Potassium carbonate	K2CO3	0.1 M	CAPS	0.1 M	10	PEG 8000	20% (w/v)			50
+423	8A_C0423		Potassium carbonate	K2CO3	0.1 M	MES	0.1 M	6	PEG 8000	20% (w/v)			25-50
+424	8A_C0424		Potassium chloride	KCl	0.1 M	Sodium Acetate	0.1 M	5	PEG 8000	20% (w/v)			10
+425	8A_C0425		Potassium chloride	KCl	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 8000	20% (w/v)			90
+426	8A_C0426		Potassium nitrate	KNO3	0.1 M	CAPS	0.1 M	10	PEG 8000	20% (w/v)			50-90
+427	8A_C0427		Potassium nitrate	KNO3	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 8000	20% (w/v)			10
+428	8A_C0428		Potassium phosphate-monobasic	KH2PO4	0.1 M	Sodium Acetate	0.1 M	5	PEG 8000	20% (w/v)			10
+429	8A_C0429		Potassium phosphate-monobasic	KH2PO4	0.1 M	HEPES	0.1 M	7.5	PEG 8000	20% (w/v)			90
+430	8A_C0430		Potassium thiocyanate	KSCN	0.1 M	Sodium Acetate	0.1 M	5	PEG 8000	20% (w/v)			10
+431	8A_C0431		Rubidium chloride	RbCl	0.1 M	HEPES	0.1 M	7.5	PEG 8000	20% (w/v)			0
+432	8A_C0432		Rubidium chloride	RbCl	0.1 M	MES	0.1 M	6	PEG 8000	20% (w/v)			10
+433	8A_C0433		Sodium bromide	NaBr	0.1 M	MES	0.1 M	6	PEG 8000	20% (w/v)			10
+434	8A_C0434		Sodium chloride	NaCl	0.1 M	HEPES	0.1 M	7.5	PEG 8000	20% (w/v)			50-90
+435	8A_C0435		Sodium chloride	NaCl	0.1 M	MES	0.1 M	6	PEG 8000	20% (w/v)			10
+436	8A_C0436		Sodium molybdate dihydrate	Na2MoO4*2H2O	0.1 M	MES	0.1 M	6	PEG 8000	20% (w/v)			50
+437	8A_C0437		Sodium molybdate dihydrate	Na2MoO4*2H2O	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 8000	20% (w/v)			90
+438	8A_C0438		Sodium molybdate dihydrate	Na2MoO4*2H2O	0.1 M	TAPS	0.1 M	9	PEG 8000	20% (w/v)			50-90
+439	8A_C0439		Sodium molybdate dihydrate	Na2MoO4*2H2O	0.1 M	Tris	0.1 M	8	PEG 8000	20% (w/v)			90
+440	8A_C0440		Sodium nitrate	NaNO3	0.1 M	MES	0.1 M	6	PEG 8000	20% (w/v)			10
+441	8A_C0441		Sodium nitrate	NaNO3	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 8000	20% (w/v)			90
+442	8A_C0442		Sodium nitrate	NaNO3	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 8000	20% (w/v)			90
+443	8A_C0443		Sodium nitrate	NaNO3	0.1 M	HEPES	0.1 M	7.5	PEG 8000	20% (w/v)			90
+444	8A_C0444		Sodium thiosulfate pentahydrate	Na2S2O3*5H2O	0.1 M	CAPS	0.1 M	10	PEG 8000	20% (w/v)			50-90
+445	8A_C0445		Zinc acetate	Zn(C2H3O2)2	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 8000	20% (w/v)			90
+446	8A_C0446		Zinc acetate	Zn(C2H3O2)2	0.1 M	Sodium Acetate	0.1 M	5	PEG 8000	20% (w/v)			90
+447	8A_C0447	HR Crystal Screen Cryo - 17	Lithium sulfate monohydrate		0.17M	Tris Hydrochloride	0.085M	8.5	PEG 4000	25.50%	Glycerol Anhydrous	15% (v/v)	90
+448	8A_C0448		Potassium phosphate dibasic	K2HPO4	0.1 M	HEPES	0.1 M	7.5	PEG 8000	20% (w/v)			50-90
+449	8A_C0449		Potassium phosphate dibasic	K2HPO4	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 8000	20% (w/v)			90
+450	8A_C0450		Potassium phosphate dibasic	K2HPO4	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 8000	20% (w/v)			10
+451	8A_C0451		Potassium phosphate dibasic	K2HPO4	0.1 M	Tris	0.1 M	8	PEG 8000	20% (w/v)			90
+452	8A_C0452		Cobalt sulfate heptahydrate	CoSO4*7H2O	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 8000	20% (w/v)			90
+453	8A_C0453		Lithium sulfate monohydrate	Li2SO4*H2O	0.1 M	TAPS	0.1 M	9	PEG 8000	20% (w/v)			90
+454	8A_C0454		Lithium sulfate monohydrate	Li2SO4*H2O	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 8000	20% (w/v)			90
+455	8A_C0455		Lithium sulfate monohydrate	Li2SO4*H2O	0.1 M	Tris	0.1 M	8	PEG 8000	20% (w/v)			0
+456	8A_C0456		Potassium phosphate-tribasic	K3PO4	0.1 M	HEPES	0.1 M	7.5	PEG 8000	20% (w/v)			10
+457	8A_C0457		Potassium phosphate-tribasic	K3PO4	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 8000	20% (w/v)			50
+458	8A_C0458		Potassium phosphate-tribasic	K3PO4	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 8000	20% (w/v)			90
+459	8A_C0459		Ammonium thiocyanate	NH4SCN	0.1 M	Tris	0.1 M	8	PEG 8000	20% (w/v)			50
+460	8A_C0460		Ammonium thiocyanate	NH4SCN	0.1 M	Sodium Acetate	0.1 M	5	PEG 8000	20% (w/v)			10
+461	8A_C0461		Ammonium thiocyanate	NH4SCN	0.1 M	CAPS	0.1 M	10	PEG 8000	20% (w/v)			10
+462	8A_C0462		Manganese sulfate monohydrate	MnSO4*H2O	0.1 M	Sodium Acetate	0.1 M	5	PEG 8000	20% (w/v)			10
+463	8A_C0463	HR Crystal Screen Cryo - 34				Sodium Acetate trihydrate	0.07M	4.6	Sodium Formate	1.4M	Glycerol Anhydrous	30% (v/v)	10
+464	8A_C0464		Magnesium nitrate hexahydrate	Mg(NO3)2*6H2O	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 8000	20% (w/v)			90
+465	8A_C0465		Magnesium nitrate hexahydrate	Mg(NO3)2*6H2O	0.1 M	TAPS	0.1 M	9	PEG 8000	20% (w/v)			50
+466	8A_C0466		Magnesium nitrate hexahydrate	Mg(NO3)2*6H2O	0.1 M	MES	0.1 M	6	PEG 8000	20% (w/v)			10
+467	8A_C0467		Magnesium nitrate hexahydrate	Mg(NO3)2*6H2O	0.1 M	HEPES	0.1 M	7.5	PEG 8000	20% (w/v)			90
+468	8A_C0468		Ammonium bromide	NH4Br	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 8000	40% (w/v)			50-90
+469	8A_C0469		Ammonium bromide	NH4Br	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 8000	40% (w/v)			50
+470	8A_C0470		Ammonium bromide	NH4Br	0.1 M	Sodium Acetate	0.1 M	5	PEG 8000	40% (w/v)			50
+471	8A_C0471		Ammonium chloride	NH4Cl	0.1 M	Sodium Acetate	0.1 M	5	PEG 8000	40% (w/v)			50
+472	8A_C0472		Ammonium chloride	NH4Cl	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 8000	40% (w/v)			50-90
+473	8A_C0473		Ammonium chloride	NH4Cl	0.1 M	Tris	0.1 M	8	PEG 8000	40% (w/v)			50
+474	8A_C0474		Ammonium nitrate	NH4NO3	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 8000	40% (w/v)			90
+475	8A_C0475		Ammonium nitrate	NH4NO3	0.1 M	HEPES	0.1 M	7.5	PEG 8000	40% (w/v)			10
+476	8A_C0476		Ammonium nitrate	NH4NO3	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 8000	40% (w/v)			50-90
+477	8A_C0477		Ammonium phosphate-monobasic	NH4H2PO4	0.1 M	Sodium Acetate	0.1 M	5	PEG 8000	40% (w/v)			50
+478	8A_C0478		Ammonium phosphate-monobasic	NH4H2PO4	0.1 M	MES	0.1 M	6	PEG 8000	40% (w/v)			50
+479	8A_C0479		Ammonium phosphate-dibasic	(NH4)2HPO4	0.1 M	Sodium Acetate	0.1 M	5	PEG 8000	20% (w/v)			50
+480	8A_C0480		Ammonium phosphate-dibasic	(NH4)2HPO4	0.1 M	HEPES	0.1 M	7.5	PEG 8000	20% (w/v)			50-90
+481	8A_C0481		Ammonium sulfate	(NH4)2SO4	0.1 M	Sodium Acetate	0.1 M	5	PEG 8000	40% (w/v)			25-50
+482	8A_C0482		Ammonium sulfate	(NH4)2SO4	0.1 M	MES	0.1 M	6	PEG 8000	40% (w/v)			50
+483	8A_C0483		Ammonium sulfate	(NH4)2SO4	0.1 M	TAPS	0.1 M	9	PEG 8000	40% (w/v)			50
+484	8A_C0484	HR Crystal Screen Cryo - 18	magnesium acetate tetrahydrate		0.16M	Sodium Cacodylate trihydrate	0.08M	6.5	PRG 8000	16%	Glycerol Anhydrous	20% (v/v)	10
+485	8A_C0485		Calcium chloride dihydrate	CaCl2*2H2O	0.1 M	MES	0.1 M	6	PEG 8000	40% (w/v)			50
+486	8A_C0486		Calcium chloride dihydrate	CaCl2*2H2O	0.1 M	Sodium Acetate	0.1 M	5	PEG 8000	40% (w/v)			90
+487	8A_C0487		Lithium bromide	LiBr	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 8000	40% (w/v)			50-90
+488	8A_C0488		Lithium bromide	LiBr	0.1 M	TAPS	0.1 M	9	PEG 8000	40% (w/v)			50-90
+489	8A_C0489		Lithium chloride	LiCl	0.1 M	MES	0.1 M	6	PEG 8000	40% (w/v)			50-0
+490	8A_C0490		Lithium chloride	LiCl	0.1 M	Sodium Acetate	0.1 M	5	PEG 8000	40% (w/v)			50
+491	8A_C0491		Lithium chloride	LiCl	0.1 M	HEPES	0.1 M	7.5	PEG 8000	40% (w/v)			50-90
+492	8A_C0492		Magnesium acetate	Mg(C2H3O2)2*4H2O	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 8000	40% (w/v)			50
+493	8A_C0493		Magnesium chloride hexahydrate	MgCl2*6H2O	0.1 M	Sodium Acetate	0.1 M	5	PEG 8000	40% (w/v)			90
+494	8A_C0494		Magnesium sulfate heptahydrate	MgSO4*7H2O	0.1 M	CAPS	0.1 M	10	PEG 8000	20% (w/v)			0
+495	8A_C0495		Magnesium sulfate heptahydrate	MgSO4*7H2O	0.1 M	HEPES	0.1 M	7.5	PEG 8000	20% (w/v)			90
+496	8A_C0496		Magnesium sulfate heptahydrate	MgSO4*7H2O	0.1 M	Sodium Acetate	0.1 M	5	PEG 8000	20% (w/v)			50
+497	8A_C0497		Manganese chloride	MnCl2	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 8000	40% (w/v)			50-90
+498	8A_C0498		Manganese chloride	MnCl2	0.1 M	Sodium Acetate	0.1 M	5	PEG 8000	40% (w/v)			50
+499	8A_C0499		Manganese chloride	MnCl2	0.1 M	MES	0.1 M	6	PEG 8000	40% (w/v)			50
+500	8A_C0500		Potassium acetate	KC2H3O2	0.1 M	Sodium Acetate	0.1 M	5	PEG 8000	40% (w/v)			50
+501	8A_C0501		Potassium acetate	KC2H3O2	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 8000	40% (w/v)			50
+502	8A_C0502		Potassium bromide	KBr	0.1 M	HEPES	0.1 M	7.5	PEG 8000	40% (w/v)			50-90
+503	8A_C0503		Potassium bromide	KBr	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 8000	40% (w/v)			50
+504	8A_C0504		Potassium bromide	KBr	0.1 M	Tris	0.1 M	8	PEG 8000	40% (w/v)			50
+505	8A_C0505		Potassium carbonate	K2CO3	0.1 M	Sodium Acetate	0.1 M	5	PEG 8000	40% (w/v)			50
+506	8A_C0506		Potassium carbonate	K2CO3	0.1 M	Tris	0.1 M	8	PEG 8000	40% (w/v)			50
+507	8A_C0507		Potassium carbonate	K2CO3	0.1 M	HEPES	0.1 M	7.5	PEG 8000	40% (w/v)			50
+508	8A_C0508		Potassium carbonate	K2CO3	0.1 M	CAPS	0.1 M	10	PEG 8000	40% (w/v)			50
+509	8A_C0509		Potassium chloride	KCl	0.1 M	TAPS	0.1 M	9	PEG 8000	40% (w/v)			50-90
+510	8A_C0510		Potassium chloride	KCl	0.1 M	CAPS	0.1 M	10	PEG 8000	40% (w/v)			90
+511	8A_C0511		Potassium chloride	KCl	0.1 M	MES	0.1 M	6	PEG 8000	40% (w/v)			50
+512	8A_C0512		Potassium nitrate	KNO3	0.1 M	TAPS	0.1 M	9	PEG 8000	40% (w/v)			50
+513	8A_C0513		Potassium nitrate	KNO3	0.1 M	HEPES	0.1 M	7.5	PEG 8000	40% (w/v)			50-90
+514	8A_C0514		Potassium nitrate	KNO3	0.1 M	Tris	0.1 M	8	PEG 8000	40% (w/v)			50
+515	8A_C0515		Potassium phosphate-monobasic	KH2PO4	0.1 M	HEPES	0.1 M	7.5	PEG 8000	40% (w/v)			90
+516	8A_C0516		Potassium phosphate-monobasic	KH2PO4	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 8000	40% (w/v)			50
+517	8A_C0517		Potassium phosphate-monobasic	KH2PO4	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 8000	40% (w/v)			50-90
+518	8A_C0518		Potassium phosphate-monobasic	KH2PO4	0.1 M	CAPS	0.1 M	10	PEG 8000	40% (w/v)			50
+519	8A_C0519		Potassium thiocyanate	KSCN	0.1 M	Sodium Acetate	0.1 M	5	PEG 8000	40% (w/v)			50
+520	8A_C0520		Potassium thiocyanate	KSCN	0.1 M	Tris	0.1 M	8	PEG 8000	40% (w/v)			50
+521	8A_C0521		Rubidium chloride	RbCl	0.1 M	TAPS	0.1 M	9	PEG 8000	40% (w/v)			50-60-90
+522	8A_C0522		Rubidium chloride	RbCl	0.1 M	CAPS	0.1 M	10	PEG 8000	40% (w/v)			50-90
+523	8A_C0523		Sodium bromide	NaBr	0.1 M	HEPES	0.1 M	7.5	PEG 8000	40% (w/v)			50-90
+524	8A_C0524		Sodium bromide	NaBr	0.1 M	TAPS	0.1 M	9	PEG 8000	40% (w/v)			60-90
+525	8A_C0525		Sodium bromide	NaBr	0.1 M	CAPS	0.1 M	10	PEG 8000	40% (w/v)			90
+526	8A_C0526		Sodium chloride	NaCl	0.1 M	Tris	0.1 M	8	PEG 8000	40% (w/v)			50
+527	8A_C0527		Sodium chloride	NaCl	0.1 M	TAPS	0.1 M	9	PEG 8000	40% (w/v)			50
+528	8A_C0528		Sodium chloride	NaCl	0.1 M	MES	0.1 M	6	PEG 8000	40% (w/v)			50
+529	8A_C0529		Sodium nitrate	NaNO3	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 8000	40% (w/v)			50-90
+530	8A_C0530		Sodium phosphate-monobasic	NaH2PO4*H2O	0.1 M	Tris	0.1 M	8	PEG 8000	40% (w/v)			0
+531	8A_C0531		Sodium phosphate-monobasic	NaH2PO4*H2O	0.1 M	MES	0.1 M	6	PEG 8000	40% (w/v)			50-90
+532	8A_C0532		Sodium phosphate-monobasic	NaH2PO4*H2O	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 8000	40% (w/v)			50
+533	8A_C0533		Sodium thiosulfate pentahydrate	Na2S2O3*5H2O	0.1 M	CAPS	0.1 M	10	PEG 8000	40% (w/v)			50
+534	8A_C0534		Sodium thiosulfate pentahydrate	Na2S2O3*5H2O	0.1 M	TAPS	0.1 M	9	PEG 8000	40% (w/v)			50
+535	8A_C0535		Sodium thiosulfate pentahydrate	Na2S2O3*5H2O	0.1 M	Tris	0.1 M	8	PEG 8000	40% (w/v)			50
+536	8A_C0536		Zinc acetate	Zn(C2H3O2)2	0.1 M	MES	0.1 M	6	PEG 8000	40% (w/v)			10
+537	8A_C0537		Zinc acetate	Zn(C2H3O2)2	0.1 M	Tris	0.1 M	8	PEG 8000	40% (w/v)			10
+538	8A_C0538		Potassium phosphate dibasic	K2HPO4	0.1 M	Sodium Acetate	0.1 M	5	PEG 8000	20% (w/v)			50
+539	8A_C0539		Lithium sulfate monohydrate	Li2SO4*H2O	0.1 M	Sodium Acetate	0.1 M	5	PEG 8000	40% (w/v)			50
+540	8A_C0540		Lithium sulfate monohydrate	Li2SO4*H2O	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 8000	40% (w/v)			50
+541	8A_C0541		Lithium sulfate monohydrate	Li2SO4*H2O	0.1 M	TAPS	0.1 M	9	PEG 8000	40% (w/v)			50
+542	8A_C0542	HR Crystal Screen Cryo - 19	Ammonium Acetate		0.16M	Tris Hydrochloride	0.08M	8.5	Iso-Propanol	24% (v/v)	Glycerol Anhydrous	20% (v/v)	5
+543	8A_C0543		Potassium phosphate-tribasic	K3PO4	0.1 M	Sodium Acetate	0.1 M	5	PEG 8000	20% (w/v)			50-90
+544	8A_C0544		Ammonium thiocyanate	NH4SCN	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 8000	40% (w/v)			50-90
+545	8A_C0545		Ammonium thiocyanate	NH4SCN	0.1 M	MES	0.1 M	6	PEG 8000	40% (w/v)			50
+546	8A_C0546		Manganese sulfate monohydrate	MnSO4*H2O	0.1 M	MES	0.1 M	6	PEG 8000	40% (w/v)			90
+547	8A_C0547		Ammonium bromide	NH4Br	0.1 M	CAPS	0.1 M	10	PEG 4000	20% (w/v)			10
+548	8A_C0548		Ammonium bromide	NH4Br	0.1 M	Tris	0.1 M	8	PEG 4000	20% (w/v)			50
+549	8A_C0549		Ammonium chloride	NH4Cl	0.1 M	CAPS	0.1 M	10	PEG 4000	20% (w/v)			10
+550	8A_C0550		Ammonium chloride	NH4Cl	0.1 M	Sodium Acetate	0.1 M	5	PEG 4000	20% (w/v)			10
+551	8A_C0551		Ammonium nitrate	NH4NO3	0.1 M	Tris	0.1 M	8	PEG 4000	20% (w/v)			50
+552	8A_C0552		Ammonium phosphate-monobasic	NH4H2PO4	0.1 M	TAPS	0.1 M	9	PEG 4000	20% (w/v)			50
+553	8A_C0553		Ammonium phosphate-monobasic	NH4H2PO4	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 4000	20% (w/v)			90
+554	8A_C0554		Ammonium phosphate-monobasic	NH4H2PO4	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 4000	20% (w/v)			10
+555	8A_C0555		Ammonium phosphate-dibasic	(NH4)2HPO4	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 4000	20% (w/v)			90
+556	8A_C0556		Ammonium phosphate-dibasic	(NH4)2HPO4	0.1 M	TAPS	0.1 M	9	PEG 4000	20% (w/v)			50
+557	8A_C0557		Ammonium phosphate-dibasic	(NH4)2HPO4	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 4000	20% (w/v)			10
+558	8A_C0558		Ammonium sulfate	(NH4)2SO4	0.1 M	HEPES	0.1 M	7.5	PEG 4000	20% (w/v)			50-90
+559	8A_C0559		Ammonium sulfate	(NH4)2SO4	0.1 M	TAPS	0.1 M	9	PEG 4000	20% (w/v)			0
+560	8A_C0560		Calcium acetate	Ca(C2H3O2)2	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 4000	20% (w/v)			10
+561	8A_C0561		Calcium chloride dihydrate	CaCl2*2H2O	0.1 M	Sodium Acetate	0.1 M	5	PEG 4000	20% (w/v)			5
+562	8A_C0562		Calcium chloride dihydrate	CaCl2*2H2O	0.1 M	HEPES	0.1 M	7.5	PEG 4000	20% (w/v)			10
+563	8A_C0563		Lithium bromide	LiBr	0.1 M	Sodium Acetate	0.1 M	5	PEG 4000	20% (w/v)			10
+564	8A_C0564		Lithium bromide	LiBr	0.1 M	Tris	0.1 M	8	PEG 4000	20% (w/v)			50
+565	8A_C0565		Lithium chloride	LiCl	0.1 M	Tris	0.1 M	8	PEG 4000	20% (w/v)			10
+566	8A_C0566		Lithium chloride	LiCl	0.1 M	CAPS	0.1 M	10	PEG 4000	20% (w/v)			50
+567	8A_C0567		Lithium chloride	LiCl	0.1 M	Sodium Acetate	0.1 M	5	PEG 4000	20% (w/v)			10
+568	8A_C0568		Lithium chloride	LiCl	0.1 M	HEPES	0.1 M	7.5	PEG 4000	20% (w/v)			50
+569	8A_C0569		Magnesium chloride hexahydrate	MgCl2*6H2O	0.1 M	MES	0.1 M	6	PEG 4000	20% (w/v)			10
+570	8A_C0570		Magnesium chloride hexahydrate	MgCl2*6H2O	0.1 M	HEPES	0.1 M	7.5	PEG 4000	20% (w/v)			50
+571	8A_C0571		Magnesium sulfate heptahydrate	MgSO4*7H2O	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 4000	20% (w/v)			50
+572	8A_C0572		Magnesium sulfate heptahydrate	MgSO4*7H2O	0.1 M	Tris	0.1 M	8	PEG 4000	20% (w/v)			50
+573	8A_C0573		Magnesium sulfate heptahydrate	MgSO4*7H2O	0.1 M	TAPS	0.1 M	9	PEG 4000	20% (w/v)			50
+574	8A_C0574		Magnesium sulfate heptahydrate	MgSO4*7H2O	0.1 M	MES	0.1 M	6	PEG 4000	20% (w/v)			10
+575	8A_C0575		Magnesium sulfate heptahydrate	MgSO4*7H2O	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 4000	20% (w/v)			90
+576	8A_C0576		Manganese chloride	MnCl2	0.1 M	Sodium Acetate	0.1 M	5	PEG 4000	20% (w/v)			10
+577	8A_C0577		Manganese chloride	MnCl2	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 4000	20% (w/v)			10
+578	8A_C0578		Manganese chloride	MnCl2	0.1 M	MES	0.1 M	6	PEG 4000	20% (w/v)			10
+579	8A_C0579		Potassium acetate	KC2H3O2	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 4000	20% (w/v)			90
+580	8A_C0580		Potassium acetate	KC2H3O2	0.1 M	MES	0.1 M	6	PEG 4000	20% (w/v)			10
+581	8A_C0581		Potassium bromide	KBr	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 4000	20% (w/v)			90
+582	8A_C0582		Potassium bromide	KBr	0.1 M	Tris	0.1 M	8	PEG 4000	20% (w/v)			50
+583	8A_C0583		Potassium bromide	KBr	0.1 M	HEPES	0.1 M	7.5	PEG 4000	20% (w/v)			50-90
+584	8A_C0584		Potassium carbonate	K2CO3	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 4000	20% (w/v)			0
+585	8A_C0585		Potassium carbonate	K2CO3	0.1 M	Tris	0.1 M	8	PEG 4000	20% (w/v)			50-90
+586	8A_C0586		Potassium chloride	KCl	0.1 M	CAPS	0.1 M	10	PEG 4000	20% (w/v)			90
+587	8A_C0587		Potassium chloride	KCl	0.1 M	Tris	0.1 M	8	PEG 4000	20% (w/v)			10
+588	8A_C0588		Potassium nitrate	KNO3	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 4000	20% (w/v)			10
+589	8A_C0589		Potassium phosphate-monobasic	KH2PO4	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 4000	20% (w/v)			90
+590	8A_C0590		Potassium thiocyanate	KSCN	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 4000	20% (w/v)			90
+591	8A_C0591		Potassium thiocyanate	KSCN	0.1 M	TAPS	0.1 M	9	PEG 4000	20% (w/v)			90
+592	8A_C0592		Potassium thiocyanate	KSCN	0.1 M	HEPES	0.1 M	7.5	PEG 4000	20% (w/v)			10
+593	8A_C0593		Rubidium chloride	RbCl	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 4000	20% (w/v)			10
+594	8A_C0594		Sodium bromide	NaBr	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 4000	20% (w/v)			10
+595	8A_C0595		Sodium bromide	NaBr	0.1 M	Sodium Acetate	0.1 M	5	PEG 4000	20% (w/v)			10
+596	8A_C0596		Sodium chloride	NaCl	0.1 M	Sodium Acetate	0.1 M	5	PEG 4000	20% (w/v)			10
+597	8A_C0597		Sodium chloride	NaCl	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 4000	20% (w/v)			10
+598	8A_C0598		Sodium chloride	NaCl	0.1 M	TAPS	0.1 M	9	PEG 4000	20% (w/v)			50
+599	8A_C0599		Sodium chloride	NaCl	0.1 M	HEPES	0.1 M	7.5	PEG 4000	20% (w/v)			10
+600	8A_C0600		Sodium molybdate dihydrate	Na2MoO4*2H2O	0.1 M	CAPS	0.1 M	10	PEG 4000	20% (w/v)			50-90
+601	8A_C0601		Sodium molybdate dihydrate	Na2MoO4*2H2O	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 4000	20% (w/v)			50-90
+602	8A_C0602		Sodium nitrate	NaNO3	0.1 M	Tris	0.1 M	8	PEG 4000	20% (w/v)			50
+603	8A_C0603		Sodium nitrate	NaNO3	0.1 M	MES	0.1 M	6	PEG 4000	20% (w/v)			10
+604	8A_C0604		Sodium phosphate-monobasic	NaH2PO4*H2O	0.1 M	MES	0.1 M	6	PEG 4000	20% (w/v)			10
+605	8A_C0605		Sodium phosphate-monobasic	NaH2PO4*H2O	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 4000	20% (w/v)			90
+606	8A_C0606		Sodium thiosulfate pentahydrate	Na2S2O3*5H2O	0.1 M	Tris	0.1 M	8	PEG 4000	20% (w/v)			0
+607	8A_C0607		Potassium phosphate dibasic	K2HPO4	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 4000	20% (w/v)			90
+608	8A_C0608		Potassium phosphate dibasic	K2HPO4	0.1 M	TAPS	0.1 M	9	PEG 4000	20% (w/v)			50
+609	8A_C0609		Cobalt sulfate heptahydrate	CoSO4*7H2O	0.1 M	Sodium Acetate	0.1 M	5	PEG 4000	20% (w/v)			10
+610	8A_C0610		Cobalt sulfate heptahydrate	CoSO4*7H2O	0.1 M	Tris	0.1 M	8	PEG 4000	20% (w/v)			50
+611	8A_C0611		Cobalt sulfate heptahydrate	CoSO4*7H2O	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 4000	20% (w/v)			90
+612	8A_C0612		Lithium sulfate monohydrate	Li2SO4*H2O	0.1 M	Sodium Acetate	0.1 M	5	PEG 4000	20% (w/v)			50
+613	8A_C0613		Lithium sulfate monohydrate	Li2SO4*H2O	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 4000	20% (w/v)			90
+614	8A_C0614		Potassium phosphate-tribasic	K3PO4	0.1 M	Tris	0.1 M	8	PEG 4000	20% (w/v)			50
+615	8A_C0615		Potassium phosphate-tribasic	K3PO4	0.1 M	CAPS	0.1 M	10	PEG 4000	20% (w/v)			50
+616	8A_C0616		Potassium phosphate-tribasic	K3PO4	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 4000	20% (w/v)			90
+617	8A_C0617		Ammonium thiocyanate	NH4SCN	0.1 M	Sodium Acetate	0.1 M	5	PEG 4000	20% (w/v)			10
+618	8A_C0618		Ammonium thiocyanate	NH4SCN	0.1 M	MES	0.1 M	6	PEG 4000	20% (w/v)			10
+619	8A_C0619		Manganese sulfate monohydrate	MnSO4*H2O	0.1 M	MES	0.1 M	6	PEG 4000	20% (w/v)			0
+620	8A_C0620		Magnesium nitrate hexahydrate	Mg(NO3)2*6H2O	0.1 M	TAPS	0.1 M	9	PEG 4000	20% (w/v)			10
+621	8A_C0621		Ammonium bromide	NH4Br	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 4000	40% (w/v)			90
+622	8A_C0622		Ammonium bromide	NH4Br	0.1 M	MES	0.1 M	6	PEG 4000	40% (w/v)			50
+623	8A_C0623		Ammonium chloride	NH4Cl	0.1 M	CAPS	0.1 M	10	PEG 4000	40% (w/v)			50
+624	8A_C0624		Ammonium chloride	NH4Cl	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 4000	40% (w/v)			50
+625	8A_C0625		Ammonium nitrate	NH4NO3	0.1 M	HEPES	0.1 M	7.5	PEG 4000	40% (w/v)			50-90
+626	8A_C0626		Ammonium nitrate	NH4NO3	0.1 M	MES	0.1 M	6	PEG 4000	40% (w/v)			50
+627	8A_C0627		Ammonium nitrate	NH4NO3	0.1 M	TAPS	0.1 M	9	PEG 4000	40% (w/v)			90
+628	8A_C0628		Ammonium nitrate	NH4NO3	0.1 M	CAPS	0.1 M	10	PEG 4000	40% (w/v)			50-90
+629	8A_C0629		Ammonium phosphate-monobasic	NH4H2PO4	0.1 M	HEPES	0.1 M	7.5	PEG 4000	40% (w/v)			90
+630	8A_C0630		Ammonium phosphate-monobasic	NH4H2PO4	0.1 M	CAPS	0.1 M	10	PEG 4000	40% (w/v)			50-90
+631	8A_C0631		Ammonium phosphate-dibasic	(NH4)2HPO4	0.1 M	CAPS	0.1 M	10	PEG 4000	20% (w/v)			90
+632	8A_C0632		Ammonium sulfate	(NH4)2SO4	0.1 M	CAPS	0.1 M	10	PEG 4000	40% (w/v)			50
+633	8A_C0633		Ammonium sulfate	(NH4)2SO4	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 4000	40% (w/v)			50-90
+634	8A_C0634		Ammonium sulfate	(NH4)2SO4	0.1 M	MES	0.1 M	6	PEG 4000	40% (w/v)			25-50
+635	8A_C0635		Calcium chloride dihydrate	CaCl2*2H2O	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 4000	40% (w/v)			10
+636	8A_C0636		Calcium chloride dihydrate	CaCl2*2H2O	0.1 M	Sodium Acetate	0.1 M	5	PEG 4000	40% (w/v)			10
+637	8A_C0637		Lithium bromide	LiBr	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 4000	40% (w/v)			50-90
+638	8A_C0638		Lithium bromide	LiBr	0.1 M	CAPS	0.1 M	10	PEG 4000	40% (w/v)			90
+639	8A_C0639		Magnesium acetate	Mg(C2H3O2)2*4H2O	0.1 M	HEPES	0.1 M	7.5	PEG 4000	40% (w/v)			90
+640	8A_C0640		Magnesium chloride hexahydrate	MgCl2*6H2O	0.1 M	Sodium Acetate	0.1 M	5	PEG 4000	40% (w/v)			90
+641	8A_C0641		Magnesium chloride hexahydrate	MgCl2*6H2O	0.1 M	HEPES	0.1 M	7.5	PEG 4000	40% (w/v)			90
+642	8A_C0642		Manganese chloride	MnCl2	0.1 M	MES	0.1 M	6	PEG 4000	40% (w/v)			10
+643	8A_C0643		Potassium acetate	KC2H3O2	0.1 M	Sodium Acetate	0.1 M	5	PEG 4000	40% (w/v)			10
+644	8A_C0644		Potassium acetate	KC2H3O2	0.1 M	Tris	0.1 M	8	PEG 4000	40% (w/v)			50
+645	8A_C0645		Potassium acetate	KC2H3O2	0.1 M	HEPES	0.1 M	7.5	PEG 4000	40% (w/v)			90
+646	8A_C0646		Potassium bromide	KBr	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 4000	40% (w/v)			10
+647	8A_C0647		Potassium bromide	KBr	0.1 M	TAPS	0.1 M	9	PEG 4000	40% (w/v)			10
+648	8A_C0648		Potassium bromide	KBr	0.1 M	MES	0.1 M	6	PEG 4000	40% (w/v)			50
+649	8A_C0649		Potassium carbonate	K2CO3	0.1 M	HEPES	0.1 M	7.5	PEG 4000	40% (w/v)			50
+650	8A_C0650		Potassium carbonate	K2CO3	0.1 M	Tris	0.1 M	8	PEG 4000	40% (w/v)			50
+651	8A_C0651		Potassium carbonate	K2CO3	0.1 M	CAPS	0.1 M	10	PEG 4000	40% (w/v)			0
+652	8A_C0652		Potassium chloride	KCl	0.1 M	TAPS	0.1 M	9	PEG 4000	40% (w/v)			90
+653	8A_C0653		Potassium chloride	KCl	0.1 M	MES	0.1 M	6	PEG 4000	40% (w/v)			10
+654	8A_C0654		Potassium nitrate	KNO3	0.1 M	MES	0.1 M	6	PEG 4000	40% (w/v)			10
+655	8A_C0655		Potassium nitrate	KNO3	0.1 M	CAPS	0.1 M	10	PEG 4000	40% (w/v)			90
+656	8A_C0656		Potassium nitrate	KNO3	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 4000	40% (w/v)			90
+657	8A_C0657		Potassium phosphate-monobasic	KH2PO4	0.1 M	Tris	0.1 M	8	PEG 4000	40% (w/v)			50
+658	8A_C0658		Potassium phosphate-monobasic	KH2PO4	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 4000	40% (w/v)			90
+659	8A_C0659		Potassium phosphate-monobasic	KH2PO4	0.1 M	MES	0.1 M	6	PEG 4000	40% (w/v)			50
+660	8A_C0660		Potassium thiocyanate	KSCN	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 4000	40% (w/v)			10
+661	8A_C0661		Potassium thiocyanate	KSCN	0.1 M	Tris	0.1 M	8	PEG 4000	40% (w/v)			50
+662	8A_C0662		Rubidium chloride	RbCl	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 4000	40% (w/v)			90
+663	8A_C0663		Rubidium chloride	RbCl	0.1 M	HEPES	0.1 M	7.5	PEG 4000	40% (w/v)			90
+664	8A_C0664		Rubidium chloride	RbCl	0.1 M	Tris	0.1 M	8	PEG 4000	40% (w/v)			50
+665	8A_C0665		Rubidium chloride	RbCl	0.1 M	Sodium Acetate	0.1 M	5	PEG 4000	40% (w/v)			10
+666	8A_C0666		Rubidium chloride	RbCl	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 4000	40% (w/v)			90
+667	8A_C0667		Sodium bromide	NaBr	0.1 M	Sodium Acetate	0.1 M	5	PEG 4000	40% (w/v)			10
+668	8A_C0668		Sodium bromide	NaBr	0.1 M	HEPES	0.1 M	7.5	PEG 4000	40% (w/v)			90
+669	8A_C0669		Sodium chloride	NaCl	0.1 M	Sodium Acetate	0.1 M	5	PEG 4000	40% (w/v)			10
+670	8A_C0670		Sodium molybdate dihydrate	Na2MoO4*2H2O	0.1 M	CAPS	0.1 M	10	PEG 4000	40% (w/v)			50-90
+671	8A_C0671		Sodium molybdate dihydrate	Na2MoO4*2H2O	0.1 M	Tris	0.1 M	8	PEG 4000	40% (w/v)			90
+672	8A_C0672		Sodium nitrate	NaNO3	0.1 M	TAPS	0.1 M	9	PEG 4000	40% (w/v)			50
+673	8A_C0673		Sodium nitrate	NaNO3	0.1 M	Sodium Acetate	0.1 M	5	PEG 4000	40% (w/v)			10
+674	8A_C0674		Sodium thiosulfate pentahydrate	Na2S2O3*5H2O	0.1 M	HEPES	0.1 M	7.5	PEG 4000	40% (w/v)			50-90
+675	8A_C0675		Sodium thiosulfate pentahydrate	Na2S2O3*5H2O	0.1 M	TAPS	0.1 M	9	PEG 4000	40% (w/v)			50
+676	8A_C0676		Sodium thiosulfate pentahydrate	Na2S2O3*5H2O	0.1 M	CAPS	0.1 M	10	PEG 4000	40% (w/v)			50
+677	8A_C0677		Zinc acetate	Zn(C2H3O2)2	0.1 M	Sodium Acetate	0.1 M	5	PEG 4000	40% (w/v)			5
+678	8A_C0678		Zinc acetate	Zn(C2H3O2)2	0.1 M	MES	0.1 M	6	PEG 4000	40% (w/v)			10
+679	8A_C0679		Potassium phosphate dibasic	K2HPO4	0.1 M	Tris	0.1 M	8	PEG 4000	40% (w/v)			50-90
+680	8A_C0680		Lithium sulfate monohydrate	Li2SO4*H2O	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 4000	40% (w/v)			50
+681	8A_C0681		Lithium sulfate monohydrate	Li2SO4*H2O	0.1 M	CAPS	0.1 M	10	PEG 4000	40% (w/v)			50-90
+682	8A_C0682		Potassium phosphate-tribasic	K3PO4	0.1 M	TAPS	0.1 M	9	PEG 4000	20% (w/v)			50
+683	8A_C0683		Potassium phosphate-tribasic	K3PO4	0.1 M	Tris	0.1 M	8	PEG 4000	40% (w/v)			50
+684	8A_C0684		Ammonium thiocyanate	NH4SCN	0.1 M	TAPS	0.1 M	9	PEG 4000	40% (w/v)			10
+685	8A_C0685		Ammonium thiocyanate	NH4SCN	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 4000	40% (w/v)			50-90
+686	8A_C0686		Ammonium thiocyanate	NH4SCN	0.1 M	MES	0.1 M	6	PEG 4000	40% (w/v)			10
+687	8A_C0687		Manganese sulfate monohydrate	MnSO4*H2O	0.1 M	MES	0.1 M	6	PEG 4000	40% (w/v)			25
+688	8A_C0688		Manganese sulfate monohydrate	MnSO4*H2O	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 4000	40% (w/v)			90
+689	8A_C0689	HR Crystal Screen Cryo - 20	Ammonium Sulfate		0.16M	Sodium Acetate trihydrate	0.08M	4.6	PEG 4000	20% (w/v)	Glycerol Anhydrous	20% (v/v)	10
+690	8A_C0690		Manganese sulfate monohydrate	MnSO4*H2O	0.1 M	MES	0.1 M	6	PEG 4000	40% (w/v)			10
+691	8A_C0691		Magnesium nitrate hexahydrate	Mg(NO3)2*6H2O	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 4000	40% (w/v)			90
+692	8A_C0692		Magnesium nitrate hexahydrate	Mg(NO3)2*6H2O	0.1 M	MES	0.1 M	6	PEG 4000	40% (w/v)			90
+693	8A_C0693		Magnesium nitrate hexahydrate	Mg(NO3)2*6H2O	0.1 M	Sodium Acetate	0.1 M	5	PEG 4000	40% (w/v)			90
+694	8A_C0694		Magnesium nitrate hexahydrate	Mg(NO3)2*6H2O	0.1 M	TAPS	0.1 M	9	PEG 4000	40% (w/v)			90
+695	8A_C0695		Ammonium bromide	NH4Br	0.1 M	HEPES	0.1 M	7.5	PEG 1000	20% (w/v)			50
+696	8A_C0696		Ammonium chloride	NH4Cl	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 1000	20% (w/v)			90
+697	8A_C0697		Ammonium chloride	NH4Cl	0.1 M	Sodium Acetate	0.1 M	5	PEG 1000	20% (w/v)			10
+698	8A_C0698		Ammonium chloride	NH4Cl	0.1 M	TAPS	0.1 M	9	PEG 1000	20% (w/v)			10
+699	8A_C0699		Ammonium chloride	NH4Cl	0.1 M	Tris	0.1 M	8	PEG 1000	20% (w/v)			10
+700	8A_C0700		Ammonium nitrate	NH4NO3	0.1 M	HEPES	0.1 M	7.5	PEG 1000	20% (w/v)			90
+701	8A_C0701		Ammonium nitrate	NH4NO3	0.1 M	Sodium Acetate	0.1 M	5	PEG 1000	20% (w/v)			10
+702	8A_C0702		Ammonium nitrate	NH4NO3	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 1000	20% (w/v)			90
+703	8A_C0703		Ammonium phosphate-monobasic	NH4H2PO4	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 1000	20% (w/v)			10
+704	8A_C0704		Ammonium phosphate-monobasic	NH4H2PO4	0.1 M	MES	0.1 M	6	PEG 1000	20% (w/v)			10
+705	8A_C0705		Ammonium phosphate-dibasic	(NH4)2HPO4	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 1000	20% (w/v)			90
+706	8A_C0706		Ammonium phosphate-dibasic	(NH4)2HPO4	0.1 M	TAPS	0.1 M	9	PEG 1000	20% (w/v)			90
+707	8A_C0707		Ammonium sulfate	(NH4)2SO4	0.1 M	MES	0.1 M	6	PEG 1000	20% (w/v)			10
+708	8A_C0708		Ammonium sulfate	(NH4)2SO4	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 1000	20% (w/v)			10
+709	8A_C0709		Calcium chloride dihydrate	CaCl2*2H2O	0.1 M	Sodium Acetate	0.1 M	5	PEG 1000	20% (w/v)			10
+710	8A_C0710		Lithium bromide	LiBr	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 1000	20% (w/v)			10
+711	8A_C0711		Lithium chloride	LiCl	0.1 M	Tris	0.1 M	8	PEG 1000	20% (w/v)			10
+712	8A_C0712		Lithium chloride	LiCl	0.1 M	MES	0.1 M	6	PEG 1000	20% (w/v)			5
+713	8A_C0713		Magnesium chloride hexahydrate	MgCl2*6H2O	0.1 M	TAPS	0.1 M	9	PEG 1000	20% (w/v)			10
+714	8A_C0714		Magnesium chloride hexahydrate	MgCl2*6H2O	0.1 M	Tris	0.1 M	8	PEG 1000	20% (w/v)			10
+715	8A_C0715		Magnesium chloride hexahydrate	MgCl2*6H2O	0.1 M	MES	0.1 M	6	PEG 1000	20% (w/v)			50
+716	8A_C0716		Magnesium sulfate heptahydrate	MgSO4*7H2O	0.1 M	HEPES	0.1 M	7.5	PEG 1000	20% (w/v)			10
+717	8A_C0717		Magnesium sulfate heptahydrate	MgSO4*7H2O	0.1 M	TAPS	0.1 M	9	PEG 1000	20% (w/v)			50
+718	8A_C0718		Magnesium sulfate heptahydrate	MgSO4*7H2O	0.1 M	Sodium Acetate	0.1 M	5	PEG 1000	20% (w/v)			5
+719	8A_C0719		Manganese chloride	MnCl2	0.1 M	Sodium Acetate	0.1 M	5	PEG 1000	20% (w/v)			10
+720	8A_C0720		Manganese chloride	MnCl2	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 1000	20% (w/v)			90
+721	8A_C0721		Manganese chloride	MnCl2	0.1 M	MES	0.1 M	6	PEG 1000	20% (w/v)			10
+722	8A_C0722		Potassium acetate	KC2H3O2	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 1000	20% (w/v)			90
+723	8A_C0723		Potassium bromide	KBr	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 1000	20% (w/v)			90
+724	8A_C0724		Potassium carbonate	K2CO3	0.1 M	Sodium Acetate	0.1 M	5	PEG 1000	20% (w/v)			50
+725	8A_C0725		Potassium carbonate	K2CO3	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 1000	20% (w/v)			90-5
+726	8A_C0726		Potassium chloride	KCl	0.1 M	Sodium Acetate	0.1 M	5	PEG 1000	20% (w/v)			10
+727	8A_C0727		Potassium chloride	KCl	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 1000	20% (w/v)			10
+728	8A_C0728		Potassium nitrate	KNO3	0.1 M	Sodium Acetate	0.1 M	5	PEG 1000	20% (w/v)			5
+729	8A_C0729		Potassium nitrate	KNO3	0.1 M	CAPS	0.1 M	10	PEG 1000	20% (w/v)			90
+730	8A_C0730		Potassium nitrate	KNO3	0.1 M	MES	0.1 M	6	PEG 1000	20% (w/v)			5
+731	8A_C0731		Potassium phosphate-monobasic	KH2PO4	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 1000	20% (w/v)			5
+732	8A_C0732		Potassium phosphate-monobasic	KH2PO4	0.1 M	MES	0.1 M	6	PEG 1000	20% (w/v)			10
+733	8A_C0733		Potassium thiocyanate	KSCN	0.1 M	CAPS	0.1 M	10	PEG 1000	20% (w/v)			90
+734	8A_C0734		Potassium thiocyanate	KSCN	0.1 M	Tris	0.1 M	8	PEG 1000	20% (w/v)			10
+735	8A_C0735		Rubidium chloride	RbCl	0.1 M	MES	0.1 M	6	PEG 1000	20% (w/v)			10
+736	8A_C0736		Rubidium chloride	RbCl	0.1 M	TAPS	0.1 M	9	PEG 1000	20% (w/v)			10
+737	8A_C0737		Sodium bromide	NaBr	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 1000	20% (w/v)			10
+738	8A_C0738		Sodium bromide	NaBr	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 1000	20% (w/v)			90-5
+739	8A_C0739		Sodium chloride	NaCl	0.1 M	CAPS	0.1 M	10	PEG 1000	20% (w/v)			10
+740	8A_C0740		Sodium molybdate dihydrate	Na2MoO4*2H2O	0.1 M	TAPS	0.1 M	9	PEG 1000	20% (w/v)			90
+741	8A_C0741		Sodium molybdate dihydrate	Na2MoO4*2H2O	0.1 M	HEPES	0.1 M	7.5	PEG 1000	20% (w/v)			90
+742	8A_C0742		Sodium nitrate	NaNO3	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 1000	20% (w/v)			10
+743	8A_C0743		Sodium nitrate	NaNO3	0.1 M	Tris	0.1 M	8	PEG 1000	20% (w/v)			10
+744	8A_C0744		Sodium phosphate-monobasic	NaH2PO4*H2O	0.1 M	HEPES	0.1 M	7.5	PEG 1000	20% (w/v)			10
+745	8A_C0745		Sodium thiosulfate pentahydrate	Na2S2O3*5H2O	0.1 M	Tris	0.1 M	8	PEG 1000	20% (w/v)			50
+746	8A_C0746		Zinc acetate	Zn(C2H3O2)2	0.1 M	Sodium Acetate	0.1 M	5	PEG 1000	20% (w/v)			10
+747	8A_C0747		Potassium phosphate dibasic	K2HPO4	0.1 M	Tris	0.1 M	8	PEG 1000	20% (w/v)			10
+748	8A_C0748		Potassium phosphate dibasic	K2HPO4	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 1000	20% (w/v)			90
+749	8A_C0749		Potassium phosphate dibasic	K2HPO4	0.1 M	CAPS	0.1 M	10	PEG 1000	20% (w/v)			50
+750	8A_C0750		Cobalt sulfate heptahydrate	CoSO4*7H2O	0.1 M	Tris	0.1 M	8	PEG 1000	10% (w/v)			10
+751	8A_C0751		Cobalt sulfate heptahydrate	CoSO4*7H2O	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 1000	20% (w/v)			10
+752	8A_C0752		Cobalt sulfate heptahydrate	CoSO4*7H2O	0.1 M	MES	0.1 M	6	PEG 1000	20% (w/v)			10
+753	8A_C0753		Cobalt sulfate heptahydrate	CoSO4*7H2O	0.1 M	Sodium Acetate	0.1 M	5	PEG 1000	20% (w/v)			10
+754	8A_C0754		Lithium sulfate monohydrate	Li2SO4*H2O	0.1 M	MES	0.1 M	6	PEG 1000	20% (w/v)			10
+755	8A_C0755		Lithium sulfate monohydrate	Li2SO4*H2O	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 1000	20% (w/v)			5
+756	8A_C0756		Lithium sulfate monohydrate	Li2SO4*H2O	0.1 M	TAPS	0.1 M	9	PEG 1000	20% (w/v)			90
+757	8A_C0757		Potassium phosphate-tribasic	K3PO4	0.1 M	TAPS	0.1 M	9	PEG 1000	20% (w/v)			50
+758	8A_C0758		Potassium phosphate-tribasic	K3PO4	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 1000	20% (w/v)			50
+759	8A_C0759		Potassium phosphate-tribasic	K3PO4	0.1 M	HEPES	0.1 M	7.5	PEG 1000	20% (w/v)			90
+760	8A_C0760		Ammonium thiocyanate	NH4SCN	0.1 M	CAPS	0.1 M	10	PEG 1000	20% (w/v)			10
+761	8A_C0761		Ammonium thiocyanate	NH4SCN	0.1 M	Tris	0.1 M	8	PEG 1000	20% (w/v)			50
+762	8A_C0762		Ammonium thiocyanate	NH4SCN	0.1 M	HEPES	0.1 M	7.5	PEG 1000	20% (w/v)			50-90
+763	8A_C0763		Manganese sulfate monohydrate	MnSO4*H2O	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 1000	20% (w/v)			90
+764	8A_C0764		Manganese sulfate monohydrate	MnSO4*H2O	0.1 M	Sodium Acetate	0.1 M	5	PEG 1000	20% (w/v)			10
+765	8A_C0765		Magnesium nitrate hexahydrate	Mg(NO3)2*6H2O	0.1 M	Tris	0.1 M	8	PEG 1000	20% (w/v)			10
+766	8A_C0766		Magnesium nitrate hexahydrate	Mg(NO3)2*6H2O	0.1 M	Sodium Acetate	0.1 M	5	PEG 1000	20% (w/v)			0
+767	8A_C0767		Magnesium nitrate hexahydrate	Mg(NO3)2*6H2O	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 1000	20% (w/v)			90-5
+768	8A_C0768		Ammonium bromide	NH4Br	0.1 M	Tris	0.1 M	8	PEG 1000	40% (w/v)			50
+769	8A_C0769		Ammonium bromide	NH4Br	0.1 M	Sodium Acetate	0.1 M	5	PEG 1000	40% (w/v)			10
+770	8A_C0770		Ammonium chloride	NH4Cl	0.1 M	Tris	0.1 M	8	PEG 1000	40% (w/v)			10
+771	8A_C0771		Ammonium nitrate	NH4NO3	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 1000	40% (w/v)			10
+772	8A_C0772		Ammonium phosphate-monobasic	NH4H2PO4	0.1 M	CAPS	0.1 M	10	PEG 1000	40% (w/v)			50
+773	8A_C0773		Ammonium phosphate-monobasic	NH4H2PO4	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 1000	40% (w/v)			90
+774	8A_C0774		Ammonium phosphate-monobasic	NH4H2PO4	0.1 M	HEPES	0.1 M	7.5	PEG 1000	40% (w/v)			90
+775	8A_C0775		Ammonium phosphate-monobasic	NH4H2PO4	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 1000	40% (w/v)			50-90
+776	8A_C0776		Ammonium phosphate-dibasic	(NH4)2HPO4	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 1000	40% (w/v)			90
+777	8A_C0777		Ammonium sulfate	(NH4)2SO4	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 1000	40% (w/v)			90
+778	8A_C0778		Ammonium sulfate	(NH4)2SO4	0.1 M	CAPS	0.1 M	10	PEG 1000	40% (w/v)			50-90
+779	8A_C0779		Ammonium sulfate	(NH4)2SO4	0.1 M	Tris	0.1 M	8	PEG 1000	40% (w/v)			50
+780	8A_C0780		Calcium acetate	Ca(C2H3O2)2	0.1 M	Sodium Acetate	0.1 M	5	PEG 1000	40% (w/v)			10
+781	8A_C0781		Calcium chloride dihydrate	CaCl2*2H2O	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 1000	40% (w/v)			10
+782	8A_C0782		Lithium bromide	LiBr	0.1 M	MES	0.1 M	6	PEG 1000	40% (w/v)			10
+783	8A_C0783		Lithium bromide	LiBr	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 1000	40% (w/v)			90
+784	8A_C0784		Lithium bromide	LiBr	0.1 M	Tris	0.1 M	8	PEG 1000	40% (w/v)			10
+785	8A_C0785		Lithium bromide	LiBr	0.1 M	TAPS	0.1 M	9	PEG 1000	40% (w/v)			90
+786	8A_C0786		Lithium chloride	LiCl	0.1 M	Sodium Acetate	0.1 M	5	PEG 1000	40% (w/v)			10
+787	8A_C0787		Lithium chloride	LiCl	0.1 M	TAPS	0.1 M	9	PEG 1000	40% (w/v)			10
+788	8A_C0788		Lithium chloride	LiCl	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 1000	40% (w/v)			90
+789	8A_C0789		Lithium chloride	LiCl	0.1 M	CAPS	0.1 M	10	PEG 1000	40% (w/v)			50-90
+790	8A_C0790		Magnesium acetate	Mg(C2H3O2)2*4H2O	0.1 M	Tris	0.1 M	8	PEG 1000	40% (w/v)			10
+791	8A_C0791		Magnesium chloride hexahydrate	MgCl2*6H2O	0.1 M	TAPS	0.1 M	9	PEG 1000	40% (w/v)			10
+792	8A_C0792		Magnesium sulfate heptahydrate	MgSO4*7H2O	0.1 M	TAPS	0.1 M	9	PEG 1000	40% (w/v)			90
+793	8A_C0793		Manganese chloride	MnCl2	0.1 M	Sodium Acetate	0.1 M	5	PEG 1000	40% (w/v)			10
+794	8A_C0794		Manganese chloride	MnCl2	0.1 M	MES	0.1 M	6	PEG 1000	40% (w/v)			10
+795	8A_C0795		Potassium acetate	KC2H3O2	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 1000	40% (w/v)			10
+796	8A_C0796		Potassium acetate	KC2H3O2	0.1 M	MES	0.1 M	6	PEG 1000	40% (w/v)			10
+797	8A_C0797		Potassium bromide	KBr	0.1 M	Sodium Acetate	0.1 M	5	PEG 1000	40% (w/v)			10
+798	8A_C0798		Potassium bromide	KBr	0.1 M	Tris	0.1 M	8	PEG 1000	40% (w/v)			50
+799	8A_C0799		Potassium bromide	KBr	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 1000	40% (w/v)			90
+800	8A_C0800		Potassium carbonate	K2CO3	0.1 M	CAPS	0.1 M	10	PEG 1000	40% (w/v)			50
+801	8A_C0801		Potassium carbonate	K2CO3	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 1000	40% (w/v)			90
+802	8A_C0802		Potassium carbonate	K2CO3	0.1 M	Sodium Acetate	0.1 M	5	PEG 1000	40% (w/v)			50
+803	8A_C0803		Potassium carbonate	K2CO3	0.1 M	TAPS	0.1 M	9	PEG 1000	40% (w/v)			50
+804	8A_C0804		Potassium chloride	KCl	0.1 M	CAPS	0.1 M	10	PEG 1000	40% (w/v)			90
+805	8A_C0805		Potassium chloride	KCl	0.1 M	TAPS	0.1 M	9	PEG 1000	40% (w/v)			90
+806	8A_C0806		Potassium chloride	KCl	0.1 M	HEPES	0.1 M	7.5	PEG 1000	40% (w/v)			90
+807	8A_C0807		Potassium nitrate	KNO3	0.1 M	HEPES	0.1 M	7.5	PEG 1000	40% (w/v)			90
+808	8A_C0808		Potassium nitrate	KNO3	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 1000	40% (w/v)			90
+809	8A_C0809		Potassium phosphate-monobasic	KH2PO4	0.1 M	Tris	0.1 M	8	PEG 1000	40% (w/v)			50
+810	8A_C0810		Potassium phosphate-monobasic	KH2PO4	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 1000	40% (w/v)			90
+811	8A_C0811		Potassium thiocyanate	KSCN	0.1 M	HEPES	0.1 M	7.5	PEG 1000	40% (w/v)			10
+812	8A_C0812		Potassium thiocyanate	KSCN	0.1 M	MES	0.1 M	6	PEG 1000	40% (w/v)			10
+813	8A_C0813		Rubidium chloride	RbCl	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 1000	40% (w/v)			90
+814	8A_C0814		Rubidium chloride	RbCl	0.1 M	Tris	0.1 M	8	PEG 1000	40% (w/v)			10
+815	8A_C0815		Rubidium chloride	RbCl	0.1 M	MES	0.1 M	6	PEG 1000	40% (w/v)			10
+816	8A_C0816		Sodium bromide	NaBr	0.1 M	CAPS	0.1 M	10	PEG 1000	40% (w/v)			90
+817	8A_C0817		Sodium bromide	NaBr	0.1 M	TAPS	0.1 M	9	PEG 1000	40% (w/v)			10
+818	8A_C0818		Sodium chloride	NaCl	0.1 M	Tris	0.1 M	8	PEG 1000	40% (w/v)			10
+819	8A_C0819		Sodium chloride	NaCl	0.1 M	CAPS	0.1 M	10	PEG 1000	40% (w/v)			10
+820	8A_C0820		Sodium molybdate dihydrate	Na2MoO4*2H2O	0.1 M	HEPES	0.1 M	7.5	PEG 1000	40% (w/v)			90
+821	8A_C0821		Sodium molybdate dihydrate	Na2MoO4*2H2O	0.1 M	Tris	0.1 M	8	PEG 1000	20% (w/v)			90
+822	8A_C0822		Sodium nitrate	NaNO3	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 1000	40% (w/v)			90
+823	8A_C0823		Sodium nitrate	NaNO3	0.1 M	CAPS	0.1 M	10	PEG 1000	40% (w/v)			90
+824	8A_C0824		Sodium phosphate-monobasic	NaH2PO4*H2O	0.1 M	MES	0.1 M	6	PEG 1000	40% (w/v)			50
+825	8A_C0825		Zinc acetate	Zn(C2H3O2)2	0.1 M	Sodium Acetate	0.1 M	5	PEG 1000	40% (w/v)			10
+826	8A_C0826		Zinc acetate	Zn(C2H3O2)2	0.1 M	Tris	0.1 M	8	PEG 1000	40% (w/v)			10
+827	8A_C0827	HR Crystal Screen Cryo - 21	Magnesium acetate tetrahydrate		0.2M	Sodium Cacodylate trihydrate	0.1M	6.5	"2-Methyl-2,4-pentanediol"	30% (v/v)			10
+828	8A_C0828		Potassium phosphate dibasic	K2HPO4	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 1000	40% (w/v)			90
+829	8A_C0829		Lithium sulfate monohydrate	Li2SO4*H2O	0.1 M	Tris	0.1 M	8	PEG 1000	40% (w/v)			50
+830	8A_C0830		Lithium sulfate monohydrate	Li2SO4*H2O	0.1 M	MES	0.1 M	6	PEG 1000	40% (w/v)			50
+831	8A_C0831		Lithium sulfate monohydrate	Li2SO4*H2O	0.1 M	CAPS	0.1 M	10	PEG 1000	40% (w/v)			90
+832	8A_C0832		Potassium phosphate-tribasic	K3PO4	0.1 M	HEPES	0.1 M	7.5	PEG 1000	40% (w/v)			50
+833	8A_C0833		Potassium phosphate-tribasic	K3PO4	0.1 M	MES	0.1 M	6	PEG 1000	40% (w/v)			50
+834	8A_C0834		Ammonium thiocyanate	NH4SCN	0.1 M	TAPS	0.1 M	9	PEG 1000	40% (w/v)			10
+835	8A_C0835		Ammonium thiocyanate	NH4SCN	0.1 M	CAPS	0.1 M	10	PEG 1000	40% (w/v)			10
+836	8A_C0836		Ammonium thiocyanate	NH4SCN	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 1000	40% (w/v)			10
+837	8A_C0837		Manganese sulfate monohydrate	MnSO4*H2O	0.1 M	MES	0.1 M	6	PEG 1000	40% (w/v)			50
+838	8A_C0838		Manganese sulfate monohydrate	MnSO4*H2O	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 1000	40% (w/v)			10
+839	8A_C0839		Magnesium nitrate hexahydrate	Mg(NO3)2*6H2O	0.1 M	TAPS	0.1 M	9	PEG 1000	40% (w/v)			10
+840	8A_C0840		Ammonium bromide	NH4Br	0.1 M	Tris	0.1 M	8	PEG 400	40% (v/v)			10
+841	8A_C0841		Ammonium bromide	NH4Br	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 400	40% (v/v)			90
+842	8A_C0842		Ammonium chloride	NH4Cl	0.1 M	MES	0.1 M	6	PEG 400	40% (v/v)			10
+843	8A_C0843		Ammonium chloride	NH4Cl	0.1 M	CAPS	0.1 M	10	PEG 400	40% (v/v)			10
+844	8A_C0844		Ammonium nitrate	NH4NO3	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 400	40% (v/v)			10
+845	8A_C0845		Ammonium nitrate	NH4NO3	0.1 M	Sodium Acetate	0.1 M	5	PEG 400	40% (v/v)			10
+846	8A_C0846		Ammonium phosphate-monobasic	NH4H2PO4	0.1 M	Sodium Acetate	0.1 M	5	PEG 400	40% (v/v)			10
+847	8A_C0847		Ammonium phosphate-monobasic	NH4H2PO4	0.1 M	HEPES	0.1 M	7.5	PEG 400	40% (v/v)			10
+848	8A_C0848		Ammonium phosphate-dibasic	(NH4)2HPO4	0.1 M	Tris	0.1 M	8	PEG 400	40% (v/v)			0
+849	8A_C0849		Ammonium sulfate	(NH4)2SO4	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 400	40% (v/v)			10
+850	8A_C0850		Ammonium sulfate	(NH4)2SO4	0.1 M	HEPES	0.1 M	7.5	PEG 400	40% (v/v)			90
+851	8A_C0851		Calcium acetate	Ca(C2H3O2)2	0.1 M	Sodium Acetate	0.1 M	5	PEG 400	40% (v/v)			10
+852	8A_C0852		Calcium acetate	Ca(C2H3O2)2	0.1 M	HEPES	0.1 M	7.5	PEG 400	40% (v/v)			10
+853	8A_C0853		Calcium acetate	Ca(C2H3O2)2	0.1 M	MES	0.1 M	6	PEG 400	40% (v/v)			10
+854	8A_C0854		Calcium chloride dihydrate	CaCl2*2H2O	0.1 M	HEPES	0.1 M	7.5	PEG 400	40% (v/v)			10
+855	8A_C0855	HR Crystal Screen Cryo - 22	Sodium Acetate trihydrate		0.17M	Tris Hydrochloride	0.085M	8.5	PEG 4000	25.5% (w/v)	Glycerol Anhydrous	15% (v/v)	10
+856	8A_C0856		Lithium bromide	LiBr	0.1 M	MES	0.1 M	6	PEG 400	40% (v/v)			10
+857	8A_C0857		Lithium bromide	LiBr	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 400	40% (v/v)			90
+858	8A_C0858		Lithium bromide	LiBr	0.1 M	Tris	0.1 M	8	PEG 400	40% (v/v)			10
+859	8A_C0859		Lithium bromide	LiBr	0.1 M	TAPS	0.1 M	9	PEG 400	40% (v/v)			10
+860	8A_C0860		Lithium chloride	LiCl	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 400	40% (v/v)			10
+861	8A_C0861		Magnesium acetate	Mg(C2H3O2)2*4H2O	0.1 M	Sodium Acetate	0.1 M	5	PEG 400	40% (v/v)			10
+862	8A_C0862		Magnesium chloride hexahydrate	MgCl2*6H2O	0.1 M	MES	0.1 M	6	PEG 400	40% (v/v)			10
+863	8A_C0863		Magnesium sulfate heptahydrate	MgSO4*7H2O	0.1 M	MES	0.1 M	6	PEG 400	40% (v/v)			10
+864	8A_C0864		Magnesium sulfate heptahydrate	MgSO4*7H2O	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 400	40% (v/v)			10
+865	8A_C0865		Potassium acetate	KC2H3O2	0.1 M	CAPS	0.1 M	10	PEG 400	40% (v/v)			50
+866	8A_C0866		Potassium bromide	KBr	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 400	40% (v/v)			10
+867	8A_C0867		Potassium bromide	KBr	0.1 M	HEPES	0.1 M	7.5	PEG 400	40% (v/v)			10
+868	8A_C0868		Potassium bromide	KBr	0.1 M	MES	0.1 M	6	PEG 400	40% (v/v)			10
+869	8A_C0869		Potassium bromide	KBr	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 400	40% (v/v)			90
+870	8A_C0870		Potassium carbonate	K2CO3	0.1 M	TAPS	0.1 M	9	PEG 400	40% (v/v)			50
+871	8A_C0871		Potassium carbonate	K2CO3	0.1 M	Sodium Acetate	0.1 M	5	PEG 400	40% (v/v)			50
+872	8A_C0872		Potassium carbonate	K2CO3	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 400	40% (v/v)			50
+873	8A_C0873		Potassium chloride	KCl	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 400	40% (v/v)			90-5
+874	8A_C0874		Potassium chloride	KCl	0.1 M	MES	0.1 M	6	PEG 400	40% (v/v)			5
+875	8A_C0875		Potassium nitrate	KNO3	0.1 M	HEPES	0.1 M	7.5	PEG 400	40% (v/v)			0
+876	8A_C0876		Potassium nitrate	KNO3	0.1 M	TAPS	0.1 M	9	PEG 400	40% (v/v)			50
+877	8A_C0877		Potassium nitrate	KNO3	0.1 M	MES	0.1 M	6	PEG 400	40% (v/v)			10
+878	8A_C0878		Potassium phosphate-monobasic	KH2PO4	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 400	40% (v/v)			10
+879	8A_C0879		Potassium phosphate-monobasic	KH2PO4	0.1 M	CAPS	0.1 M	10	PEG 400	40% (v/v)			90
+880	8A_C0880	HR Crystal Screen Cryo - 26	Ammonium acetate		0.2M	Sodium Citrate tribasic dihydrate	0.1M	5.6	"2-Methyl-2,4-pentanediol"	30% (v/v)			10
+881	8A_C0881		Potassium phosphate-monobasic	KH2PO4	0.1 M	TAPS	0.1 M	9	PEG 400	40% (v/v)			90
+882	8A_C0882		Potassium thiocyanate	KSCN	0.1 M	CAPS	0.1 M	10	PEG 400	40% (v/v)			10
+883	8A_C0883		Potassium thiocyanate	KSCN	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 400	40% (v/v)			90
+884	8A_C0884		Potassium thiocyanate	KSCN	0.1 M	TAPS	0.1 M	9	PEG 400	40% (v/v)			50
+885	8A_C0885		Rubidium chloride	RbCl	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 400	40% (v/v)			90
+886	8A_C0886		Rubidium chloride	RbCl	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 400	40% (v/v)			10
+887	8A_C0887		Rubidium chloride	RbCl	0.1 M	Sodium Acetate	0.1 M	5	PEG 400	40% (v/v)			10
+888	8A_C0888		Sodium bromide	NaBr	0.1 M	Tris	0.1 M	8	PEG 400	40% (v/v)			10
+889	8A_C0889		Sodium bromide	NaBr	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 400	40% (v/v)			10
+890	8A_C0890		Sodium chloride	NaCl	0.1 M	HEPES	0.1 M	7.5	PEG 400	40% (v/v)			10
+891	8A_C0891		Sodium molybdate dihydrate	Na2MoO4*2H2O	0.1 M	Tris	0.1 M	8	PEG 400	40% (v/v)			90
+892	8A_C0892		Sodium nitrate	NaNO3	0.1 M	MES	0.1 M	6	PEG 400	40% (v/v)			10
+893	8A_C0893		Sodium nitrate	NaNO3	0.1 M	Tris	0.1 M	8	PEG 400	40% (v/v)			10
+894	8A_C0894		Sodium phosphate-monobasic	NaH2PO4*H2O	0.1 M	Sodium Acetate	0.1 M	5	PEG 400	40% (v/v)			10
+895	8A_C0895		Sodium phosphate-monobasic	NaH2PO4*H2O	0.1 M	MES	0.1 M	6	PEG 400	40% (v/v)			10
+896	8A_C0896		Sodium phosphate-monobasic	NaH2PO4*H2O	0.1 M	Tris	0.1 M	8	PEG 400	40% (v/v)			10
+897	8A_C0897		Sodium thiosulfate pentahydrate	Na2S2O3*5H2O	0.1 M	Tris	0.1 M	8	PEG 400	40% (v/v)			50-90
+898	8A_C0898		Sodium thiosulfate pentahydrate	Na2S2O3*5H2O	0.1 M	TAPS	0.1 M	9	PEG 400	40% (v/v)			90
+899	8A_C0899		Sodium thiosulfate pentahydrate	Na2S2O3*5H2O	0.1 M	CAPS	0.1 M	10	PEG 400	40% (v/v)			50-90
+900	8A_C0900		Zinc acetate	Zn(C2H3O2)2	0.1 M	Tris	0.1 M	8	PEG 400	40% (v/v)			10
+901	8A_C0901		Zinc acetate	Zn(C2H3O2)2	0.1 M	MES	0.1 M	6	PEG 400	40% (v/v)			10
+902	8A_C0902		Zinc acetate	Zn(C2H3O2)2	0.1 M	Sodium Acetate	0.1 M	5	PEG 400	40% (v/v)			10
+903	8A_C0903		Potassium phosphate dibasic	K2HPO4	0.1 M	Sodium Acetate	0.1 M	5	PEG 400	40% (v/v)			10
+904	8A_C0904		Potassium phosphate dibasic	K2HPO4	0.1 M	CAPS	0.1 M	10	PEG 400	40% (v/v)			90
+905	8A_C0905		Lithium sulfate monohydrate	Li2SO4*H2O	0.1 M	HEPES	0.1 M	7.5	PEG 400	40% (v/v)			90
+906	8A_C0906		Lithium sulfate monohydrate	Li2SO4*H2O	0.1 M	CAPS	0.1 M	10	PEG 400	40% (v/v)			50
+907	8A_C0907		Potassium phosphate-tribasic	K3PO4	0.1 M	Sodium Acetate	0.1 M	5	PEG 400	40% (v/v)			10
+908	8A_C0908		Potassium phosphate-tribasic	K3PO4	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 400	40% (v/v)			90
+909	8A_C0909		Ammonium thiocyanate	NH4SCN	0.1 M	TAPS	0.1 M	9	PEG 400	40% (v/v)			10
+910	8A_C0910		Ammonium thiocyanate	NH4SCN	0.1 M	HEPES	0.1 M	7.5	PEG 400	40% (v/v)			10
+911	8A_C0911		Ammonium thiocyanate	NH4SCN	0.1 M	Tris	0.1 M	8	PEG 400	40% (v/v)			10
+912	8A_C0912		Ammonium thiocyanate	NH4SCN	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 400	40% (v/v)			90
+913	8A_C0913		Magnesium nitrate hexahydrate	Mg(NO3)2*6H2O	0.1 M	HEPES	0.1 M	7.5	PEG 400	40% (v/v)			10
+914	8A_C0914		Magnesium nitrate hexahydrate	Mg(NO3)2*6H2O	0.1 M	TAPS	0.1 M	9	PEG 400	40% (v/v)			10
+915	8A_C0915		Ammonium bromide	NH4Br	0.1 M	Sodium Acetate	0.1 M	5	PEG 400	80% (v/v)			10
+916	8A_C0916		Ammonium bromide	NH4Br	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 400	80% (v/v)			10
+917	8A_C0917		Ammonium chloride	NH4Cl	0.1 M	Sodium Acetate	0.1 M	5	PEG 400	80% (v/v)			10
+918	8A_C0918		Ammonium chloride	NH4Cl	0.1 M	Tris	0.1 M	8	PEG 400	80% (v/v)			10
+919	8A_C0919		Ammonium nitrate	NH4NO3	0.1 M	HEPES	0.1 M	7.5	PEG 400	60% (v/v)			10
+920	8A_C0920		Ammonium phosphate-monobasic	NH4H2PO4	0.1 M	Tris	0.1 M	8	PEG 400	20% (v/v)			10
+921	8A_C0921		Ammonium phosphate-monobasic	NH4H2PO4	0.1 M	TAPS	0.1 M	9	PEG 400	20% (v/v)			50
+922	8A_C0922		Ammonium phosphate-dibasic	(NH4)2HPO4	0.1 M	Sodium Acetate	0.1 M	5	PEG 400	20% (v/v)			10
+923	8A_C0923		Ammonium phosphate-dibasic	(NH4)2HPO4	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 400	20% (v/v)			10
+924	8A_C0924		Ammonium phosphate-dibasic	(NH4)2HPO4	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 400	20% (v/v)			10
+925	8A_C0925		Ammonium phosphate-dibasic	(NH4)2HPO4	0.1 M	Tris	0.1 M	8	PEG 400	20% (v/v)			50
+926	8A_C0926		Ammonium sulfate	(NH4)2SO4	0.1 M	TAPS	0.1 M	9	PEG 400	20% (v/v)			90
+927	8A_C0927		Calcium acetate	Ca(C2H3O2)2	0.1 M	Sodium Acetate	0.1 M	5	PEG 400	20% (v/v)			10
+928	8A_C0928	HR Crystal Screen Cryo - 23	Magnesium chloride hexahydrate		0.2M	HEPES-Na	0.1M	7.5	PEG 400	30% (v/v)			10
+929	8A_C0929		Calcium chloride dihydrate	CaCl2*2H2O	0.1 M	HEPES	0.1 M	7.5	PEG 400	80% (v/v)			10
+930	8A_C0930		Lithium bromide	LiBr	0.1 M	Tris	0.1 M	8	PEG 400	80% (v/v)			10
+931	8A_C0931		Lithium bromide	LiBr	0.1 M	CAPS	0.1 M	10	PEG 400	20% (v/v)			10
+932	8A_C0932		Lithium chloride	LiCl	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 400	80% (v/v)			10
+933	8A_C0933		Magnesium acetate	Mg(C2H3O2)2*4H2O	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 400	80% (v/v)			10
+934	8A_C0934		Magnesium chloride hexahydrate	MgCl2*6H2O	0.1 M	Tris	0.1 M	8	PEG 400	80% (v/v)			10
+935	8A_C0935		Magnesium chloride hexahydrate	MgCl2*6H2O	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 400	80% (v/v)			10
+936	8A_C0936		Magnesium sulfate heptahydrate	MgSO4*7H2O	0.1 M	Sodium Acetate	0.1 M	5	PEG 400	20% (v/v)			10
+937	8A_C0937		Magnesium sulfate heptahydrate	MgSO4*7H2O	0.1 M	HEPES	0.1 M	7.5	PEG 400	20% (v/v)			5
+938	8A_C0938		Manganese chloride	MnCl2	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 400	80% (v/v)			10
+939	8A_C0939		Potassium acetate	KC2H3O2	0.1 M	TAPS	0.1 M	9	PEG 400	80% (v/v)			10
+940	8A_C0940	HR Crystal Screen Cryo - 27	Sodium citrate tribasic dihydrate		0.14M	HEPES-Na	0.07M	7.5	Iso-Propanol	14% (v/v)	Glycerol Anhydrous	30% (v/v)	5
+941	8A_C0941		Potassium acetate	KC2H3O2	0.1 M	Sodium Acetate	0.1 M	5	PEG 400	80% (v/v)			10
+942	8A_C0942		Potassium acetate	KC2H3O2	0.1 M	CAPS	0.1 M	10	PEG 400	20% (v/v)			10
+943	8A_C0943		Potassium acetate	KC2H3O2	0.1 M	MES	0.1 M	6	PEG 400	80% (v/v)			10
+944	8A_C0944		Potassium acetate	KC2H3O2	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 400	80% (v/v)			10
+945	8A_C0945		Potassium bromide	KBr	0.1 M	TAPS	0.1 M	9	PEG 400	80% (v/v)			10
+946	8A_C0946		Potassium carbonate	K2CO3	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 400	60% (v/v)			50
+947	8A_C0947		Potassium chloride	KCl	0.1 M	Tris	0.1 M	8	PEG 400	80% (v/v)			10
+948	8A_C0948		Potassium chloride	KCl	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 400	80% (v/v)			10
+949	8A_C0949		Potassium nitrate	KNO3	0.1 M	CAPS	0.1 M	10	PEG 400	20% (v/v)			50
+950	8A_C0950		Potassium nitrate	KNO3	0.1 M	Bis-Tris Propane	0.1 M	7	PEG 400	80% (v/v)			5
+951	8A_C0951		Potassium phosphate-monobasic	KH2PO4	0.1 M	Sodium Acetate	0.1 M	5	PEG 400	20% (v/v)			10
+952	8A_C0952		Potassium thiocyanate	KSCN	0.1 M	HEPES	0.1 M	7.5	PEG 400	80% (v/v)			10
+953	8A_C0953		Potassium thiocyanate	KSCN	0.1 M	CAPS	0.1 M	10	PEG 400	20% (v/v)			50-90
+954	8A_C0954		Rubidium chloride	RbCl	0.1 M	HEPES	0.1 M	7.5	PEG 400	80% (v/v)			10
+955	8A_C0955		Sodium bromide	NaBr	0.1 M	Sodium Acetate	0.1 M	5	PEG 400	80% (v/v)			10
+956	8A_C0956		Sodium bromide	NaBr	0.1 M	HEPES	0.1 M	7.5	PEG 400	80% (v/v)			10
+957	8A_C0957		Sodium chloride	NaCl	0.1 M	Sodium Acetate	0.1 M	5	PEG 400	80% (v/v)			5
+958	8A_C0958		Sodium chloride	NaCl	0.1 M	TAPS	0.1 M	9	PEG 400	80% (v/v)			60
+959	8A_C0959		Sodium chloride	NaCl	0.1 M	Sodium Citrate	0.1 M	4.2	PEG 400	60% (v/v)			90
+960	8A_C0960		Sodium molybdate dihydrate	Na2MoO4*2H2O	0.1 M	Tris	0.1 M	8	PEG 400	60% (v/v)			90
+961	8A_C0961	50% Silver Bullet (HR2-096) A1+ 50% PEG/Tacsimate pH 6.8 (HR2-092)	Silver Bullet A1			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			10
+962	8A_C0962	50% Silver Bullet (HR2-096) A2+ 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet A2			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			50-90
+963	8A_C0963	50% Silver Bullet (HR2-096) A3 + 50% PEG/Tacsimate pH 6.8 (HR2-092)	Silver Bullet A3			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			10
+964	8A_C0964	50% Silver Bullet (HR2-096) A4 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet A4			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			0
+965	8A_C0965	50% Silver Bullet (HR2-096) A5 + 50% PEG/Tacsimate pH 6.8 (HR2-092)	Silver Bullet A5			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			90
+966	8A_C0966	50% Silver Bullet (HR2-096) A6 + 50% PEG/Tacsimate pH 6.8 (HR2-092)	Silver Bullet A6			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			50
+967	8A_C0967	50% Silver Bullet (HR2-096) A7 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet A7			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			10
+968	8A_C0968	50% Silver Bullet (HR2-096) A8 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet A8			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			50
+969	8A_C0969	50% Silver Bullet (HR2-096) A9 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet A9			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			10
+970	8A_C0970	50% Silver Bullet (HR2-096) A10 + 50% PEG/Tacsimate pH 6.8 (HR2-092)	Silver Bullet A10			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			10
+971	8A_C0971	50% Silver Bullet (HR2-096) A11 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet A11			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			50
+972	8A_C0972	50% Silver Bullet (HR2-096) A12 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet A12			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			5
+973	8A_C0973	50% Silver Bullet (HR2-096) B1 + 50% PEG/Tacsimate pH 6.8 (HR2-092)	Silver Bullet B1			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			50-60
+974	8A_C0974	50% Silver Bullet (HR2-096) B2 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet B2			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			90
+975	8A_C0975	50% Silver Bullet (HR2-096) B3 + 50% PEG/Tacsimate pH 6.8 (HR2-092)	Silver Bullet B3			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			10
+976	8A_C0976	50% Silver Bullet (HR2-096) B4 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet B4			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			10
+977	8A_C0977	50% Silver Bullet (HR2-096) B5 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet B5			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			90
+978	8A_C0978	50% Silver Bullet (HR2-096) B6 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet B6			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			10
+979	8A_C0979	50% Silver Bullet (HR2-096) B7+ 50% PEG/Tacsimate pH 6.8 (HR2-092)	Silver Bullet B7			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			90
+980	8A_C0980	50% Silver Bullet (HR2-096) B8 + 50% PEG/Tacsimate pH 6.8 (HR2-092)	Silver Bullet B8			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			50
+981	8A_C0981	50% Silver Bullet (HR2-096) B9 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet B9			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			10
+982	8A_C0982	50% Silver Bullet (HR2-096) B10 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet B10			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			10
+983	8A_C0983	50% Silver Bullet (HR2-096) B11 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet B11			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			5
+984	8A_C0984	50% Silver Bullet (HR2-096) B12 + 50% PEG/Tacsimate pH 6.8 (HR2-092)	Silver Bullet B12			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			50
+985	8A_C0985	50% Silver Bullet (HR2-096) C1 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet C1			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			50
+986	8A_C0986	50% Silver Bullet (HR2-096) C2 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet C2			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			10
+987	8A_C0987	50% Silver Bullet (HR2-096) C3 + 50% PEG/Tacsimate pH 6.8 (HR2-092)	Silver Bullet C3			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			10
+988	8A_C0988	50% Silver Bullet (HR2-096) C4 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet C4			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			10
+989	8A_C0989	50% Silver Bullet (HR2-096) C5 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet C5			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			10
+990	8A_C0990	50% Silver Bullet (HR2-096) C6 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet C6			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			10
+991	8A_C0991	50% Silver Bullet (HR2-096) C7 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet C7			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			10
+992	8A_C0992	50% Silver Bullet (HR2-096) C8 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet C8			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			50
+993	8A_C0993	50% Silver Bullet (HR2-096) C9 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet C9			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			10
+994	8A_C0994	50% Silver Bullet (HR2-096) C10 + 50% PEG/Tacsimate pH 6.8 (HR2-092)	Silver Bullet C10			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			50
+995	8A_C0995	50% Silver Bullet (HR2-096) C11 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet C11			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			50
+996	8A_C0996	50% Silver Bullet (HR2-096) C12 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet C12			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			50
+997	8A_C0997	50% Silver Bullet (HR2-096) D1 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet D1			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			90
+998	8A_C0998	50% Silver Bullet (HR2-096) D2 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet D2			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			10
+999	8A_C0999	50% Silver Bullet (HR2-096) D3 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet D3			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			10
+1000	8A_C1000	50% Silver Bullet (HR2-096) D4 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet D4			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			10
+1001	8A_C1001	50% Silver Bullet (HR2-096) D5 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet D5			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			10
+1002	8A_C1002	50% Silver Bullet (HR2-096) D6 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet D6			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			10
+1003	8A_C1003	50% Silver Bullet (HR2-096)  D7 + 50% PEG/Tacsimate pH 6.8 (HR2-092)	Silver Bullet D7			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			50
+1004	8A_C1004	50% Silver Bullet (HR2-096) D8 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet D8			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			50
+1005	8A_C1005	50% Silver Bullet (HR2-096) D9 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet D9			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			10
+1006	8A_C1006	50% Silver Bullet (HR2-096) D10 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet D10			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			10
+1007	8A_C1007	50% Silver Bullet (HR2-096) D11 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet D11			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			10
+1008	8A_C1008	50% Silver Bullet (HR2-096) D12 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet D12			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			10
+1009	8A_C1009	50% Silver Bullet (HR2-096) E1 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet E1			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			50
+1010	8A_C1010	50% Silver Bullet (HR2-096) E2 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet E2			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			50-60
+1011	8A_C1011	50% Silver Bullet (HR2-096) E3 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet E3			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			10
+1012	8A_C1012	50% Silver Bullet (HR2-096) E4 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet E4			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			10
+1013	8A_C1013	50% Silver Bullet (HR2-096) E5 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet E5			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			90
+1014	8A_C1014	50% Silver Bullet (HR2-096) E6 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet E6			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			10
+1015	8A_C1015	50% Silver Bullet (HR2-096) E7 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet E7			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			50
+1016	8A_C1016	50% Silver Bullet (HR2-096) E8 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet E8			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			10
+1017	8A_C1017	50% Silver Bullet (HR2-096) E9 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet E9			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			10
+1018	8A_C1018	50% Silver Bullet (HR2-096) E10 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet E10			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			10
+1019	8A_C1019	50% Silver Bullet (HR2-096) E11 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet E11			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			10
+1020	8A_C1020	50% Silver Bullet (HR2-096) E12 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet E12			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			10
+1021	8A_C1021	50% Silver Bullet (HR2-096) F1 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet F1			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			50
+1022	8A_C1022	50% Silver Bullet (HR2-096) F2 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet F2			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			50
+1023	8A_C1023	50% Silver Bullet (HR2-096) F3 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet F3			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			10
+1024	8A_C1024	50% Silver Bullet (HR2-096) F4+ 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet F4			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			10
+1025	8A_C1025	50% Silver Bullet (HR2-096) F5 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet F5			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			5
+1026	8A_C1026	50% Silver Bullet (HR2-096) F6 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet F6			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			10
+1027	8A_C1027	50% Silver Bullet (HR2-096) F7 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet F7			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			50
+1028	8A_C1028	50% Silver Bullet (HR2-096) F8 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet F8			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			50
+1029	8A_C1029	50% Silver Bullet (HR2-096) F9 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet F9			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			10
+1030	8A_C1030	50% Silver Bullet (HR2-096) F10 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet F10			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			10
+1031	8A_C1031	50% Silver Bullet (HR2-096) F11 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet F11			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			50
+1032	8A_C1032	50% Silver Bullet (HR2-096) F12 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet F12			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			10
+1033	8A_C1033	50% Silver Bullet (HR2-096) G1 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet G1			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			50
+1034	8A_C1034	50% Silver Bullet (HR2-096) G2 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet G2			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			50
+1035	8A_C1035	50% Silver Bullet (HR2-096) G3 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet G3			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			50
+1036	8A_C1036	50% Silver Bullet (HR2-096) G4 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet G4			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			90
+1037	8A_C1037	50% Silver Bullet (HR2-096) G5 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet G5			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			50
+1038	8A_C1038	50% Silver Bullet (HR2-096) G6 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet G6			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			50
+1039	8A_C1039	50% Silver Bullet (HR2-096) G7 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet G7			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			50-90
+1040	8A_C1040	50% Silver Bullet (HR2-096) G8 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet G8			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			90
+1041	8A_C1041	50% Silver Bullet (HR2-096) G9 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet G9			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			10
+1042	8A_C1042	50% Silver Bullet (HR2-096) G10 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet G10			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			50
+1043	8A_C1043	50% Silver Bullet (HR2-096) G11 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet G11			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			90
+1044	8A_C1044	50% Silver Bullet (HR2-096) G12 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet G12			HEPES	0.05 M	6.8	PEG 3350	12.5% (w/v)			50
+1045	8A_C1045	50% Silver Bullet (HR2-096) H1 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet H1			HEPES	0.05 M	6.8	"Tacsimate, pH 7.0"	27.5% (w/v)			90
+1046	8A_C1046	50% Silver Bullet (HR2-096) H2 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet H2			HEPES	0.05 M	6.8	"Tacsimate, pH 7.0"	27.5% (w/v)			90
+1047	8A_C1047	50% Silver Bullet (HR2-096) H3 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet H3			HEPES	0.05 M	6.8	"Tacsimate, pH 7.0"	27.5% (w/v)			90-5
+1048	8A_C1048	50% Silver Bullet (HR2-096) H4 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet H4			HEPES	0.05 M	6.8	"Tacsimate, pH 7.0"	27.5% (w/v)			90
+1049	8A_C1049	50% Silver Bullet (HR2-096) H5 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet H5			HEPES	0.05 M	6.8	"Tacsimate, pH 7.0"	27.5% (w/v)			90
+1050	8A_C1050	50% Silver Bullet (HR2-096) H6 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet H6			HEPES	0.05 M	6.8	"Tacsimate, pH 7.0"	27.5% (w/v)			90
+1051	8A_C1051	50% Silver Bullet (HR2-096) H7 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet H7			HEPES	0.05 M	6.8	"Tacsimate, pH 7.0"	27.5% (w/v)			90
+1052	8A_C1052	50% Silver Bullet (HR2-096) H8 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet H8			HEPES	0.05 M	6.8	"Tacsimate, pH 7.0"	27.5% (w/v)			90
+1053	8A_C1053	50% Silver Bullet (HR2-096) H9 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet H9			HEPES	0.05 M	6.8	"Tacsimate, pH 7.0"	27.5% (w/v)			90
+1054	8A_C1054	50% Silver Bullet (HR2-096) H10 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet H10			HEPES	0.05 M	6.8	"Tacsimate, pH 7.0"	27.5% (w/v)			90
+1055	8A_C1055	50% Silver Bullet (HR2-096) H11 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet H11			HEPES	0.05 M	6.8	"Tacsimate, pH 7.0"	27.5% (w/v)			90
+1056	8A_C1056	50% Silver Bullet (HR2-096) H12 + 50% PEG/Tacsimate pH 6.8 (HR2-092) 	Silver Bullet H12			HEPES	0.05 M	6.8	"Tacsimate, pH 7.0"	27.5% (w/v)			90
+1057	8A_C1057	HR Grid Screen Salt HT-A1	Ammonium sulfate 		0.8 M	Citric acid	0.1 M	4.0					10
+1058	8A_C1058	HR Grid Screen Salt HT-A2	Ammonium sulfate 		0.8 M	Citric acid	0.1 M	5.0					10
+1059	8A_C1059	HR Grid Screen Salt HT-A3	Ammonium sulfate 		0.8 M	MES monohydrate	0.1 M	6.0					10
+1060	8A_C1060	HR Grid Screen Salt HT-A4	Ammonium sulfate 		0.8 M	HEPES	0.1 M	7.0					5
+1061	8A_C1061	HR Grid Screen Salt HT-A5	Ammonium sulfate 		0.8 M	Tris	0.1 M	8.0					10
+1062	8A_C1062	HR Grid Screen Salt HT-A6	Ammonium sulfate 		0.8 M	BICINE	0.1 M	9.0					5
+1063	8A_C1063	HR Grid Screen Salt HT-A7	Ammonium sulfate 		1.6 M	Citric acid	0.1 M	4.0					25-50
+1064	8A_C1064	HR Grid Screen Salt HT-A8	Ammonium sulfate 		1.6 M	Citric acid	0.1 M	5.0					50
+1065	8A_C1065	HR Grid Screen Salt HT-A9	Ammonium sulfate 		1.6 M	MES monohydrate	0.1 M	6.0					50
+1066	8A_C1066	HR Grid Screen Salt HT-A10	Ammonium sulfate 		1.6 M	HEPES	0.1 M	7.0					10
+1067	8A_C1067	HR Grid Screen Salt HT-A11	Ammonium sulfate 		1.6 M	Tris	0.1 M	8.0					50
+1068	8A_C1068	HR Grid Screen Salt HT-A12	Ammonium sulfate 		1.6 M	BICINE	0.1 M	9.0					50
+1069	8A_C1069	HR Grid Screen Salt HT-B1	Ammonium sulfate 		2.4 M	Citric acid	0.1 M	4.0					25-50
+1070	8A_C1070	HR Grid Screen Salt HT-B2	Ammonium sulfate 		2.4 M	Citric acid	0.1 M	5.0					50
+1071	8A_C1071	HR Grid Screen Salt HT-B3	Ammonium sulfate 		2.4 M	MES monohydrate	0.1 M	6.0					10
+1072	8A_C1072	HR Grid Screen Salt HT-B4	Ammonium sulfate 		2.4 M	HEPES	0.1 M	7.0					50
+1073	8A_C1073	HR Grid Screen Salt HT-B5	Ammonium sulfate 		2.4 M	Tris	0.1 M	8.0					50
+1074	8A_C1074	HR Grid Screen Salt HT-B6	Ammonium sulfate 		2.4 M	BICINE	0.1 M	9.0					10
+1075	8A_C1075	HR Grid Screen Salt HT-B7	Ammonium sulfate 		3.2 M	Citric acid	0.1 M	4.0					50
+1076	8A_C1076	HR Grid Screen Salt HT-B8	Ammonium sulfate 		3.2 M	Citric acid	0.1 M	5.0					0
+1077	8A_C1077	HR Grid Screen Salt HT-B9	Ammonium sulfate 		3.2 M	MES monohydrate	0.1 M	6.0					50
+1078	8A_C1078	HR Grid Screen Salt HT-B10	Ammonium sulfate 		3.2 M	HEPES	0.1 M	7.0					50
+1079	8A_C1079	HR Grid Screen Salt HT-B11	Ammonium sulfate 		3.2 M	Tris	0.1 M	8.0					50
+1080	8A_C1080	HR Grid Screen Salt HT-B12	Ammonium sulfate 		3.2 M	BICINE	0.1 M	9.0					50
+1081	8A_C1081	HR Grid Screen Salt HT-C1	Sodium malonate		1 M			4.0					90
+1082	8A_C1082	HR Grid Screen Salt HT-C2	Sodium malonate		1.5 M			4.0					90
+1083	8A_C1083	HR Grid Screen Salt HT-C3	Sodium malonate		1.9 M			4.0					90
+1084	8A_C1084	HR Grid Screen Salt HT-C4	Sodium malonate		2.4 M			4.0					90
+1085	8A_C1085	HR Grid Screen Salt HT-C5	Sodium malonate		2.9 M			4.0					90
+1086	8A_C1086	HR Grid Screen Salt HT-C6	Sodium malonate		3.4 M			4.0					90
+1087	8A_C1087	HR Grid Screen Salt HT-C7	Sodium malonate		1 M			5.0					90
+1088	8A_C1088	HR Grid Screen Salt HT-C8	Sodium malonate		1.5 M			5.0					90
+1089	8A_C1089	HR Grid Screen Salt HT-C9	Sodium malonate		1.9 M			5.0					90
+1090	8A_C1090	HR Grid Screen Salt HT-C10	Sodium malonate		2.4 M			5.0					90
+1091	8A_C1091	HR Grid Screen Salt HT-C11	Sodium malonate		2.9 M			5.0					90
+1092	8A_C1092	HR Grid Screen Salt HT-C12	Sodium malonate		3.4 M			5.0					90
+1093	8A_C1093	HR Grid Screen Salt HT-D1	Sodium malonate		1 M			6.0					90
+1094	8A_C1094	HR Grid Screen Salt HT-D2	Sodium malonate		1.5 M			6.0					90
+1095	8A_C1095	HR Grid Screen Salt HT-D3	Sodium malonate		1.9 M			6.0					90
+1096	8A_C1096	HR Grid Screen Salt HT-D4	Sodium malonate		2.4 M			6.0					50-90
+1097	8A_C1097	HR Grid Screen Salt HT-D5	Sodium malonate		2.9 M			6.0					50
+1098	8A_C1098	HR Grid Screen Salt HT-D6	Sodium malonate		3.4 M			6.0					50
+1099	8A_C1099	HR Grid Screen Salt HT-D7	Sodium malonate		1 M			7.0					90
+1100	8A_C1100	HR Grid Screen Salt HT-D8	Sodium malonate		1.5 M			7.0					90
+1101	8A_C1101	HR Grid Screen Salt HT-D9	Sodium malonate		1.9 M			7.0					50-90
+1102	8A_C1102	HR Grid Screen Salt HT-D10	Sodium malonate		2.4 M			7.0					50
+1103	8A_C1103	HR Grid Screen Salt HT-D11	Sodium malonate		2.9 M			7.0					50
+1104	8A_C1104	HR Grid Screen Salt HT-D12	Sodium malonate		3.4 M			7.0					10
+1105	8A_C1105	HR Grid Screen Salt HT-E1	Sodium phosphate monobasic monohydrate		0.784 M	Potassium phosphate dibasic	0.016 M	5.0					10
+1106	8A_C1106	HR Grid Screen Salt HT-E2	Sodium phosphate monobasic monohydrate		0.98 M	Potassium phosphate dibasic	0.02 M	5.0					10
+1107	8A_C1107	HR Grid Screen Salt HT-E3	Sodium phosphate monobasic monohydrate		1.372 M	Potassium phosphate dibasic	0.028 M	5.0					10
+1108	8A_C1108	HR Grid Screen Salt HT-E4	Sodium phosphate monobasic monohydrate		1.764 M	Potassium phosphate dibasic	0.036 M	5.0					10
+1109	8A_C1109	HR Grid Screen Salt HT-E5	Sodium phosphate monobasic monohydrate		0.72 M	Potassium phosphate dibasic	0.08 M	5.6					10
+1110	8A_C1110	HR Grid Screen Salt HT-E6	Sodium phosphate monobasic monohydrate		0.9 M	Potassium phosphate dibasic	0.1 M	5.6					10
+1111	8A_C1111	HR Grid Screen Salt HT-E7	Sodium phosphate monobasic monohydrate		1.26 M	Potassium phosphate dibasic	0.14 M	5.6					10
+1112	8A_C1112	HR Grid Screen Salt HT-E8	Sodium phosphate monobasic monohydrate		1.62 M	Potassium phosphate dibasic	0.18 M	5.6					10
+1113	8A_C1113	HR Grid Screen Salt HT-E9	Sodium phosphate monobasic monohydrate		0.52 M	Potassium phosphate dibasic	0.28 M	6.3					10
+1114	8A_C1114	HR Grid Screen Salt HT-E10	Sodium phosphate monobasic monohydrate		0.65 M	Potassium phosphate dibasic	0.35 M	6.3					10
+1115	8A_C1115	HR Grid Screen Salt HT-E11	Sodium phosphate monobasic monohydrate		0.91 M	Potassium phosphate dibasic	0.49 M	6.3					10
+1116	8A_C1116	HR Grid Screen Salt HT-E12	Sodium phosphate monobasic monohydrate		1.17 M	Potassium phosphate dibasic	0.63 M	6.3					50
+1117	8A_C1117	HR Grid Screen Salt HT-F1	Sodium phosphate monobasic monohydrate		0.28 M	Potassium phosphate dibasic	0.52 M	6.9					10
+1118	8A_C1118	HR Grid Screen Salt HT-F2	Sodium phosphate monobasic monohydrate		0.35 M	Potassium phosphate dibasic	0.65 M	6.9					5
+1119	8A_C1119	HR Grid Screen Salt HT-F3	Sodium phosphate monobasic monohydrate		0.49 M	Potassium phosphate dibasic	0.91 M	6.9					0
+1120	8A_C1120	HR Grid Screen Salt HT-F4	Sodium phosphate monobasic monohydrate		0.63 M	Potassium phosphate dibasic	1.17 M	6.9					50
+1121	8A_C1121	HR Grid Screen Salt HT-F5	Sodium phosphate monobasic monohydrate		0.12 M	Potassium phosphate dibasic	0.68 M	7.5					50
+1122	8A_C1122	HR Grid Screen Salt HT-F6	Sodium phosphate monobasic monohydrate		0.15 M	Potassium phosphate dibasic	0.85 M	7.5					50
+1123	8A_C1123	HR Grid Screen Salt HT-F7	Sodium phosphate monobasic monohydrate		0.21 M	Potassium phosphate dibasic	1.19 M	7.5					50-90
+1124	8A_C1124	HR Grid Screen Salt HT-F8	Sodium phosphate monobasic monohydrate		0.27 M	Potassium phosphate dibasic	1.53 M	7.5					50-90
+1125	8A_C1125	HR Grid Screen Salt HT-F9	Sodium phosphate monobasic monohydrate		0.032 M	Potassium phosphate dibasic	0.768 M	8.2					50
+1126	8A_C1126	HR Grid Screen Salt HT-F10	Sodium phosphate monobasic monohydrate		0.04 M	Potassium phosphate dibasic	0.96 M	8.2					25
+1127	8A_C1127	HR Grid Screen Salt HT-F11	Sodium phosphate monobasic monohydrate		0.056 M	Potassium phosphate dibasic	1.344 M	8.2					50
+1128	8A_C1128	HR Grid Screen Salt HT-F12	Sodium phosphate monobasic monohydrate		0.072 M	Potassium phosphate dibasic	1.728 M	8.2					50
+1129	8A_C1129	HR Grid Screen Salt HT-G1	Sodium chloride		1 M	Citric acid	0.1 M	4.0					90
+1130	8A_C1130	HR Grid Screen Salt HT-G2	Sodium chloride		1 M	Citric acid	0.1 M	5.0					90
+1131	8A_C1131	HR Grid Screen Salt HT-G3	Sodium chloride		1 M	MES monohydrate	0.1 M	6.0					10
+1132	8A_C1132	HR Grid Screen Salt HT-G4	Sodium chloride		1 M	HEPES	0.1 M	7.0					90
+1133	8A_C1133	HR Grid Screen Salt HT-G5	Sodium chloride		1 M	Tris	0.1 M	8.0					90
+1134	8A_C1134	HR Grid Screen Salt HT-G6	Sodium chloride		2 M	BICINE	0.1 M	9.0					50-0
+1135	8A_C1135	HR Grid Screen Salt HT-G7	Sodium chloride		2 M	Citric acid	0.1 M	4.0					90
+1136	8A_C1136	HR Grid Screen Salt HT-G8	Sodium chloride		2 M	Citric acid	0.1 M	5.0					90
+1137	8A_C1137	HR Grid Screen Salt HT-G9	Sodium chloride		2 M	MES monohydrate	0.1 M	6.0					90
+1138	8A_C1138	HR Grid Screen Salt HT-G10	Sodium chloride		2 M	HEPES	0.1 M	7.0					90
+1139	8A_C1139	HR Grid Screen Salt HT-G11	Sodium chloride		2 M	Tris	0.1 M	8.0					90
+1140	8A_C1140	HR Grid Screen Salt HT-G12	Sodium chloride		3 M	BICINE	0.1 M	9.0					90
+1141	8A_C1141	HR Grid Screen Salt HT-H1	Sodium chloride		3 M	Citric acid	0.1 M	4.0					10
+1142	8A_C1142	HR Grid Screen Salt HT-H2	Sodium chloride		3 M	Citric acid	0.1 M	5.0					90
+1143	8A_C1143	HR Grid Screen Salt HT-H3	Sodium chloride		3 M	MES monohydrate	0.1 M	6.0					90
+1144	8A_C1144	HR Grid Screen Salt HT-H4	Sodium chloride		3 M	HEPES	0.1 M	7.0					90
+1145	8A_C1145	HR Grid Screen Salt HT-H5	Sodium chloride		3 M	Tris	0.1 M	8.0					90
+1146	8A_C1146	HR Grid Screen Salt HT-H6	Sodium chloride		4 M	BICINE	0.1 M	9.0					0
+1147	8A_C1147	HR Grid Screen Salt HT-H7	Sodium chloride		4 M	Citric acid	0.1 M	4.0					50
+1148	8A_C1148	HR Grid Screen Salt HT-H8	Sodium chloride		4 M	Citric acid	0.1 M	5.0					10
+1149	8A_C1149	HR Grid Screen Salt HT-H9	Sodium chloride		4 M	MES monohydrate	0.1 M	6.0					90
+1150	8A_C1150	HR Grid Screen Salt HT-H10	Sodium chloride		4 M	HEPES	0.1 M	7.0					10
+1151	8A_C1151	HR Grid Screen Salt HT-H11	Sodium chloride		4 M	Tris	0.1 M	8.0					50
+1152	8A_C1152	HR Grid Screen Salt HT-H12	Sodium chloride		4 M	BICINE	0.1 M	9.0					50
+Well position in plate	Cocktail #	Commercial Code	Chemical Additive	Chemical Formula	Concentration	Chemical Additive	Concentration	pH	Chemical Additive	Concentration	Chemical Additive	Concentration	Chemical Additive	Concentration	Chemical Additive	Concentration
+1153	8A_C1153	HR HR PEG/Ion HT-A1	Sodium flouride		0.2 M			7.3	PEG 3350	20%(w/v)							10
+1154	8A_C1154	HR PEG/Ion HT-A2	Potassium flouride		0.2 M			7.3	PEG 3350	20%(w/v)							10
+1155	8A_C1155	HR PEG/Ion HT-A3	Ammonium flouride		0.2 M			6.2	PEG 3350	20%(w/v)							10
+1156	8A_C1156	HR PEG/Ion HT-A4	Lithium chloride		0.2 M			6.8	PEG 3350	20%(w/v)							10
+1157	8A_C1157	HR PEG/Ion HT-A5	Magnesium chloride hexahydrate		0.2 M			5.9	PEG 3350	20%(w/v)							10
+1158	8A_C1158	HR PEG/Ion HT-A6	Sodium chloride		0.2 M			6.9	PEG 3350	20%(w/v)							10
+1159	8A_C1159	HR PEG/Ion HT-A7	Calcium chloride dihydrate		0.2 M			5.1	PEG 3350	20%(w/v)							10
+1160	8A_C1160	HR PEG/Ion HT-A8	Potassium chloride		0.2 M			7	PEG 3350	20%(w/v)							10
+1161	8A_C1161	HR PEG/Ion HT-A9	Ammonium chloride		0.2 M			6.3	PEG 3350	20%(w/v)							10
+1162	8A_C1162	HR PEG/Ion HT-A10	Sodium iodide		0.2 M			7	PEG 3350	20%(w/v)							10
+1163	8A_C1163	HR PEG/Ion HT-A11	Potassium iodide		0.2 M			7	PEG 3350	20%(w/v)							10
+1164	8A_C1164	HR PEG/Ion HT-A12	Ammonium iodide		0.2 M			6.2	PEG 3350	20%(w/v)							10
+1165	8A_C1165	HR PEG/Ion HT-B1	Sodium thiocyanate		0.2 M			6.9	PEG 3350	20%(w/v)							10
+1166	8A_C1166	HR PEG/Ion HT-B2	Potassium thiocyanate		0.2 M			7	PEG 3350	20%(w/v)							10
+1167	8A_C1167	HR PEG/Ion HT-B3	Lithium nitrate		0.2 M			7.1	PEG 3350	20%(w/v)							90
+1168	8A_C1168	HR PEG/Ion HT-B4	Magnesium nitrate hexahydrate		0.2 M			5.9	PEG 3350	20%(w/v)							90
+1169	8A_C1169	HR PEG/Ion HT-B5	Sodium nitrate		0.2 M			6.8	PEG 3350	20%(w/v)							90
+1170	8A_C1170	HR PEG/Ion HT-B6	Potassium nitrate		0.2 M			6.8	PEG 3350	20%(w/v)							90
+1171	8A_C1171	HR PEG/Ion HT-B7	Ammonium nitrate		0.2 M			6.2	PEG 3350	20%(w/v)							10
+1172	8A_C1172	HR PEG/Ion HT-B8	Magnesium formate dihydrate		0.2 M			7	PEG 3350	20%(w/v)							10
+1173	8A_C1173	HR PEG/Ion HT-B9	Sodium formate		0.2 M			7.2	PEG 3350	20%(w/v)							10
+1174	8A_C1174	HR PEG/Ion HT-B10	Potassium formate		0.2 M			7.3	PEG 3350	20%(w/v)							10
+1175	8A_C1175	HR PEG/Ion HT-B11	Ammonium formate		0.2 M			6.6	PEG 3350	20%(w/v)							10
+1176	8A_C1176	HR PEG/Ion HT-B12	Lithium acetate dihydrate		0.2 M			7.9	PEG 3350	20%(w/v)							10
+1177	8A_C1177	HR PEG/Ion HT-C1	Magnesium acetate tetrahydrate		0.2 M			7.9	PEG 3350	20%(w/v)							10
+1178	8A_C1178	HR PEG/Ion HT-C2	Zinc acetate dihydrate		0.2 M			6.4	PEG 3350	20%(w/v)							10
+1179	8A_C1179	HR PEG/Ion HT-C3	Sodium acetate trihydrate		0.2 M			8	PEG 3350	20%(w/v)							10
+1180	8A_C1180	HR PEG/Ion HT-C4	Calcium acetate hydrate		0.2 M			7.5	PEG 3350	20%(w/v)							10
+1181	8A_C1181	HR PEG/Ion HT-C5	Potassium acetate		0.2 M			8.1	PEG 3350	20%(w/v)							10
+1182	8A_C1182	HR PEG/Ion HT-C6	Ammonium acetate		0.2 M			7.1	PEG 3350	20%(w/v)							10
+1183	8A_C1183	HR PEG/Ion HT-C7	Lithium sulfate monohydrate		0.2 M			6	PEG 3350	20%(w/v)							50
+1184	8A_C1184	HR PEG/Ion HT-C8	Magnesium sulfate heptahydrate		0.2 M			6	PEG 3350	20%(w/v)							50
+1185	8A_C1185	HR PEG/Ion HT-C9	Sodium sulfate decahydrate		0.2 M			6.7	PEG 3350	20%(w/v)							50
+1186	8A_C1186	HR PEG/Ion HT-C10	Potassium sulfate		0.2 M			6.8	PEG 3350	20%(w/v)							50
+1187	8A_C1187	HR PEG/Ion HT-C11	Ammonium sulfate		0.2 M			6	PEG 3350	20%(w/v)							50
+1188	8A_C1188	HR PEG/Ion HT-C12	Sodium tartrate dibasic dihydrate		0.2 M			7.3	PEG 3350	20%(w/v)							90
+1189	8A_C1189	HR PEG/Ion HT-D1	Potassium sodium tartrate tetrahydrate		0.2 M			7.4	PEG 3350	20%(w/v)							90
+1190	8A_C1190	HR PEG/Ion HT-D2	Ammonium tartrate dibasic		0.2 M			6.6	PEG 3350	20%(w/v)							90
+1191	8A_C1191	HR PEG/Ion HT-D3	Sodium phosphate monobasic monohydrate 		0.2 M			4.7	PEG 3350	20%(w/v)							10
+1192	8A_C1192	HR PEG/Ion HT-D4	Sodium phosphate dibasic dihydrate		0.2 M			9.1	PEG 3350	20%(w/v)							50
+1193	8A_C1193	HR PEG/Ion HT-D5	Potassium phosphate monobasic		0.2 M			4.8	PEG 3350	20%(w/v)							10
+1194	8A_C1194	HR PEG/Ion HT-D6	Potassium phosphate dibasic		0.2 M			9.2	PEG 3350	20%(w/v)							50
+1195	8A_C1195	HR PEG/Ion HT-D7	Ammonium phosphate monobasic		0.2 M			4.6	PEG 3350	20%(w/v)							10
+1196	8A_C1196	HR PEG/Ion HT-D8	Ammonium phosphate dibasic		0.2 M			8	PEG 3350	20%(w/v)							50
+1197	8A_C1197	HR PEG/Ion HT-D9	Lithium citrate tribasic tetrahydrate		0.2 M			8.4	PEG 3350	20%(w/v)							90
+1198	8A_C1198	HR PEG/Ion HT-D10	Sodium citrate tribasic dihydrate		0.2 M			8.3	PEG 3350	20%(w/v)							90
+1199	8A_C1199	HR PEG/Ion HT-D11	Potassium citrate tribasic monohydrate		0.2 M			8.3	PEG 3350	20%(w/v)							90
+1200	8A_C1200	HR PEG/Ion HT-D12	Ammonium citrate dibasic		0.2 M			5.1	PEG 3350	20%(w/v)							90
+1201	8A_C1201	HR PEG/Ion HT-E1	Sodium Malonate		0.1 M			4			PEG 3350	12%(w/v)					10
+1202	8A_C1202	HR PEG/Ion HT-E2	Sodium Malonate		0.2 M			4			PEG 3350	20%(w/v)					10
+1203	8A_C1203	HR PEG/Ion HT-E3	Sodium Malonate		0.1 M			5			PEG 3350	12%(w/v)					10
+1204	8A_C1204	HR PEG/Ion HT-E4	Sodium Malonate		0.2 M			5			PEG 3350	20%(w/v)					90
+1205	8A_C1205	HR PEG/Ion HT-E5	Sodium Malonate		0.1 M			6			PEG 3350	12%(w/v)					10
+1206	8A_C1206	HR PEG/Ion HT-E6	Sodium Malonate		0.2 M			6			PEG 3350	20%(w/v)					90
+1207	8A_C1207	HR PEG/Ion HT-E7	Sodium Malonate		0.1 M			7			PEG 3350	12%(w/v)					10
+1208	8A_C1208	HR PEG/Ion HT-E8	Sodium Malonate		0.2 M			7			PEG 3350	20%(w/v)					90
+1209	8A_C1209	HR PEG/Ion HT-E9	Tacsimate		4%(v/v)			4			PEG 3350	12%(w/v)					10
+1210	8A_C1210	HR PEG/Ion HT-E10	Tacsimate		8%(v/v)			4			PEG 3350	20%(w/v)					90
+1211	8A_C1211	HR PEG/Ion HT-E11	Tacsimate		4%(v/v)			5			PEG 3350	12%(w/v)					10
+1212	8A_C1212	HR PEG/Ion HT-E12	Tacsimate		8%(v/v)			5			PEG 3350	20%(w/v)					90
+1213	8A_C1213	HR PEG/Ion HT-F1	Tacsimate		4%(v/v)			6			PEG 3350	12%(w/v)					0
+1214	8A_C1214	HR PEG/Ion HT-F2	Tacsimate		8%(v/v)			6			PEG 3350	20%(w/v)					90
+1215	8A_C1215	HR PEG/Ion HT-F3	Tacsimate		4%(v/v)			7			PEG 3350	12%(w/v)					10
+1216	8A_C1216	HR PEG/Ion HT-F4	Tacsimate		8%(v/v)			7			PEG 3350	20%(w/v)					90
+1217	8A_C1217	HR PEG/Ion HT-F5	Tacsimate		4%(v/v)			8			PEG 3350	12%(w/v)					90
+1218	8A_C1218	HR PEG/Ion HT-F6	Tacsimate		8%(v/v)			8			PEG 3350	20%(w/v)					90
+1219	8A_C1219	HR PEG/Ion HT-F7	Succinic acid		0.1 M			7			PEG 3350	12%(w/v)					10
+1220	8A_C1220	HR PEG/Ion HT-F8	Succinic acid		0.2 M			7			PEG 3350	20%(w/v)					90
+1221	8A_C1221	HR PEG/Ion HT-F9	Ammonium Citrate tribasic		0.1 M			7			PEG 3350	12%(w/v)					90
+1222	8A_C1222	HR PEG/Ion HT-F10	Ammonium Citrate tribasic		0.2 M			7			PEG 3350	20%(w/v)					90
+1223	8A_C1223	HR PEG/Ion HT-F11	DL-Malic acid		0.1 M			7			PEG 3350	12%(w/v)					10
+1224	8A_C1224	HR PEG/Ion HT-F12	DL-Malic acid		0.2 M			7			PEG 3350	20%(w/v)					50-90
+1225	8A_C1225	HR PEG/Ion HT-G1	Sodium Acetate trihydrate		0.1 M			7			PEG 3350	12%(w/v)					10
+1226	8A_C1226	HR PEG/Ion HT-G2	Sodium Acetate trihydrate		0.2 M			7			PEG 3350	20%(w/v)					10
+1227	8A_C1227	HR PEG/Ion HT-G3	Sodium Formate		0.1 M			7			PEG 3350	12%(w/v)					10
+1228	8A_C1228	HR PEG/Ion HT-G4	Sodium Formate		0.2 M			7			PEG 3350	20%(w/v)					10
+1229	8A_C1229	HR PEG/Ion HT-G5	Ammonium tartrate dibasic		0.1 M			7			PEG 3350	12%(w/v)					10
+1230	8A_C1230	HR PEG/Ion HT-G6	Ammonium tartrate dibasic		0.2 M			7			PEG 3350	20%(w/v)					90
+1231	8A_C1231	HR PEG/Ion HT-G7	"Tacsimate, pH 4.0"		2%(v/v)	Sodium Acetate trihydrate 	0.1 M	4.6			PEG 3350	16%(w/v)					10
+1232	8A_C1232	HR PEG/Ion HT-G8	"Tacsimate, pH 5.0"		2%(v/v)	Sodium citrate tribasic dihydrate 	0.1 M	5.6			PEG 3350	16%(w/v)					90
+1233	8A_C1233	HR PEG/Ion HT-G9	"Tacsimate, pH 6.0"		2%(v/v)	BIS-TRIS 	0.1 M	6.5			PEG 3350	20%(w/v)					10
+1234	8A_C1234	HR PEG/Ion HT-G10	"Tacsimate, pH 7.0"		2%(v/v)	Hepes 	0.1 M	7.5			PEG 3350	20%(w/v)					50
+1235	8A_C1235	HR PEG/Ion HT-G11	"Tacsimate, pH 8.0"		2%(v/v)	Tris 	0.1 M	8.5			PEG 3350	16%(w/v)					50
+1236	8A_C1236	HR PEG/Ion HT-G12	Bis-Tris Propane 		0.03 M	Citric acid	0.07 M	3.4			PEG 3350	16%(w/v)					0
+1237	8A_C1237	HR PEG/Ion HT-H1	Bis-Tris Propane 		0.04 M	Citric acid	0.06 M	4.1			PEG 3350	16%(w/v)					10
+1238	8A_C1238	HR PEG/Ion HT-H2	Bis-Tris Propane 		0.05 M	Citric acid	0.05 M	5			PEG 3350	16%(w/v)					10
+1239	8A_C1239	HR PEG/Ion HT-H3	Bis-Tris Propane 		0.06 M	Citric acid	0.04 M	6.4			PEG 3350	20%(w/v)					90
+1240	8A_C1240	HR PEG/Ion HT-H4	Bis-Tris Propane 		0.07 M	Citric acid	0.03 M	7.6			PEG 3350	20%(w/v)					50
+1241	8A_C1241	HR PEG/Ion HT-H5	Bis-Tris Propane 		0.08 M	Citric acid	0.02 M	8.8			PEG 3350	16%(w/v)					50
+1242	8A_C1242	HR PEG/Ion HT-H6	Calcium Chloride dihydrate		0.02 M	Cadmium Chloride dihydrate	0.02 M		Cobalt(II) Chloride hexahydrate	0.02 M	PEG 3350	20%(w/v)					10
+1243	8A_C1243	HR PEG/Ion HT-H7	Iron(III) chloride hexahydrate		0.02 M	Magnesium Chloride hexahydrate	0.02 M		Nickel(II) Chloride hexahydrate	0.02 M	PEG 3350	20%(w/v)					10
+1244	8A_C1244	HR PEG/Ion HT-H8	Zinc Chloride		0.02 M						PEG 3350	20%(w/v)					10
+1245	8A_C1245	HR PEG/Ion HT-H9	Cesium Chloride		0.15 M						PEG 3350	15%(w/v)					10
+1246	8A_C1246	HR PEG/Ion HT-H10	Sodium bromide		0.2 M						PEG 3350	20%(w/v)					10
+1247	8A_C1247	HR PEG/Ion HT-H11	Tryptone		1%(w/v)	HEPES sodium	0.05 M	7			PEG 3350	12%(w/v)					10
+1248	8A_C1248	HR PEG/Ion HT-H12	Tryptone		1%(w/v)	HEPES sodium	0.05 M	7			PEG 3350	20%(w/v)					90
+well position in plate	Cocktail #	Commercial Code	Chemical Additive	Chemical Formula	Concentration	Chemical Additive	Concentration	pH	Chemical Additive	Concentration	Chemical Additive	Concentration	Chemical Additive	Concentration	Chemical Additive	Concentration
+1249	8A_C1249	HR HT Screen A1	Calcium Chloride dihydrate		0.02M	Sodium Acetate trihydrate 	0.1	4.6	MPD	30% (v/v)							10
+1250	8A_C1250	HR HT Screen A2	Potassium/Sodium Tartrate tetrahydrate		0.4M												10
+1251	8A_C1251	HR HT Screen A3	Ammonium phosphate monobasic		0.4M												5
+1252	8A_C1252	HR HT Screen A4	Ammonium Sulfate		2.0M	Tris Hydrochloride         	0.1 M	8.5									50
+1253	8A_C1253	HR HT Screen A5	Sodium citrate tribasic dihydrate		0.20M	 HEPES - Na 	0.1 M	7.5	MPD	30% (v/v)							10
+1254	8A_C1254	HR HT Screen A6	Magnesium Chloride hexahydrate		0.2M	Tris Hydrochloride        	0.10 M	8.5	PEG 4000	30% (w/v)							10
+1255	8A_C1255	HR HT Screen A7	 Sodium Acetate trihydrate		1.4 M 	Sodium Cacodylate trihydrate	0.1 M 	6.5									90
+1256	8A_C1256	HR HT Screen A8	Sodium citrate tribasic dihydrate		 0.2 M	Sodium Cacodylate trihydrate	 0.1 M	6.5	  iso-Propanol	30% (v/v)							10
+1257	8A_C1257	HR HT Screen A9	 Ammonium Acetate		 0.2 M	Sodium citrate tribasic dihydrate	0.1 M 	5.6	PEG 4000	30% (w/v)							90
+1258	8A_C1258	HR HT Screen A10	 Ammonium Acetate		 0.2 M	Sodium Acetate trihydrate 	 0.1 M 	4.6	PEG 4000	30% (w/v)							10
+1259	8A_C1259	HR HT Screen A11	Ammonium phosphate monobasic		 1.0 M	Sodium citrate tribasic dihydrate	0.1 M	5.6									10
+1260	8A_C1260	HR HT Screen A12	 Magnesium Chloride hexahydrate		 0.2 M	 HEPES - Na	0.1 M	7.5	iso-Propanol	30% (v/v)							90
+1261	8A_C1261	HR HT Screen B1	Sodium citrate tribasic dihydrate		0.2 M	 Tris Hydrochloride       	0.1 M	8.5	PEG 400	30% (v/v)							90
+1262	8A_C1262	HR HT Screen B2	Calcium Chloride dihydrate		0.2 M 	 HEPES - Na 	0.10 M	7.5	PEG 400	28% (v/v)							10
+1263	8A_C1263	HR HT Screen B3	Ammonium Sulfate		0.2 M 	 Sodium Cacodylate trihydrate	 0.10 M	6.5	PEG 8000	30% (w/v)							25-50
+1264	8A_C1264	HR HT Screen B4	Lithium Sulfate monohydrate		 1.5 M 	 HEPES - Na	0.10 M	7.5									10
+1265	8A_C1265	HR HT Screen B5	Lithium Sulfate monohydrate		 0.2 M	 Tris Hydrochloride 	 0.10 M	8.5	PEG 4000	30% (w/v)							90
+1266	8A_C1266	HR HT Screen B6	 Magnesium Acetate tetrahydrate		0.2 M	 Sodium Cacodylate trihydrate	0.10 M	6.5	PEG 8000	20% (w/v)							10
+1267	8A_C1267	HR HT Screen B7	 Ammonium Acetate		0.2 M 	Tris Hydrochloride              	 0.10 M 	8.5	 iso-Propanol	30% (v/v)							10
+1268	8A_C1268	HR HT Screen B8	 Ammonium Sulfate		 0.2 M	 Sodium Acetate trihydrate 	 0.1 M	4.6	PEG 4000	25% (w/v)							25
+1269	8A_C1269	HR HT Screen B9	Magnesium Acetate tetrahydrate		 0.2 M 	 Sodium Cacodylate trihydrate	 0.1 M 	6.5	MPD	30% (v/v)							10
+1270	8A_C1270	HR HT Screen B10	 Sodium Acetate trihydrate		0.2 M 	Tris Hydrochloride         	 0.1 M 	8.5	PEG 4000	30% (w/v)							50
+1271	8A_C1271	HR HT Screen B11	Magnesium chloride hexahydrate		 0.2 M 	HEPES - Na	0.1 M 	7.5	PEG 400	30% (v/v)							5
+1272	8A_C1272	HR HT Screen B12	Calcium Chloride dihydrate		 0.2 M 	Sodium Acetate trihydrate	 0.1 M 	4.6	 iso-Propanol	20% (v/v)							10
+1273	8A_C1273	HR HT Screen C1	 Sodium Acetate trihydrate		 1.0 M	 Imidazole        	0.1 M	6.5									10
+1274	8A_C1274	HR HT Screen C2	Ammonium Acetate		0.2 M 	Sodium Citrate tribasic dihydrate 	 0.1 M	5.6	MPD	30% (v/v)							10
+1275	8A_C1275	HR HT Screen C3	Sodium Citrate tribasic dihydrate 		0.2 M	 HEPES - Na 	0.1 M	7.5	iso-Propanol	20% (v/v)							90
+1276	8A_C1276	HR HT Screen C4	Sodium Acetate trihydrate		 0.2 M 	Sodium Cacodylate trihydrate	0.1 M 	6.5	PEG 8000	30% (w/v)							50
+1277	8A_C1277	HR HT Screen C5	Potassium Sodium Tartrate tetrahydrate		0.8 M 	HEPES - Na 	0.1 M 	7.5									90
+1278	8A_C1278	HR HT Screen C6	Ammonium Sulfate		 0.2 M 				PEG 8000	30% (w/v)							50
+1279	8A_C1279	HR HT Screen C7	Ammonium Sulfate		0.2 M 				PEG 4000	30% (w/v)							25
+1280	8A_C1280	HR HT Screen C8	 Ammonium Sulfate		 2.0 M												50
+1281	8A_C1281	HR HT Screen C9	 Sodium Formate		4.0 M 												0
+1282	8A_C1282	HR HT Screen C10	 Sodium Formate		 2.0 M			4.6	Sodium Acetate trihydrate 	0.1 M 							90
+1283	8A_C1283	HR HT Screen C11	Sodium Phosphate monobasic monohydrate		0.8 M	 HEPES - Na 	 0.1 M	7.5	Potassium Phophate monobasic	0.8M							0
+1284	8A_C1284	HR HT Screen C12				 Tris Hydrochloride 	0.1 M	8.5	PEG 8000	8% (w/v)							10
+1285	8A_C1285	HR HT Screen D1				 Sodium Acetate trihydrate	 0.1 M	4.6	PEG 4000	8% (w/v)							10
+1286	8A_C1286	HR HT Screen D2	Sodium Citrate tribasic dihydrate		1.4 M	 HEPES - Na 	0.1 M	7.5									90
+1287	8A_C1287	HR HT Screen D3	 Ammonium Sulfate		 2.0M	 HEPES - Na	 0.1 M	7.5	PEG 400	2% (v/v)							25
+1288	8A_C1288	HR HT Screen D4	 iso-Propanol		 20% v/v	Sodium Citrate tribasic dihydrate 	 0.1 M	5.6	PEG 4000	20% (w/v)							90
+1289	8A_C1289	HR HT Screen D5	PEG 4000		20% w/v 	 HEPES - Na 	 0.1 M	7.5	 iso-Propanol	10% (v/v)							90
+1290	8A_C1290	HR HT Screen D6	Potassium phosphate monobasic		 0.05 M				PEG 8000	20% (w/v)							10
+1291	8A_C1291	HR HT Screen D7							PEG 1500	30% (w/v)							10
+1292	8A_C1292	HR HT Screen D8	 Magnesium Formate dihydrate		 0.2 M												10
+1293	8A_C1293	HR HT Screen D9	 Zinc Acetate dihydrate		 0.2 M	Sodium Cacodylate trihydrate	0.1 M 	6.5	PEG 8000	18% (w/v)							10
+1294	8A_C1294	HR HT Screen D10	 Calcium Acetate hydrate		0.2 M 	Sodium Cacodylate trihydrate	0.1 M 	6.5	PEG 8000	18% (w/v)							10
+1295	8A_C1295	HR HT Screen D11	 Ammonium Sulfate		2.0 M	Sodium Acetate trihydrate 	 0.1 M 	4.6									50
+1296	8A_C1296	HR HT Screen D12	 Ammonium Phosphate monobasic		2.0 M	Tris Hydrochloride	 0.1 M	8.5									50
+1297	8A_C1297	HR HT Screen E1	 Sodium chloride		 2.0 M				PEG 6000	10% (w/v)							90
+1298	8A_C1298	HR HT Screen E2	 Hexadecyltrimethylammonium Bromide		 0.01 M				Sodium Chloride	 0.5 M 	 Magnesium Chloride hexahydrate	0.01 M					10
+1299	8A_C1299	HR HT Screen E3							 Ethylene Glycol	25% (v/v)							10
+1300	8A_C1300	HR HT Screen E4							" 1,4-Dioxane"	35% (v/v)							10
+1301	8A_C1301	HR HT Screen E5	 Ammonium Sulfate		2.0M				 iso-Propanol	5% (v/v)							50
+1302	8A_C1302	HR HT Screen E6				 Imidazole 	1.0 M	7									5
+1303	8A_C1303	HR HT Screen E7	PEG 1000		10% (w/v) 				PEG 8000	10% (w/v)							10
+1304	8A_C1304	HR HT Screen E8	Sodium Chloride		1.5 M				 Ethanol	10% (v/v)							90
+1305	8A_C1305	HR HT Screen E9	Sodium Chloride		 2.0 M 	Sodium Acetate trihydrate	  0.1 M 	4.6									90
+1306	8A_C1306	HR HT Screen E10	Sodium Chloride		  0.2 M 	 Sodium Acetate trihydrate	 0.1 M 	4.6	 MPD	30% (v/v)							10
+1307	8A_C1307	HR HT Screen E11	Cobalt(II) Chloride hexahydrate		 0.01 M	Sodium Acetate trihydrate	 0.1 M	4.6	"1,6-Hexanediol"	1.0 M							10
+1308	8A_C1308	HR HT Screen E12	Cadmium Chloride hydrate		 0.1 M M	  Sodium Acetate trihydrate 	0.1 M 	4.6	PEG 400	30% (v/v)							5
+1309	8A_C1309	HR HT Screen F1	Ammonium Sulfate		 0.2 M	   Sodium Acetate trihydrate	0.1 M	4.6	PEG MME 2000	30% (w/v)							50-90
+1310	8A_C1310	HR HT Screen F2	 Potassium Sodium Tartrate tetrahydrate		 0.2 M 	Sodium Citrate tribasic dihydrate	0.1 M	5.6	 Ammonium Sulfate	 2.0 M							10
+1311	8A_C1311	HR HT Screen F3	Ammonium Sulfate		  0.5 M 	Sodium Citrate tribasic dihydrate	 0.1M	5.6	 Lithium Sulfate monohydrate	 1.0 M							50
+1312	8A_C1312	HR HT Screen F4	Sodium Chloride		  0.5 M 	Sodium Citrate tribasic dihydrate	  0.1 M	5.6	   Ethylene Imine Polymer	2% (v/v)							50-90
+1313	8A_C1313	HR HT Screen F5				Sodium Citrate tribasic dihydrate	 0.1 M	5.6	 tert-Butanol	35% (v/v)							10
+1314	8A_C1314	HR HT Screen F6	Ferric Chloride hexahydrate		 0.01 M	Sodium Citrate tribasic dihydrate	  0.1 M	5.6	Jeffamine M-600¨	10% (v/v)							90-5
+1315	8A_C1315	HR HT Screen F7	"1,6 Hexanediol"		  2.5 M	Sodium Citrate tribasic dihydrate	  0.1 M 	5.6									10
+1316	8A_C1316	HR HT Screen F8	Magnesium Sulfate heptahydrate		 1.6 M 	MES monohydrate	  0.1 M 	6.5									10
+1317	8A_C1317	HR HT Screen F9	Sodium phosphate monobasic monohydrate		  0.1 M 	MES monohydrate	  0.1 M	6.5	 Sodium Chloride	 2.0 M 	Potassium Phosphate monobasic	0.1 M 					90
+1318	8A_C1318	HR HT Screen F10				MES monohydrate	 0.1 M	6.5	PEG 20000	12% (w/v)							10
+1319	8A_C1319	HR HT Screen F11	  Ammonium Sulfate		1.6 M 	MES monohydrate	 0.1 M	6.5	"1,4-Dioxane"	10% (v/v)							50
+1320	8A_C1320	HR HT Screen F12	  Cesium Chloride		 0.05 M	MES monohydrate	 0.1 M	6.5	Jeffamine M-600¨	30% (v/v)							90
+1321	8A_C1321	HR HT Screen G1	 Cobalt(II) chloride hexahydrate		 0.01 M 	MES monohydrate	 0.1 M	6.5	Ammonium Sulfate	  1.8 M 							10
+1322	8A_C1322	HR HT Screen G2	 Ammonium Sulfate		  0.2 M	MES monohydrate	 0.1 M	6.5	PEG MME 5000	30% (w/v)							50
+1323	8A_C1323	HR HT Screen G3	Zinc Sulfate heptahydrate		  0.01 M 	MES monohydrate	 0.1 M 	6.5	PEG MME 550	25% (v/v)							50
+1324	8A_C1324	HR HT Screen G4				Sodium Citrate tribasic dihydrate	  1.6 M 	6.5									10
+1325	8A_C1325	HR HT Screen G5	 Ammonium Sulfate		 0.5 M 	HEPES	 0.1 M	7.5	 MPD	30% (v/v)							10
+1326	8A_C1326	HR HT Screen G6	Polyethylene Glycol 6000 		  10% w/v 	HEPES	 0.1 M	7.5	 MPD	5% (v/v)							50
+1327	8A_C1327	HR HT Screen G7				HEPES	 0.1 M	7.5	Jeffamine M-600¨	20% (v/v)							90
+1328	8A_C1328	HR HT Screen G8	Sodium Chloride		 0.1 M 	HEPES	 0.1 M	7.5	 Ammonium Sulfate	 1.6 M							10
+1329	8A_C1329	HR HT Screen G9	 Ammonium Formate		  2.0 M	HEPES	 0.1 M	7.5									90
+1330	8A_C1330	HR HT Screen G10	 Cadmium Sulfate hydrate		 0.05 M	HEPES	 0.1 M	7.5	Sodium Acetate trihydrate 	 1.0 M 							10
+1331	8A_C1331	HR HT Screen G11				HEPES	 0.1 M	7.5	MPD	70% (v/v)							0
+1332	8A_C1332	HR HT Screen G12	 Sodium Chloride		 4.3 M	HEPES	 0.1 M	7.5									90
+1333	8A_C1333	HR HT Screen H1	Polyethylene Glycol 8000		10% (w/v) 	HEPES	 0.1 M	7.5	 Ethylene Glycol	8% (v/v)							10
+1334	8A_C1334	HR HT Screen H2				HEPES	 0.1 M	7.5	PEG 10000	20% (w/v)							50
+1335	8A_C1335	HR HT Screen H3	 Magnesium Chloride hexahydrate		0.2M	Tris	 0.1 M	8.5	"1,6 Hexanediol"	3.4 M							5
+1336	8A_C1336	HR HT Screen H4				Tris	 0.1 M	8.5	  tert-Butanol	25% (v/v)							5
+1337	8A_C1337	HR HT Screen H5	 Nickel(ll) Chloride hexahydrate		  0 01 M	Tris	0.1M	8.5	  Lithium Sulfate monohydrate	 1.0 M							10
+1338	8A_C1338	HR HT Screen H6	 Ammonium Sulfate		 1.5 M	Tris	0.1M	8.5	   Glycerol anhydrous	12% (v/v)							50
+1339	8A_C1339	HR HT Screen H7	Ammonium phosphate monobasic		  0.2 M 	Tris	0.1M	8.5	  MPD	50% (v/v)							50
+1340	8A_C1340	HR HT Screen H8				Tris	0.1M	8.5	 Ethanol	20% (v/v)							50
+1341	8A_C1341	HR HT Screen H9	Nickel(II) Chloride hexahydrate		  0.01 M 	Tris	0.1M	8.5	PEG MME 2000	20% (w/v)							10
+1342	8A_C1342	HR HT Screen H10	 Sodium Chloride		  0.1 M 	Bicine	0.1M	9	PEG MME 550	20% (w/v)							50
+1343	8A_C1343	HR HT Screen H11	Magnesium chloride hexahydrate		2.0M	Bicine	0.1 M	9									5
+1344	8A_C1344	HR HT Screen H12	" 1,4-Dioxane"		2% v/v	 Bicine 	0.1 M	9	PEG 20000	10% (w/v)							50
+1345	8A_C1345	HR Index Screen A1	Ammonium sulfate 		2.0M	Citric acid	0.1M	3.5									50
+1346	8A_C1346	HR Index Screen A2	Ammonium sulfate 		2.0M	Sodium acetate trihydrate	0.1M	4.5									50
+1347	8A_C1347	HR Index Screen A3	Ammonium sulfate 		2.0M	BIS-TRIS	0.1M	5.5									50
+1348	8A_C1348	HR Index Screen A4	Ammonium sulfate 		2.0M	BIS-TRIS	0.1M	6.5									50
+1349	8A_C1349	HR Index Screen A5	Ammonium sulfate 		2.0M	HEPES	0.1M	7.5									50
+1350	8A_C1350	HR Index Screen A6	Ammonium sulfate 		2.0M	Tris	0.1M	8.5									25
+1351	8A_C1351	HR Index Screen A7	Sodium chloride		3.0M	Citric acid	0.1M	3.5									50
+1352	8A_C1352	HR Index Screen A8	Sodium chloride		3.0M	Sodium Acetate trihydrate	0.1M	4.5									50
+1353	8A_C1353	HR Index Screen A9	Sodium chloride		3.0M	BIS-TRIS	0.1M	5.5									0
+1354	8A_C1354	HR Index Screen A10	Sodium chloride		3.0M	BIS-TRIS	0.1M	6.5									90
+1355	8A_C1355	HR Index Screen A11	Sodium chloride		3.0M	HEPES	0.1M	7.5									90
+1356	8A_C1356	HR Index Screen A12	Sodium chloride		3.0M	Tris	0.1M	8.5									50-90
+1357	8A_C1357	HR Index Screen B1	magnesium formate dihydrate		0.3M	BIS-TRIS	0.1M	5.5									90-5
+1358	8A_C1358	HR Index Screen B2	magnesium formate dihydrate		0.5M	BIS-TRIS	0.1M	6.5									10
+1359	8A_C1359	HR Index Screen B3	magnesium formate dihydrate		0.5M	HEPES	0.1M	7.5									90
+1360	8A_C1360	HR Index Screen B4	magnesium formate dihydrate		0.3M	Tris	0.1M	8.5									10
+1361	8A_C1361	HR Index Screen B5	Sodium phosphate monobasic monohydrate		1.26M			5.6	Potassium phosphate dibasic	0.14M							50
+1362	8A_C1362	HR Index Screen B6	Sodium phosphate monobasic monohydrate		0.49M			6.9	Potassium phosphate dibasic	0.91M							50
+1363	8A_C1363	HR Index Screen B7	Sodium phosphate monobasic monohydrate		0.056M			8.2	Potassium phosphate dibasic	1.344M							50
+1364	8A_C1364	HR Index Screen B8	Sodium Citrate tribasic dihydrate		1.4M	HEPES	0.1M	7.5									90
+1365	8A_C1365	HR Index Screen B9	Ammonium Citrate tribasic		1.8M			7									50
+1366	8A_C1366	HR Index Screen B10	Succinic acid 		0.8M			7									90-5
+1367	8A_C1367	HR Index Screen B11	DL-malic acid		2.1M			7									50-90
+1368	8A_C1368	HR Index Screen B12	Sodium acetate trihydrate		2.8M			7									90
+1369	8A_C1369	HR Index Screen C1	Sodium formate 		3.5M			7									90
+1370	8A_C1370	HR Index Screen C2	Ammonium tartrate dibasic		1.1M			7									10
+1371	8A_C1371	HR Index Screen C3	Sodium malonate 		2.4M			7									50
+1372	8A_C1372	HR Index Screen C4	Tacsimate 		35%(v/v)			7									90
+1373	8A_C1373	HR Index Screen C5	Tacsimate 		60%(v/v)			7									90
+1374	8A_C1374	HR Index Screen C6	Sodium chloride		0.1M	BIS-TRIS	0.1M	6.5	Ammonium sulfate 	1.5M							50
+1375	8A_C1375	HR Index Screen C7	Potassium Sodium Tartrate tetrahydrate		0.8M	Tris	0.1M	8.5	PEG MME 5000	0.5%(w/v)							90
+1376	8A_C1376	HR Index Screen C8	Ammonium sulfate 		1.0M	BIS-TRIS	0.1M	5.5	PEG 3350	1%(w/v)							10
+1377	8A_C1377	HR Index Screen C9	Sodium malonate pH 7.0		1.1M	HEPES	0.1M	7	jeffamine ED-2001 reagent pH 7.0	0.5%(v/v)							90
+1378	8A_C1378	HR Index Screen C10	Succinic acid pH 7.0		1.0M	HEPES	0.1M	7	PEG MME 2000	1%(w/v)							90
+1379	8A_C1379	HR Index Screen C11	Ammonium sulfate 		1.0M	HEPES	0.1M	7	PEG 8000	0.5%(w/v)							5
+1380	8A_C1380	HR Index Screen C12	Tacsimate pH 7.0		15%(w/v)	HEPES	0.1M	7	PEG 3350	2%(w/v)							90
+1381	8A_C1381	HR Index Screen D1							PEG 1500	25%(w/v)							5
+1382	8A_C1382	HR Index Screen D2				HEPES	0.1M	7	Jeffamine M-600 reagent pH 7.0	30%(v/v)							90
+1383	8A_C1383	HR Index Screen D3				HEPES	0.1M	7	Jeffamine ED-2001 reagent pH 7.0	30%(v/v)							90-5
+1384	8A_C1384	HR Index Screen D4				Citric acid	0.1M	3.5	PEG 3350	25%(w/v)							90
+1385	8A_C1385	HR Index Screen D5				Sodium acetate trihydrate	0.1M	4.5	PEG 3350	25%(w/v)							10
+1386	8A_C1386	HR Index Screen D6				BIS-TRIS	0.1M	5.5	PEG 3350	25%(w/v)							10
+1387	8A_C1387	HR Index Screen D7				BIS-TRIS	0.1M	6.5	PEG 3350	25%(w/v)							10
+1388	8A_C1388	HR Index Screen D8				HEPES	0.1M	7.5	PEG 3350	25%(w/v)							10
+1389	8A_C1389	HR Index Screen D9				Tris	0.1M	8.5	PEG 3350	25%(w/v)							50
+1390	8A_C1390	HR Index Screen D10				BIS-TRIS	0.1M	6.5	PEG MME 5000	20%(w/v)							10
+1391	8A_C1391	HR Index Screen D11				BIS-TRIS	0.1M	6.5	PEG MME 2000	28%(w/v)							10
+1392	8A_C1392	HR Index Screen D12	Calcium chloride dihydrate		0.2M	BIS-TRIS	0.1M	5.5	MPD	45%(v/v)							10
+1393	8A_C1393	HR Index Screen E1	Calcium chloride dihydrate		0.2M	BIS-TRIS	0.1M	6.5	MPD	45%(v/v)							10
+1394	8A_C1394	HR Index Screen E2	Ammonium acetate		0.2M	BIS-TRIS	0.1M	5.5	MPD	45%(v/v)							5
+1395	8A_C1395	HR Index Screen E3	Ammonium acetate		0.2M	BIS-TRIS	0.1M	6.5	MPD	45%(v/v)							5
+1396	8A_C1396	HR Index Screen E4	Ammonium acetate		0.2M	HEPES	0.1M	7.5	MPD	45%(v/v)							10
+1397	8A_C1397	HR Index Screen E5	Ammonium acetate		0.2M	Tris	0.1M	8.5	MPD	45%(v/v)							10
+1398	8A_C1398	HR Index Screen E6	Calcium chloride dihydrate		0.05M	BIS-TRIS	0.1M	6.5	PEG MME 550	30%(v/v)							10
+1399	8A_C1399	HR Index Screen E7	Magnesium chloride hexahydrate		0.05M	HEPES	0.1M	7.5	PEG MME 550	30%(v/v)							10
+1400	8A_C1400	HR Index Screen E8	Potassium chloride		0.2M	HEPES	0.05M	7.5	Pentaerythritol propoxylate (5/4 PO/OH)	30%(v/v)							10
+1401	8A_C1401	HR Index Screen E9	Ammonium sulfate 		0.05M	BIS-TRIS	0.1M	6.5	Pentaerythritol ethoxylate (15/4 EO/OH)	30%(v/v)							10
+1402	8A_C1402	HR Index Screen E10				BIS-TRIS	0.1M	6.5	polypropylene glycol P 400	45%(v/v)							50
+1403	8A_C1403	HR Index Screen E11	Magnesium chloride hexahydrate		0.02M	HEPES	0.1M	7.5	polyacrylic acid 5100 sodium salt	22%(w/v)							10
+1404	8A_C1404	HR Index Screen E12	Cobalt(II) chloride hexahydrate		0.1M	Tris	0.1M	8.5	polyvinylpyrrolidone K15	20%(w/v)							10
+1405	8A_C1405	HR Index Screen F1	L-proline		0.2M	HEPES	0.1M	7.5	PEG 3350	10%(w/v)							50
+1406	8A_C1406	HR Index Screen F2	Trimethylamine n-oxide dihydrate		0.2M	Tris	0.1M	8.5	PEG MME 2000	20%(w/v)							10
+1407	8A_C1407	HR Index Screen F3	Tacsimate pH 7.0		5%(v/v)	HEPES	0.1M	7	PEG MME 5000	10%(w/v)							90
+1408	8A_C1408	HR Index Screen F4	Cobalt(II) chloride hexahydrate		0.005M	HEPES	0.1M	7.5	Nickel(II) Chloride hexahydrate	0.005M	Cadmium chloride hexahydrate	0.005M	Magnesium chloride hexahydrate	0.005M			5
+1409	8A_C1409	HR Index Screen F5	Ammonium acetate		0.10M	BIS-TRIS	0.1M	5.5	PEG 10000	17%(w/v)							10
+1410	8A_C1410	HR Index Screen F6	Ammonium sulfate 		0.20M	BIS-TRIS	0.1M	5.5	PEG 3350	25%(w/v)							90
+1411	8A_C1411	HR Index Screen F7	Ammonium sulfate 		0.20M	BIS-TRIS	0.1M	6.5	PEG 3350	25%(w/v)							90
+1412	8A_C1412	HR Index Screen F8	Ammonium sulfate 		0.20M	HEPES	0.1M	7.5	PEG 3350	25%(w/v)							90
+1413	8A_C1413	HR Index Screen F9	Ammonium sulfate 		0.20M	Tris	0.1M	8.5	PEG 3350	25%(w/v)							50-0
+1414	8A_C1414	HR Index Screen F10	Sodium chloride		0.20M	BIS-TRIS	0.1M	5.5	PEG 3350	25%(w/v)							10
+1415	8A_C1415	HR Index Screen F11	Sodium chloride		0.20M	BIS-TRIS	0.1M	6.5	PEG 3350	25%(w/v)							50
+1416	8A_C1416	HR Index Screen F12	Sodium chloride		0.20M	HEPES	0.1M	7.5	PEG 3350	25%(w/v)							90
+1417	8A_C1417	HR Index Screen G1	Sodium chloride		0.20M	Tris	0.1M	8.5	PEG 3350	25%(w/v)							50
+1418	8A_C1418	HR Index Screen G2	Lithium sulfate monohydrate		0.20M	BIS-TRIS	0.1M	5.5	PEG 3350	25%(w/v)							90
+1419	8A_C1419	HR Index Screen G3	Lithium sulfate monohydrate		0.20M	BIS-TRIS	0.1M	6.5	PEG 3350	25%(w/v)							90
+1420	8A_C1420	HR Index Screen G4	Lithium sulfate monohydrate		0.20M	HEPES	0.1M	7.5	PEG 3350	25%(w/v)							90
+1421	8A_C1421	HR Index Screen G5	Lithium sulfate monohydrate		0.20M	Tris	0.1M	8.5	PEG 3350	25%(w/v)							50-90
+1422	8A_C1422	HR Index Screen G6	Ammonium acetate		0.20M	BIS-TRIS	0.1M	5.5	PEG 3350	25%(w/v)							10
+1423	8A_C1423	HR Index Screen G7	Ammonium acetate		0.20M	BIS-TRIS	0.1M	6.5	PEG 3350	25%(w/v)							10
+1424	8A_C1424	HR Index Screen G8	Ammonium acetate		0.20M	HEPES	0.1M	7.5	PEG 3350	25%(w/v)							10
+1425	8A_C1425	HR Index Screen G9	Ammonium acetate		0.20M	Tris	0.1M	8.5	PEG 3350	25%(w/v)							50
+1426	8A_C1426	HR Index Screen G10	Magnesium chloride hexahydrate		0.20M	BIS-TRIS	0.1M	5.5	PEG 3350	25%(w/v)							10
+1427	8A_C1427	HR Index Screen G11	Magnesium chloride hexahydrate		0.20M	BIS-TRIS	0.1M	6.5	PEG 3350	25%(w/v)							10
+1428	8A_C1428	HR Index Screen G12	Magnesium chloride hexahydrate		0.20M	HEPES	0.1M	7.5	PEG 3350	25%(w/v)							90
+1429	8A_C1429	HR Index Screen H1	Magnesium chloride hexahydrate		0.20M	Tris	0.1M	8.5	PEG 3350	25%(w/v)							10
+1430	8A_C1430	HR Index Screen H2	Potassium Sodium Tartrate tetrahydrate		0.20M				PEG 3350	20%(w/v)							90
+1431	8A_C1431	HR Index Screen H3	Sodium malonate 		0.20M			7	PEG 3350	20%(w/v)							90
+1432	8A_C1432	HR Index Screen H4	Ammonium citrate  tribasic		0.20M			7	PEG 3350	20%(w/v)							90
+1433	8A_C1433	HR Index Screen H5	Succinic acid		0.10M			7	PEG 3350	15%(w/v)							10
+1434	8A_C1434	HR Index Screen H6	Sodium formate		0.20M				PEG 3350	20%(w/v)							10
+1435	8A_C1435	HR Index Screen H7	DL-malic acid		0.15M			7	PEG 3350	20%(w/v)							90
+1436	8A_C1436	HR Index Screen H8	Magnesium formate dihydrate		0.10M				PEG 3350	15%(w/v)							10
+1437	8A_C1437	HR Index Screen H9	Zinc acetate dihydrate		0.05M				PEG 3350	20%(w/v)							5
+1438	8A_C1438	HR Index Screen H10	Sodium Citrate tribasic dihydrate		0.20M				PEG 3350	20%(w/v)							90
+1439	8A_C1439	HR Index Screen H11	Potassium thiocyanate		0.10M				PEG MME 2000	30%(w/v)							10
+1440	8A_C1440	HR Index Screen H12	Potassium bromide		0.15M				PEG MME 2000	30%(w/v)							10
+1441	8A_C1441	HR SaltRx Screen A1	Sodium acetate pH 7.0		1.8M	Bis-Tris Propane	0.1M	7									90
+1442	8A_C1442	HR SaltRx Screen A2	Sodium acetate pH 7.0		2.8M	Bis-Tris Propane	0.1M	7									50
+1443	8A_C1443	HR SaltRx Screen A3	Ammonium Chloride		1.5M	Sodium Acetate	0.1M	4.6									90
+1444	8A_C1444	HR SaltRx Screen A4	Ammonium Chloride		1.5M	Bis-Tris Propane	0.1M	7									90-5
+1445	8A_C1445	HR SaltRx Screen A5	Ammonium Chloride		1.5M	Tris	0.1M	8.5									90
+1446	8A_C1446	HR SaltRx Screen A6	Ammonium Chloride		3.5M	Sodium Acetate	0.1M	4.6									50-90
+1447	8A_C1447	HR SaltRx Screen A7	Ammonium Chloride		3.5M	Bis-Tris Propane	0.1M	7									10
+1448	8A_C1448	HR SaltRx Screen A8	Ammonium Chloride		3.5M	Tris	0.1M	8.5									90-5
+1449	8A_C1449	HR SaltRx Screen A9	Sodium Chloride		2.2M	Sodium Acetate	0.1M	4.6									50
+1450	8A_C1450	HR SaltRx Screen A10	Sodium Chloride		2.2M	Bis-Tris Propane	0.1M	7									90
+1451	8A_C1451	HR SaltRx Screen A11	Sodium Chloride		2.2M	Tris	0.1M	8.5									90
+1452	8A_C1452	HR SaltRx Screen A12	Sodium Chloride		3.2M	Sodium Acetate	0.1M	4.6									50
+1453	8A_C1453	HR SaltRx Screen B1	Sodium Chloride		3.2M	Bis-Tris Propane	0.1M	7									90
+1454	8A_C1454	HR SaltRx Screen B2	Sodium Chloride		3.2M	Tris	0.1M	8.5									90
+1455	8A_C1455	HR SaltRx Screen B3	di-Ammonium hydrogen citrate		1.0M	Sodium Acetate	0.1M	4.6									90
+1456	8A_C1456	HR SaltRx Screen B4	di-Ammonium hydrogen citrate		1.8M	Sodium Acetate	0.1M	4.6									90
+1457	8A_C1457	HR SaltRx Screen B5	tri-Ammonium citrate pH 7.0		1.0M	Bis-Tris Propane	0.1M	7									10
+1458	8A_C1458	HR SaltRx Screen B6	tri-Ammonium citrate pH 7.1		2.0M	Bis-Tris Propane	0.1M	7									50
+1459	8A_C1459	HR SaltRx Screen B7	Sodium Citrate tribasic dihydrate		0.7M	Bis-Tris Propane	0.1M	7									90
+1460	8A_C1460	HR SaltRx Screen B8	Sodium Citrate tribasic dihydrate		0.7M	Tris	0.1M	8.5									10
+1461	8A_C1461	HR SaltRx Screen B9	Sodium Citrate tribasic dihydrate		1.2M	Bis-Tris Propane	0.1M	7									10
+1462	8A_C1462	HR SaltRx Screen B10	Sodium Citrate tribasic dihydrate		1.2M	Tris	0.1M	8.5									50-90
+1463	8A_C1463	HR SaltRx Screen B11	Magnesium Formate		0.4M	Sodium Acetate	0.1M	4.6									10
+1464	8A_C1464	HR SaltRx Screen B12	Magnesium Formate		0.4M	Bis-Tris Propane	0.1M	7									90-5
+1465	8A_C1465	HR SaltRx Screen C1	Magnesium Formate		0.4M	Tris	0.1M	8.5									10
+1466	8A_C1466	HR SaltRx Screen C2	Magnesium Formate		0.7M	Bis-Tris Propane	0.1M	7									90
+1467	8A_C1467	HR SaltRx Screen C3	Sodium Formate		2.0M	Sodium Acetate	0.1M	4.6									90
+1468	8A_C1468	HR SaltRx Screen C4	Sodium Formate		2.0M	Bis-Tris Propane	0.1M	7									90
+1469	8A_C1469	HR SaltRx Screen C5	Sodium Formate		2.0M	Tris	0.1M	8.5									90
+1470	8A_C1470	HR SaltRx Screen C6	Sodium Formate		3.5M	Sodium Acetate	0.1M	4.6									90
+1471	8A_C1471	HR SaltRx Screen C7	Sodium Formate		3.5M	Bis-Tris Propane	0.1M	7									90
+1472	8A_C1472	HR SaltRx Screen C8	Sodium Formate		3.5M	Tris	0.1M	8.5									60-90
+1473	8A_C1473	HR SaltRx Screen C9	DL-malic acid pH 7.0		1.2M	Bis-Tris Propane	0.1M	7									90
+1474	8A_C1474	HR SaltRx Screen C10	DL-malic acid pH 7.0		2.2M	Bis-Tris Propane	0.1M	7									50
+1475	8A_C1475	HR SaltRx Screen C11	Sodium Malonate pH 7.0		1.4M	Bis-Tris Propane	0.1M	7									90
+1476	8A_C1476	HR SaltRx Screen C12	Sodium Malonate pH 7.0		2.4M	Bis-Tris Propane	0.1M	7									50
+1477	8A_C1477	HR SaltRx Screen D1	Ammonium Nitrate		2.5M	Sodium Acetate	0.1M	4.6									50
+1478	8A_C1478	HR SaltRx Screen D2	Ammonium Nitrate		2.5M	Bis-Tris Propane	0.1M	7									90
+1479	8A_C1479	HR SaltRx Screen D3	Ammonium Nitrate		2.5M	Tris	0.1M	8.5									90-5
+1480	8A_C1480	HR SaltRx Screen D4	Ammonium Nitrate		6.0M	Sodium Acetate	0.1M	4.6									50
+1481	8A_C1481	HR SaltRx Screen D5	Ammonium Nitrate		6.0M	Bis-Tris Propane	0.1M	7									10
+1482	8A_C1482	HR SaltRx Screen D6	Ammonium Nitrate		6.0M	Tris	0.1M	8.5									10
+1483	8A_C1483	HR SaltRx Screen D7	Sodium Nitrate		1.5M	Sodium Acetate	0.1M	4.6									90
+1484	8A_C1484	HR SaltRx Screen D8	Sodium Nitrate		1.5M	Bis-Tris Propane	0.1M	7									90-5
+1485	8A_C1485	HR SaltRx Screen D9	Sodium Nitrate		1.5M	Tris	0.1M	8.5									90
+1486	8A_C1486	HR SaltRx Screen D10	Sodium Nitrate		4.0M	Sodium Acetate	0.1M	4.6									50
+1487	8A_C1487	HR SaltRx Screen D11	Sodium Nitrate		4.0M	Bis-Tris Propane	0.1M	7									90-5
+1488	8A_C1488	HR SaltRx Screen D12	Sodium Nitrate		4.0M	Tris	0.1M	8.5									50
+1489	8A_C1489	HR SaltRx Screen E1	Ammonium dihydrogen phosphate		1.0M	Sodium Acetate	0.1M	4.6									10
+1490	8A_C1490	HR SaltRx Screen E2	Ammonium dihydrogen phosphate		1.8M	Sodium Acetate	0.1M	4.6									10
+1491	8A_C1491	HR SaltRx Screen E3	Ammonium phosphate dibasic		1.5M	Tris	0.1M	8.5									0
+1492	8A_C1492	HR SaltRx Screen E4	Ammonium phosphate dibasic		2.4M	Tris	0.1M	8.5									0
+1493	8A_C1493	HR SaltRx Screen E5	Sodium/Potassium Phosphate		1.0M			5									10
+1494	8A_C1494	HR SaltRx Screen E6	Sodium/Potassium Phosphate		1.0M			6.9									10
+1495	8A_C1495	HR SaltRx Screen E7	Sodium/Potassium Phosphate		1.0M			8.2									10
+1496	8A_C1496	HR SaltRx Screen E8	Sodium/Potassium Phosphate		1.8M			5									90
+1497	8A_C1497	HR SaltRx Screen E9	Sodium/Potassium Phosphate		1.8M			6.9									50
+1498	8A_C1498	HR SaltRx Screen E10	Sodium/Potassium Phosphate		1.8M			8.2									50
+1499	8A_C1499	HR SaltRx Screen E11	Sodium Succinate pH 7.0		0.5M	Bis-Tris Propane	0.1M	7									90
+1500	8A_C1500	HR SaltRx Screen E12	Sodium Succinate pH 7.0		1.0M	Bis-Tris Propane	0.1M	7									90-5
+1501	8A_C1501	HR SaltRx Screen F1	Ammonium Sulfate		1.5M	Sodium Acetate	0.1M	4.6									50
+1502	8A_C1502	HR SaltRx Screen F2	Ammonium Sulfate		1.5M	Bis-Tris Propane	0.1M	7									10
+1503	8A_C1503	HR SaltRx Screen F3	Ammonium Sulfate		1.5M	Tris	0.1M	8.5									10
+1504	8A_C1504	HR SaltRx Screen F4	Ammonium Sulfate		2.5M	Sodium Acetate	0.1M	4.6									50
+1505	8A_C1505	HR SaltRx Screen F5	Ammonium Sulfate		2.5M	Bis-Tris Propane	0.1M	7									25-50
+1506	8A_C1506	HR SaltRx Screen F6	Ammonium Sulfate		2.5M	Tris	0.1M	8.5									50
+1507	8A_C1507	HR SaltRx Screen F7	Lithium Sulfate monohydrate		0.8M	Sodium Acetate	0.1M	4.6									5
+1508	8A_C1508	HR SaltRx Screen F8	Lithium Sulfate monohydrate		0.8M	Bis-Tris Propane	0.1M	7									10
+1509	8A_C1509	HR SaltRx Screen F9	Lithium Sulfate monohydrate		0.8M	Tris	0.1M	8.5									10
+1510	8A_C1510	HR SaltRx Screen F10	Lithium Sulfate monohydrate		1.5M	Sodium Acetate	0.1M	4.6									5
+1511	8A_C1511	HR SaltRx Screen F11	Lithium Sulfate monohydrate		1.5M	Bis-Tris Propane	0.1M	7									10
+1512	8A_C1512	HR SaltRx Screen F12	Lithium Sulfate monohydrate		1.5M	Tris	0.1M	8.5									10
+1513	8A_C1513	HR SaltRx Screen G1	Magnesium Sulfate hydrate		1.0M	Sodium Acetate	0.1M	4.6									10
+1514	8A_C1514	HR SaltRx Screen G2	Magnesium Sulfate hydrate		1.0M	Bis-Tris Propane	0.1M	7									5
+1515	8A_C1515	HR SaltRx Screen G3	Magnesium Sulfate hydrate		1.0M	Tris	0.1M	8.5									10
+1516	8A_C1516	HR SaltRx Screen G4	Magnesium Sulfate hydrate		1.8M	Sodium Acetate	0.1M	4.6									10
+1517	8A_C1517	HR SaltRx Screen G5	Magnesium Sulfate hydrate		1.8M	Bis-Tris Propane	0.1M	7									10
+1518	8A_C1518	HR SaltRx Screen G6	Magnesium Sulfate hydrate		1.8M	Tris	0.1M	8.5									5
+1519	8A_C1519	HR SaltRx Screen G7	di-Ammonium Tartrate		0.7M	Sodium Acetate	0.1M	4.6									10
+1520	8A_C1520	HR SaltRx Screen G8	di-Ammonium Tartrate		0.7M	Bis-Tris Propane	0.1M	7									10
+1521	8A_C1521	HR SaltRx Screen G9	di-Ammonium Tartrate		0.7M	Tris	0.1M	8.5									10
+1522	8A_C1522	HR SaltRx Screen G10	di-Ammonium Tartrate		1.2M	Sodium Acetate	0.1M	4.6									10
+1523	8A_C1523	HR SaltRx Screen G11	di-Ammonium Tartrate		1.3M	Bis-Tris Propane	0.1M	7									10
+1524	8A_C1524	HR SaltRx Screen G12	di-Ammonium Tartrate		1.4M	Tris	0.1M	8.5									0
+1525	8A_C1525	HR SaltRx Screen H1	Potassium Sodium Tartrate tetrahydrate		0.6M	Bis-Tris Propane	0.1M	7									5
+1526	8A_C1526	HR SaltRx Screen H2	Potassium Sodium Tartrate tetrahydrate		1.2M	Bis-Tris Propane	0.1M	7									90
+1527	8A_C1527	HR SaltRx Screen H3	Potassium Sodium Tartrate tetrahydrate		0.6M	Tris	0.1M	8.5									10
+1528	8A_C1528	HR SaltRx Screen H4	Potassium Sodium Tartrate tetrahydrate		1.2M	Tris	0.1M	8.5									90
+1529	8A_C1529	HR SaltRx Screen H5	Potassium Thiocyanate		0.5M	Sodium Acetate	0.1M	4.6									90
+1530	8A_C1530	HR SaltRx Screen H6	Potassium Thiocyanate		0.5M	Bis-Tris Propane	0.1M	7									50
+1531	8A_C1531	HR SaltRx Screen H7	Potassium Thiocyanate		0.5M	Tris	0.1M	8.5									50
+1532	8A_C1532	HR SaltRx Screen H8	Ammonium Acetate		4.0M	Sodium Acetate	0.1M	4.6									90
+1533	8A_C1533	HR SaltRx Screen H9	Ammonium Acetate		4.0M	Bis-Tris Propane	0.1M	7									90
+1534	8A_C1534	HR SaltRx Screen H10	Ammonium Acetate		4.0M	Tris	0.1M	8.5									90
+1535	8A_C1535	HR SaltRx Screen H11	Tacsimate		35%(v/v)	Bis-Tris Propane	0.1M	7									90
+1536	8A_C1536	HR SaltRx Screen H12	Tacsimate		60%(v/v)	Bis-Tris Propane	0.1M	7									10

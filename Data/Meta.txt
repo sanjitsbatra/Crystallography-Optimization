@@ -1,0 +1,34 @@
+1) We remove all those conditions which have non-uniform number of additives.
+2) We use the Hamb formula to convert concentrations from w/v or v/v into molarity.
+3) What we say is that if we created a new feature for every kind of ion and additive, then the number of features turns out to be 
+around 60. This would mean that we would need atleast Order(60) experiments to deal with the data. So, instead we denote the ionic 	additive by
+the charge, and to distinguish between salts with same charge, add features like ionic strength. So, we find such a feature for BIS-TRIS etc also,
+which distinguishes (or maybe we have features for each BIS-TRIS).
+
+Feature selection -> D >> N;  and we borrow from HAMB, that instead of doing autosherlock, we use charge and ionic strength
+
+
+We can apply feature selection to show that the order of importance of features makes sense, in the toy problems.
+
+4) We construct random "non-high scoring" samples, and an oracle which learns samples from the neighbourhood of each of the samples, with 
+sufficient accuracy, while at the same time, preventing overfitting(HOW?)
+
+
+
+
+Today:
+Create 5X10 problems and their oracles. Each of size 30, and 100 respectively.
+
+
+Hamb & Hennessy: 
+
+Additional information is built into crystallization data to provide chemical significance to the list of additives used for a 
+crystallization experiment. 
+
+Generally, earlier 50-100 experiments are started simultaneously, in a low-throughput scenario.
+
+
+We use henessey + hamb's approach
+
+data-subsetting : Removing those samples where the number of additives is not the standard. 
+The remaining still has 20% 90's showing that we have retained useful conditions.
