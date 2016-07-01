@@ -1,6 +1,9 @@
 # Crystallography-Optimization
 Machine Learning based search for Optimal Crystallization Conditions
+
 Sanjit Singh Batra, Jayadeva, Munishwar Nath Gupta
+
+
 The task in crystallography, is to find a condition, which gives a clear crystal. The only ability that we have, is to be able to choose any random condition, and evaluate whether or not we get a crystal( or how "good" a crystal we get.)
 
 The task in reinforcement learning is to find a point x*, where the reward function R is maximized. And, we are armed with the ability to be able to compute R, at any random point, x, of our choice.
